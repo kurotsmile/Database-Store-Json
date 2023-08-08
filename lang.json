@@ -1,0 +1,131 @@
+{
+  "all_item": [
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688555881862_ar.png?alt=media&token=ede204fb-b33b-4637-bb2d-fa593b3c2c8a",
+      "name": "Arabic",
+      "key": "ar",
+      "id_import": "ar"
+    },
+    {
+      "key": "cs",
+      "name": "Czech",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688555903854_cs.png?alt=media&token=aec2a84f-6e3d-4dd9-8181-8191c775ad61",
+      "id_import": "cs"
+    },
+    {
+      "key": "da",
+      "name": "Danish",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688555954376_da.png?alt=media&token=d4ae2693-058c-4e99-b60a-30d5a2e6c205",
+      "id_import": "da"
+    },
+    {
+      "name": "German",
+      "key": "de",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688555981871_de.png?alt=media&token=19d1340a-c116-42d8-b9f1-8b835ffacd1a",
+      "id_import": "de"
+    },
+    {
+      "name": "English",
+      "key": "en",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556009619_en.png?alt=media&token=8e65a0d4-70da-4615-b95c-82781f050b1a",
+      "id_import": "en"
+    },
+    {
+      "name": "Spanish",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556031369_es.png?alt=media&token=31969918-04f6-45ab-8631-3a20f5f0ae78",
+      "key": "es",
+      "id_import": "es"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556059643_fi.png?alt=media&token=80979d02-cb8d-499d-8074-3f5e2e4be725",
+      "key": "fi",
+      "name": "Finnish",
+      "id_import": "fi"
+    },
+    {
+      "key": "fr",
+      "name": "French",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556086734_fr.png?alt=media&token=4831f226-cb4f-40e0-8fb0-08a5d39ea557",
+      "id_import": "fr"
+    },
+    {
+      "key": "hi",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556105876_hi.png?alt=media&token=c3c6f658-ab4d-4237-98d5-745e63e203b9",
+      "name": "Hindi",
+      "id_import": "hi"
+    },
+    {
+      "key": "id",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556123209_id.png?alt=media&token=c795631a-8978-4483-825a-2404d2992683",
+      "name": "Indonesian",
+      "id_import": "id"
+    },
+    {
+      "name": "Italian",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556142364_it.png?alt=media&token=9f4503af-bfd6-4246-bac9-b419fd669a39",
+      "key": "it",
+      "id_import": "it"
+    },
+    {
+      "name": "Japanese",
+      "key": "ja",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556163343_ja.png?alt=media&token=e4b58127-22eb-45da-92ee-8c44854f1513",
+      "id_import": "ja"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556181419_ko.png?alt=media&token=ba612642-acc7-4e66-816a-a5c2d4e11821",
+      "key": "ko",
+      "name": "Korean",
+      "id_import": "ko"
+    },
+    {
+      "name": "Dutch",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556202452_nl.png?alt=media&token=44c2f814-cea8-447f-bfc0-c04b638bb86a",
+      "key": "nl",
+      "id_import": "nl"
+    },
+    {
+      "name": "Polish",
+      "key": "pl",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556220384_pl.png?alt=media&token=cefafb5c-8d57-4f0e-b8c0-e85df10ec112",
+      "id_import": "pl"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556239721_pt.png?alt=media&token=f892434c-19b8-4a19-b7ee-eb463a8037e0",
+      "name": "Portuguese",
+      "key": "pt",
+      "id_import": "pt"
+    },
+    {
+      "name": "Russian",
+      "key": "ru",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556256996_ru.png?alt=media&token=40b83504-816e-4ee2-9228-3cbd05a88854",
+      "id_import": "ru"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556274769_th.png?alt=media&token=cf1164af-4033-4393-ba64-6eebd58cd1a6",
+      "key": "th",
+      "name": "Thai",
+      "id_import": "th"
+    },
+    {
+      "name": "Turkish",
+      "key": "tr",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556291830_tr.png?alt=media&token=ed48998c-e11b-4569-864c-6d4e0b0c5af1",
+      "id_import": "tr"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556311411_vi.png?alt=media&token=efe59568-c54c-45eb-b94e-e33a6086a88f",
+      "name": "Vietnamese",
+      "key": "vi",
+      "id_import": "vi"
+    },
+    {
+      "key": "zh",
+      "name": "Chinese",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/lang%2Fimage%2Fpng%2F1688556326207_zh.png?alt=media&token=bc367fb2-14aa-473a-ac6a-d44c1ed36e2e",
+      "id_import": "zh"
+    }
+  ],
+  "collection": "lang"
+}

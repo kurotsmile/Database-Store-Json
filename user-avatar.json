@@ -1,0 +1,125 @@
+{
+  "all_item": [
+    {
+      "id": "boy-1",
+      "type": "boy",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733747518_48e21cf9a7f6b083d3408fffad969084.jpg?alt=media&token=c6a1738f-2e59-4e98-8bf6-308afce2bcb7",
+      "id_import": "boy-1"
+    },
+    {
+      "type": "boy",
+      "id": "boy-2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733805862_f8c7bbe95afc64c8fd3199f44dbe67af.jpg?alt=media&token=cf9c991b-9c2f-4106-aad9-2d17399e9332",
+      "id_import": "boy-2"
+    },
+    {
+      "type": "boy",
+      "id": "boy-3",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733818778_72b597c1d09af1c77ff0d8d543ca1f72.jpg?alt=media&token=08b42f13-d48f-441b-893b-8d1d06465431",
+      "id_import": "boy-3"
+    },
+    {
+      "type": "boy",
+      "id": "boy-4",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733832848_3b6b707b0dfc8ca47a5a9a16c7de4ca6.jpg?alt=media&token=f09f633c-dc14-4f35-a54a-b293bf70b861",
+      "id_import": "boy-4"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733846338_0e99617bb85307f0678450b628548788.jpg?alt=media&token=86085aed-057a-4e82-94bf-4b207795f39a",
+      "type": "boy",
+      "id": "boy-id1686970041464",
+      "id_import": "boy-id1686970041464"
+    },
+    {
+      "type": "boy",
+      "id": "boy-id1686970209682",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733858723_7d127887d24f166f1f00a6baf07b6e7d.jpg?alt=media&token=6719b92e-d6c6-49a6-b5ec-9594b5b146b7",
+      "id_import": "boy-id1686970209682"
+    },
+    {
+      "id": "boy-id1686970236051",
+      "type": "boy",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733874623_d4ad879af190a973629c7a345faffcc8.jpg?alt=media&token=bc871647-4e8b-4300-b92a-282009718fc8",
+      "id_import": "boy-id1686970236051"
+    },
+    {
+      "type": "boy",
+      "id": "boy-id1686970296138",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733887380_13ff571045a4d22f0b114749aae5bb31.jpg?alt=media&token=f7051e0c-c078-4245-8f9f-fb03213ff98e",
+      "id_import": "boy-id1686970296138"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733899322_60b96e1f88fc81d07f7430a49be2a3a3.jpg?alt=media&token=77678fd6-8d72-4875-a3c0-825c112498f6",
+      "id": "boy-id1686971856857",
+      "type": "boy",
+      "id_import": "boy-id1686971856857"
+    },
+    {
+      "id": "boy-id1686971928494",
+      "type": "boy",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733911432_31934462435665e2b9cdce6659c54f3b.jpg?alt=media&token=a32eb045-e66d-44ea-9ff7-07506532a419",
+      "id_import": "boy-id1686971928494"
+    },
+    {
+      "id": "boy-id1686971984274",
+      "type": "boy",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733923635_6c26d512b43921859a2b8a2b27b9c236.jpg?alt=media&token=28573ad9-2449-4101-a609-0ab9d04748d4",
+      "id_import": "boy-id1686971984274"
+    },
+    {
+      "type": "boy",
+      "id": "boy-id1686972107593",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733935455_c01fe4685b22be828ce015fedd046a4e.jpg?alt=media&token=12880934-327b-4865-94f1-37ba2bff3451",
+      "id_import": "boy-id1686972107593"
+    },
+    {
+      "type": "boy",
+      "id": "boy-id1686972750418",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733949222_aadf9f06bba9caf8324641cca9c76e22.jpg?alt=media&token=213fe781-bc90-4b03-87aa-3812d8db20ca",
+      "id_import": "boy-id1686972750418"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733962133_aaca55863945af322130f3e722072ba9.jpg?alt=media&token=7f0ed34c-cfd9-4658-a288-ea36c1f3fd0c",
+      "id": "girl-1",
+      "type": "girl",
+      "id_import": "girl-1"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733975304_7a2eac564309b5aa440e9ec53e5aee8a.jpg?alt=media&token=8a74335e-c608-4d61-ade3-640989a28e15",
+      "id": "girl-2",
+      "type": "girl",
+      "id_import": "girl-2"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688733987474_34c5b138d9c4539e6f77ca4467684656.jpg?alt=media&token=573818ca-e47c-4b02-8ac7-af38e19425b1",
+      "id": "girl-3",
+      "type": "girl",
+      "id_import": "girl-3"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688734000047_b5944a51d198be1be07c0e1a728dc272.jpg?alt=media&token=a3dbb2c1-74bb-4182-b75a-492388f9da76",
+      "type": "girl",
+      "id": "girl-4",
+      "id_import": "girl-4"
+    },
+    {
+      "type": "girl",
+      "id": "girl-5",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688734012853_0d8260a318ce5994167d986d3921ff8d.jpg?alt=media&token=151f181d-45df-4605-8f3e-50896fbc098a",
+      "id_import": "girl-5"
+    },
+    {
+      "id": "girl-6",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688734030044_e0bdbf95747434da786867a739a3dcef.jpg?alt=media&token=38877b72-b502-453b-9b43-481060c7bf79",
+      "type": "girl",
+      "id_import": "girl-6"
+    },
+    {
+      "type": "girl",
+      "id": "girl-7",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/user-avatar%2Fimage%2Fjpeg%2F1688734045892_560b52dc4338d60b7ac4105a6e7f4420.jpg?alt=media&token=bb88e997-b152-4bf0-8e6d-8c75d337e583",
+      "id_import": "girl-7"
+    }
+  ],
+  "collection": "user-avatar"
+}

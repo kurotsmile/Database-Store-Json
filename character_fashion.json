@@ -1,0 +1,325 @@
+{
+  "all_item": [
+    {
+      "id": " Pajama_2",
+      "type": "pajama",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547639547_Pajama_2_img.png?alt=media&token=8afee5c9-05d6-424c-948e-1ec5dd2c1dbb",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547633460_Pajama_2.png?alt=media&token=bcff3390-ba19-490b-a7c5-2ec2818dbae3",
+      "id_import": " Pajama_2"
+    },
+    {
+      "type": "pajama",
+      "buy": "1",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547661443_Pajama_3.png?alt=media&token=61d10fb1-ac81-42c1-808f-807a3e18bcd2",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547665560_Pajama_3_img.png?alt=media&token=c01c7e5c-7231-4d8c-9244-3ffb20dd15e0",
+      "id": " Pajama_3",
+      "id_import": " Pajama_3"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547709698_Fumiko_Dress_1.png?alt=media&token=f33f9955-1bd9-41bc-800b-74cafaddd63b",
+      "buy": "0",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547719928_Fumiko_Dress_1_img.png?alt=media&token=7820cf5d-c490-4672-8060-fadc691ef29e",
+      "id": "Fumiko_Dress_1",
+      "type": "Fumiko_Dress",
+      "id_import": "Fumiko_Dress_1"
+    },
+    {
+      "buy": "0",
+      "type": "Fumiko_Dress",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547745540_Fumiko_Dress_2.png?alt=media&token=d69e7966-6652-4505-b799-949cf57dc6da",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547760180_Fumiko_Dress_2_img.png?alt=media&token=99d1e072-dec7-498d-9362-39a0fbba5ae7",
+      "id": "Fumiko_Dress_2",
+      "id_import": "Fumiko_Dress_2"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547805448_Fumiko_Dress_3_img.png?alt=media&token=d657221f-1dd1-4618-9eb7-d03c47d155ff",
+      "buy": "1",
+      "type": "Fumiko_Dress",
+      "id": "Fumiko_Dress_3",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547799889_Fumiko_Dress_3.png?alt=media&token=64fdc62a-4bbd-41d2-bd9f-e50674fef990",
+      "id_import": "Fumiko_Dress_3"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547847423_Fumiko_head_1_img.png?alt=media&token=dcd95dd0-69f0-42d9-91be-a6c6aa48b9bc",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547836246_Fumiko_head_1.png?alt=media&token=2d98d569-926b-44bf-9490-93e213c8740b",
+      "id": "Fumiko_head_1",
+      "type": "Fumiko_head",
+      "id_import": "Fumiko_head_1"
+    },
+    {
+      "type": "Fumiko_head",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548800130_Fumiko_head_2.png?alt=media&token=50dd7c34-35f3-4aec-bb6a-2f8a89c68b77",
+      "buy": "0",
+      "id": "Fumiko_head_2",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548814842_Fumiko_head_2_img.png?alt=media&token=e982ea8e-6004-4709-a02e-286e07adb7d8",
+      "id_import": "Fumiko_head_2"
+    },
+    {
+      "id": "Pajama_1",
+      "buy": "0",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547901303_Pajama_1_img.png?alt=media&token=ae7ed3b2-d486-466b-93e8-035b80096809",
+      "type": "pajama",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547897682_Pajama_1.png?alt=media&token=9db7d221-ff9d-4b14-a90d-94f2d6741f3e",
+      "id_import": "Pajama_1"
+    },
+    {
+      "id": "Schooluniform_1",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547920246_Schooluniform_1.png?alt=media&token=53fe7b28-9c9b-4974-864e-6d5ea1bc6716",
+      "buy": "0",
+      "type": "school",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688547925563_Schooluniform_1_img.png?alt=media&token=32fd1c5c-a534-4fb8-821f-08983ec1908c",
+      "id_import": "Schooluniform_1"
+    },
+    {
+      "type": "school",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548143133_Schooluniform_2_img.png?alt=media&token=591d20d5-f47f-4ce0-b067-b38eb6ace30e",
+      "id": "Schooluniform_2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548137770_Schooluniform_2.png?alt=media&token=21289302-b383-4189-8c89-69c629910895",
+      "buy": "0",
+      "id_import": "Schooluniform_2"
+    },
+    {
+      "type": "bikini",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548166058_bikini_1_img.png?alt=media&token=953212b9-96b0-418c-8be6-45b36ffb6959",
+      "id": "bikini_1",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548162121_bikini_1.png?alt=media&token=22fef7ba-05f3-4cdd-a80f-0bf93b3e5a57",
+      "id_import": "bikini_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548189792_bikini_2_img.png?alt=media&token=f1416224-7fe4-4e15-bc3a-b32f4adca718",
+      "type": "bikini",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548185733_bikini_2.png?alt=media&token=5aba0bbc-9a0f-47fa-b6a6-46390ddcfaa4",
+      "buy": "0",
+      "id": "bikini_2",
+      "id_import": "bikini_2"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548220174_bikini_3_img.png?alt=media&token=aa57dffa-55ee-45bd-b9df-c901d2464004",
+      "buy": "0",
+      "type": "bikini",
+      "id": "bikini_3",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548215039_bikini_3.png?alt=media&token=8c44eebd-01d8-48c8-8a77-ffae1e0fe9c0",
+      "id_import": "bikini_3"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548250948_bikini_boy_1.png?alt=media&token=6c1431d2-31c2-4ba0-81e3-f230a3b784b2",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548255817_bikini_boy_1_img.png?alt=media&token=27d66cac-4309-4139-a6b2-d0179c095ac8",
+      "id": "bikini_boy_1",
+      "buy": "0",
+      "type": "bikini_boy",
+      "id_import": "bikini_boy_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548283984_bikini_boy_2_img.png?alt=media&token=061d7efc-f952-4210-87ce-e8ef0083a369",
+      "id": "bikini_boy_2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548278713_bikini_boy_2.png?alt=media&token=2c23f5b0-0bc1-4c0c-8f84-b2f6dcf76d3b",
+      "type": "bikini_boy",
+      "buy": "0",
+      "id_import": "bikini_boy_2"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548303617_bikini_boy_3.png?alt=media&token=d85521fc-6b77-4700-8055-a90d1e910c96",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548307398_bikini_boy_3_img.png?alt=media&token=93296dc9-9d07-4709-b023-1158d2e44aea",
+      "type": "bikini_boy",
+      "id": "bikini_boy_3",
+      "buy": "0",
+      "id_import": "bikini_boy_3"
+    },
+    {
+      "id": "kaoru_1",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548324083_kaoru_1.png?alt=media&token=60eb7935-58ab-48a7-8b75-04acc9a6a070",
+      "buy": "0",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548328145_kaoru_1_img.png?alt=media&token=6a62de31-ae4e-4c71-a79e-f65ffbc04ea3",
+      "type": "kaoru",
+      "id_import": "kaoru_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548350472_kaoru_2_img.png?alt=media&token=519adda9-994d-4f6e-8ebd-43c6b5963f53",
+      "id": "kaoru_2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548346405_kaoru_2.png?alt=media&token=6dbe80bb-7d70-4344-9982-407fe7500b9b",
+      "type": "kaoru",
+      "buy": "0",
+      "id_import": "kaoru_2"
+    },
+    {
+      "buy": "1",
+      "id": "kaoru_3",
+      "type": "kaoru",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548700154_kaoru_3_img.png?alt=media&token=c9fd3988-cb40-4a93-b451-933f1f47940d",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548693607_kaoru_3.png?alt=media&token=d13e9fa3-bfaf-429f-bade-b159b2d11111",
+      "id_import": "kaoru_3"
+    },
+    {
+      "id": "kaoru_4",
+      "buy": "1",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548434599_kaoru_4_img.png?alt=media&token=deaf7419-0102-4ee2-83c1-4797e3a498b0",
+      "type": "kaoru",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548430450_kaoru_4.png?alt=media&token=01f33b25-10ca-47c1-a112-c36d5b3ec37e",
+      "id_import": "kaoru_4"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548644657_kaoru_head_3_img.png?alt=media&token=5979abdd-98d0-4db5-b2a9-fe2a837a1052",
+      "type": "kaoru_head",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548636129_kaoru_head_3.png?alt=media&token=fc9617c9-3262-4071-a244-245caca2829b",
+      "id": "kaoru_head_1",
+      "buy": "0",
+      "id_import": "kaoru_head_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548579255_kaoru_head_2_img.png?alt=media&token=eee0a1a3-0dad-4636-b45c-6cf800e4f99f",
+      "id": "kaoru_head_2",
+      "buy": "0",
+      "type": "kaoru_head",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548574754_kaoru_head_2.png?alt=media&token=bab9d885-80d8-4d79-9cb0-7a0d1fa40ef8",
+      "id_import": "kaoru_head_2"
+    },
+    {
+      "id": "kaoru_head_3",
+      "type": "kaoru_head",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548598600_kaoru_head_3.png?alt=media&token=d7f598ce-f936-494e-9a20-f52809a10680",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688548602974_kaoru_head_3_img.png?alt=media&token=f0ce80c7-ac3c-44a5-b9d2-a941e82a94bc",
+      "buy": "1",
+      "id_import": "kaoru_head_3"
+    },
+    {
+      "id": "kaoru_head_4",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555034439_kaoru_head_4.png?alt=media&token=05b94601-de94-4aca-90b2-6011865b1284",
+      "type": "kaoru_head",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555063950_kaoru_head_4_img.png?alt=media&token=1b240ae6-207c-418e-875b-134417904203",
+      "buy": "0",
+      "id_import": "kaoru_head_4"
+    },
+    {
+      "type": "ken_head",
+      "id": "ken_head_1",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555087654_ken_head_1.png?alt=media&token=65940c35-814d-4b6c-a9e3-e9cb0a6a63ac",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555091361_ken_head_1_img.png?alt=media&token=6a271f36-62ae-4237-a92f-3e1d7936ad37",
+      "buy": "0",
+      "id_import": "ken_head_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555119994_ken_head_2_img.png?alt=media&token=562df1ea-54c0-494b-aad7-dfd3d5e060a5",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555115271_ken_head_2.png?alt=media&token=ed7fb9b3-98d2-40de-9aa9-f9b6a3c8b896",
+      "type": "ken_head",
+      "buy": "1",
+      "id": "ken_head_2",
+      "id_import": "ken_head_2"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555148090_ken_head_3_img.png?alt=media&token=66203377-55dd-4ede-87f8-37c2bd66e1f2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555144113_ken_head_3.png?alt=media&token=b5aece22-7885-423f-8d1d-3d74a2cf277f",
+      "type": "ken_head",
+      "buy": "0",
+      "id": "ken_head_3",
+      "id_import": "ken_head_3"
+    },
+    {
+      "id": "kero_1",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555190373_kero_1_img.png?alt=media&token=2acdd2d0-f8b3-4b9f-8805-8c17dec7157a",
+      "type": "kero",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555173435_kero_1.png?alt=media&token=7b67b5ab-1e55-4995-8f51-20a4ed6f898e",
+      "buy": "0",
+      "id_import": "kero_1"
+    },
+    {
+      "type": "kero",
+      "id": "kero_2",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555216550_kero_2_img.png?alt=media&token=48dd2cf1-7441-4575-ac76-9da502e4f09a",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555212938_kero_2.png?alt=media&token=01f1c1bc-4d7e-4ba8-b64a-49637947ff9a",
+      "id_import": "kero_2"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555245455_kero_3_img.png?alt=media&token=0fd9be17-7a5e-41ef-9cc4-93ab3a57b50f",
+      "type": "kero",
+      "buy": "1",
+      "id": "kero_3",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555241248_kero_3.png?alt=media&token=485a6afd-e5ae-4f16-a483-2049120971ee",
+      "id_import": "kero_3"
+    },
+    {
+      "type": "kero",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555269984_kero_4.png?alt=media&token=af1d84d5-585e-4fe0-a001-9e59c1dc252a",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555278314_kero_4_img.png?alt=media&token=6bfe889f-9a21-471b-a9fa-c620003c53f1",
+      "buy": "1",
+      "id": "kero_4",
+      "id_import": "kero_4"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555321238_rin_1_img.png?alt=media&token=a0b4ae9e-5413-4446-b2a5-bc38f38f336c",
+      "id": "rin_1",
+      "type": "rin",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555316266_rin_1.png?alt=media&token=8d9963f1-54af-476a-96a2-02ce2f125f12",
+      "id_import": "rin_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555385385_rin_2_img.png?alt=media&token=90ec2650-8423-4ebb-a132-e38b8c0b43e7",
+      "id": "rin_2",
+      "type": "rin",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555381104_rin_2.png?alt=media&token=b00a25db-8aa6-4888-b390-43c0f8709542",
+      "buy": "0",
+      "id_import": "rin_2"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555415574_rin_3_img.png?alt=media&token=7217ec61-4cb4-4307-ba84-14202bd10231",
+      "type": "rin",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555410357_rin_3.png?alt=media&token=b4da8eb2-c6d5-460a-8db0-45acded0a673",
+      "id": "rin_3",
+      "buy": "0",
+      "id_import": "rin_3"
+    },
+    {
+      "id": "rin_4",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555437963_rin_4.png?alt=media&token=f41a1727-16fe-4be1-9ad1-5e7c76ba5c56",
+      "buy": "1",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555441485_rin_4_img.png?alt=media&token=277bd1c1-5e79-4e9a-a542-a81fcb807629",
+      "type": "rin",
+      "id_import": "rin_4"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555486213_rin_head_1_img.png?alt=media&token=33103b3f-8afb-4bcb-b3b9-00f959298f31",
+      "id": "rin_head_1",
+      "type": "rin_head",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555481981_rin_head_1.png?alt=media&token=ef9f5bba-fcb7-4ea4-9bbb-82be4666e216",
+      "id_import": "rin_head_1"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555510995_rin_head_2_img.png?alt=media&token=c860e069-c553-4e83-bded-91506ab32ac4",
+      "type": "rin_head",
+      "id": "rin_head_2",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555506893_rin_head_2.png?alt=media&token=c15ede02-8377-45f5-b8e1-1e41e22f56ae",
+      "buy": "0",
+      "id_import": "rin_head_2"
+    },
+    {
+      "id": "rin_head_3",
+      "type": "rin_head",
+      "buy": "1",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555525037_rin_head_3.png?alt=media&token=0c7e8432-b8aa-4cc0-8920-1e9262ec427d",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555529223_rin_head_3_img.png?alt=media&token=bb2d82d2-8885-453a-83f3-de1d923a3d79",
+      "id_import": "rin_head_3"
+    },
+    {
+      "id": "school_boy_1",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555551014_school_boy_1_img.png?alt=media&token=5c2d2a36-19d4-4260-8f66-9b9d529ab7c7",
+      "buy": "0",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555544965_school_boy_1.png?alt=media&token=833fd967-0993-4f8b-9483-d9d0a83031f3",
+      "type": "school_boy",
+      "id_import": "school_boy_1"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555584738_school_boy_2.png?alt=media&token=2c03ea09-1194-4b4f-8f10-6a318bd4aba8",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/character_fashion%2Fimage%2Fpng%2F1688555588817_school_boy_2_img.png?alt=media&token=e9fb2846-fa99-425c-8b78-16a45e556ee6",
+      "type": "school_boy",
+      "id": "school_boy_2",
+      "buy": "0",
+      "id_import": "school_boy_2"
+    }
+  ],
+  "collection": "character_fashion"
+}

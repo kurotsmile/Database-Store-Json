@@ -1,0 +1,45 @@
+{
+  "all_item": [
+    {
+      "key": "animal",
+      "icon": "fa-solid fa-hippo",
+      "id_import": "animal"
+    },
+    {
+      "key": "flower",
+      "icon": "fa-solid fa-fan",
+      "id_import": "flower"
+    },
+    {
+      "key": "food",
+      "icon": "fa-solid fa-utensils",
+      "id_import": "food"
+    },
+    {
+      "icon": "fa-solid fa-lemon",
+      "key": "fruit",
+      "id_import": "fruit"
+    },
+    {
+      "icon": "fa-solid fa-box-open",
+      "key": "items",
+      "id_import": "items"
+    },
+    {
+      "key": "love",
+      "icon": "fa-solid fa-face-grin-hearts",
+      "id_import": "love"
+    },
+    {
+      "key": "vegetable",
+      "icon": "fa-solid fa-pepper-hot",
+      "id_import": "vegetable"
+    },
+    {
+      "key": "weather",
+      "icon": "fa-solid fa-cloud-sun-rain",
+      "id_import": "weather"
+    }
+  ],
+  "collection": "icon_category"
+}

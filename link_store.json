@@ -1,0 +1,53 @@
+{
+  "all_item": [
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283240495_amazon.jpg?alt=media&token=e4cefb42-dfdf-413a-993b-a0751d63a096",
+      "key": "amazon_app_store",
+      "icon": "fa-brands fa-amazon",
+      "name": "Amazon app store",
+      "link": "https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ACarrot&search-type=ss",
+      "id_import": "amazon_app_store"
+    },
+    {
+      "key": "google_play",
+      "name": "Google Play",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283177815_googleplay.jpg?alt=media&token=bbae0b0e-10ed-411f-8611-1838186bb598",
+      "link": "https://play.google.com/store/apps/dev?id=7611448685425132143",
+      "icon": "fa-brands fa-google-play",
+      "id_import": "google_play"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283230714_appgallery.jpg?alt=media&token=7a6d2943-9c1c-4439-af00-745c786a0cc0",
+      "icon": "fa-solid fa-leaf",
+      "key": "huawei_store",
+      "link": "https://appgallery.huawei.com/tab/appdetailCommon%7CC105914849%7Cautomore%7Cdoublecolumncardwithstar%7C903547",
+      "name": "AppGallery",
+      "id_import": "huawei_store"
+    },
+    {
+      "link": "https://carrotstore.itch.io/",
+      "icon": "fa-brands fa-itch-io",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283220351_itchg.jpg?alt=media&token=d8687175-6030-4ccb-b903-e0c19fe6409e",
+      "name": "itch.io",
+      "key": "itch",
+      "id_import": "itch"
+    },
+    {
+      "link": "https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Carrot%20App",
+      "name": "Microsoft Store",
+      "key": "microsoft_store",
+      "icon": "fa-brands fa-windows",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283203813_windows.jpg?alt=media&token=384fb75e-28f2-4114-914f-b9b2a3d74383",
+      "id_import": "microsoft_store"
+    },
+    {
+      "link": "https://en.uptodown.com/developer/carrot-app",
+      "icon": "fa-solid fa-circle-down",
+      "key": "uptodown",
+      "name": "Uptodown",
+      "img": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/link_store%2Fimage%2Fjpeg%2F1688283249645_uptodown.jpg?alt=media&token=162bf7ef-989c-474f-9dd6-73b2c4198d55",
+      "id_import": "uptodown"
+    }
+  ],
+  "collection": "link_store"
+}

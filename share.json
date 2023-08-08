@@ -1,0 +1,68 @@
+{
+  "all_item": [
+    {
+      "web": "https://www.facebook.com/sharer/sharer.php?u={url}",
+      "icon": "https://cdn-icons-png.flaticon.com/64/2168/2168281.png",
+      "name": "Facebook",
+      "android": "https://www.facebook.com/sharer/sharer.php?u={url}",
+      "window": "https://www.facebook.com/sharer/sharer.php?u={url}",
+      "font": "fa-facebook-square",
+      "id_import": "facebook"
+    },
+    {
+      "font": "fa-envelope-square",
+      "window": "https://mail.google.com/mail/u/2/?hl=vi&view=cm&fs=1&tf=1&su=I wanted you to see this site&body=Check out this site {url}",
+      "android": "mailto:+1",
+      "name": "Email",
+      "web": "https://mail.google.com/mail/u/2/?hl=vi&view=cm&fs=1&tf=1&su=I wanted you to see this site&body=Check out this site {url}",
+      "icon": "https://cdn-icons-png.flaticon.com/64/6244/6244710.png",
+      "id_import": "gmail"
+    },
+    {
+      "font": "fa-linkedin-square",
+      "web": "http://www.linkedin.com/shareArticle?mini=true&url={url}&title=Share",
+      "name": "LinkedIn",
+      "android": "http://www.linkedin.com/shareArticle?mini=true&url={url}&title=Share",
+      "window": "http://www.linkedin.com/shareArticle?mini=true&url={url}&title=Share",
+      "icon": "https://cdn-icons-png.flaticon.com/64/1384/1384014.png",
+      "id_import": "linkedIn"
+    },
+    {
+      "window": "http://pinterest.com/pin/create/button/?url={url}&description=Share",
+      "web": "http://pinterest.com/pin/create/button/?url={url}&description=Share",
+      "font": "fa-pinterest-square",
+      "android": "http://pinterest.com/pin/create/button/?url={url}&description=Share",
+      "name": "Pinterest",
+      "icon": "https://cdn-icons-png.flaticon.com/64/2175/2175205.png",
+      "id_import": "pinterest"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/64/3669/3669756.png",
+      "window": "https://web.skype.com/share?url={url}",
+      "font": "fa-skype",
+      "name": "Skype",
+      "web": "https://web.skype.com/share?url={url}",
+      "android": "https://web.skype.com/share?url={url}",
+      "id_import": "skype"
+    },
+    {
+      "android": "https://telegram.me/share/url?url={url}",
+      "icon": "https://cdn-icons-png.flaticon.com/64/5968/5968940.png",
+      "name": "Telegram",
+      "web": "https://t.me/share/url?url={url}",
+      "font": "fa-telegram",
+      "window": "https://t.me/share/url?url={url}",
+      "id_import": "telegram"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/64/2168/2168336.png",
+      "android": "twitter://post?message={url}",
+      "name": "Twitter",
+      "font": "fa-twitter-square",
+      "window": "https://twitter.com/intent/tweet?url={url}&text=Carrot store &via=carrotstore1&original_referer={url}",
+      "web": "https://twitter.com/intent/tweet?url={url}&text=Carrot store &via=carrotstore1&original_referer={url}",
+      "id_import": "twitter"
+    }
+  ],
+  "collection": "share"
+}

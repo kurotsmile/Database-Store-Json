@@ -1,0 +1,61 @@
+{
+  "all_item": [
+    {
+      "name": "mediaserv30 Pop",
+      "icon": "",
+      "id": "r1688611008290",
+      "url": "http://mediaserv30.live-streams.nl:8086/live",
+      "id_import": "r1688611008290"
+    },
+    {
+      "name": "mediaserv33 latin",
+      "icon": "",
+      "id": "r1688611064486",
+      "url": "http://mediaserv33.live-streams.nl:8034/live",
+      "id_import": "r1688611064486"
+    },
+    {
+      "name": "mediaserv38 Jazz",
+      "icon": "",
+      "id": "r1688611117862",
+      "url": "http://mediaserv38.live-streams.nl:8006/live",
+      "id_import": "r1688611117862"
+    },
+    {
+      "name": "mediaserv33 Lounge",
+      "icon": "",
+      "id": "r1688611138427",
+      "url": "http://mediaserv33.live-streams.nl:8036/live",
+      "id_import": "r1688611138427"
+    },
+    {
+      "name": "mediaserv30 Gold",
+      "icon": "",
+      "id": "r1688611160721",
+      "url": "http://mediaserv30.live-streams.nl:8000/live",
+      "id_import": "r1688611160721"
+    },
+    {
+      "name": "mediaserv30 Classical",
+      "icon": "",
+      "id": "r1688611200589",
+      "url": "http://mediaserv30.live-streams.nl:8088/live",
+      "id_import": "r1688611200589"
+    },
+    {
+      "name": "mediaserv38 World",
+      "icon": "",
+      "id": "r1688611231568",
+      "url": "http://mediaserv38.live-streams.nl:8027/live",
+      "id_import": "r1688611231568"
+    },
+    {
+      "name": "mediaserv21 France",
+      "icon": "",
+      "id": "r1688611258780",
+      "url": "http://mediaserv21.live-streams.nl:8000/live",
+      "id_import": "r1688611258780"
+    }
+  ],
+  "collection": "radio"
+}
