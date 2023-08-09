@@ -1,0 +1,25 @@
+{
+  "all_item": [
+    {
+      "call": "Call",
+      "backup": "Backup",
+      "app_title": "World contact book",
+      "phonebook": "Phonebook",
+      "contact": "Contact",
+      "id": "en",
+      "search_contact": "Contact Search ... (name or phone)",
+      "id_import": "en"
+    },
+    {
+      "call": "Gọi điện",
+      "backup": "Sao lưu",
+      "app_title": "Sổ danh bạ thế giới",
+      "phonebook": "Danh bạ",
+      "contact": "Liên hệ",
+      "id": "vi",
+      "search_contact": "Liên hệ Tìm kiếm ... (tên hoặc điện thoại)",
+      "id_import": "vi"
+    }
+  ],
+  "collection": "lang_contact_store"
+}
