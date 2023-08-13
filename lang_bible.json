@@ -1,0 +1,50 @@
+{
+  "all_item": [
+    {
+      "bible_share": "Share this bible book with everyone!",
+      "next": "Next",
+      "chapter": "Chapter",
+      "app_title": "Bible world",
+      "book": "Book",
+      "list_none_tip": "There are no items on this list yet!",
+      "prev": "previous",
+      "save": "Storage",
+      "search_tip": "You can search for any biblical content here!",
+      "del": "Delete",
+      "copy_tip": "Copy this bible passage",
+      "old_testament": "Old testament",
+      "save_list_tip": "You can read these books without an internet connection",
+      "save_success": "Save the book successfully, you can read it in offline mode!",
+      "save_list": "List of saved books",
+      "error_unknown": "Operation error, please try again next time!",
+      "new_testament": "New testament",
+      "copy": "Copy",
+      "id": "en",
+      "list_none": "List is empty",
+      "id_import": "en"
+    },
+    {
+      "bible_share": "Chia sẻ cuốn sách kinh thánh này với tất cả mọi người!",
+      "next": "Kế tiếp",
+      "chapter": "chương",
+      "app_title": "thế giới kinh thánh",
+      "book": "Sách",
+      "list_none_tip": "Chưa có mục nào trong danh sách này!",
+      "prev": "trước",
+      "save": "Kho",
+      "del": "Xóa bỏ",
+      "copy_tip": "Sao chép đoạn kinh thánh này",
+      "old_testament": "Di chúc cũ",
+      "save_list_tip": "Bạn có thể đọc những cuốn sách này mà không cần kết nối internet",
+      "save_success": "Lưu sách thành công, bạn có thể đọc nó ở chế độ ngoại tuyến!",
+      "save_list": "Danh sách sách đã lưu",
+      "error_unknown": "Lỗi thao tác, vui lòng thử lại lần sau!",
+      "new_testament": "Di chúc mới",
+      "copy": "Sao chép",
+      "id": "vi",
+      "list_none": "Danh sách trống",
+      "id_import": "vi"
+    }
+  ],
+  "collection": "lang_bible"
+}
