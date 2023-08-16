@@ -1,0 +1,31 @@
+{
+  "all_item": [
+    {
+      "play_again": "Play Again",
+      "app_title": "Run With Me",
+      "play_history": "Play history",
+      "error_unknown": "Operation failed, please try again next time!",
+      "back_home": "Back Home",
+      "song_failure": "Failure",
+      "id": "en",
+      "play_now": "Play now",
+      "song_success": "Success",
+      "select_song": "Choose the song",
+      "id_import": "en"
+    },
+    {
+      "play_again": "Chơi lại",
+      "app_title": "Chạy cùng em",
+      "play_history": "lịch sử chơi",
+      "back_home": "Trở lại Trang chủ",
+      "error_unknown": "Thao tác không thành công, vui lòng thử lại lần sau!",
+      "song_failure": "Thất bại",
+      "id": "vi",
+      "play_now": "Bắt đầu chơi",
+      "song_success": "Thành công",
+      "select_song": "chọn bài hát",
+      "id_import": "vi"
+    }
+  ],
+  "collection": "lang_run_whit_me"
+}
