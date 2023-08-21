@@ -1,0 +1,39 @@
+{
+  "all_item": [
+    {
+      "goto_sleep": "Bedtime",
+      "play_game": "Playing game 1",
+      "play_game2": "Play the game 2",
+      "hight_socre": "Highest score",
+      "help": "Help",
+      "home_tip": "Sheep anti-insomnia counting app with two main features is going to bed and gaming to help you get rid of straightness and deep sleep. Go to bed: the app will give you a large number of sheep for you to count and drop into songs that make your mind easy to go to sleep: you choose the right time to touch you Sheep help him jump over the fence and you will get points and the second game you have to protect your food by hitting the rescues who are trying to steal your fruit.",
+      "select_sheep": "Select the number of sheep",
+      "customer_tip": "Enter the number of sheep you want to count",
+      "count_end_tip": "When finished counting sheep",
+      "buy_heart_success": "Buy heart success! You can continue the game!",
+      "id": "en",
+      "count_end_2": "Return",
+      "count_end_1": "Exit application",
+      "customer": "Customization",
+      "id_import": "en"
+    },
+    {
+      "goto_sleep": "Giờ đi ngủ",
+      "play_game": "Chơi trò chơi 1",
+      "play_game2": "Chơi trò chơi 2",
+      "hight_socre": "điểm cao nhất",
+      "help": "Giúp đỡ",
+      "home_tip": "Ứng dụng đếm số chống mất ngủ cừu với hai tính năng chính là đi ngủ và chơi game giúp bạn thoát khỏi căn thẳng và có giấc ngủ sâu. Đi ngủ: ứng dụng sẽ cung cấp cho bạn một số lượng lớn cừu để bạn đếm và thả hồn vào những bài hát giúp đầu óc dễ đi vào giấc ngủ: bạn chọn đúng thời điểm để chạm vào bạn Cừu giúp chú nhảy qua hàng rào và bạn sẽ nhận được điểm và trò chơi thứ hai, bạn phải bảo vệ thức ăn của mình bằng cách đánh những người giải cứu đang cố gắng ăn cắp trái cây của bạn.",
+      "select_sheep": "Chọn số lượng cừu",
+      "customer_tip": "Nhập số cừu bạn muốn đếm",
+      "count_end_tip": "Khi đếm cừu xong",
+      "buy_heart_success": "Mua tim thành công! Bạn có thể tiếp tục trò chơi!",
+      "id": "vi",
+      "count_end_2": "Trở lại",
+      "count_end_1": "Thoát khỏi ứng dụng",
+      "customer": "tùy biến",
+      "id_import": "vi"
+    }
+  ],
+  "collection": "lang_counting_sheep"
+}
