@@ -1,0 +1,60 @@
+{
+  "all_item": [
+    {
+      "id": "ar",
+      "midi_public_success": "شكرًا لك على المساهمة في مشروع بيانو ميدي، وسوف نقوم بمراجعته وإصداره للعالم في أسرع وقت ممكن.",
+      "midi_public": "نشر ميدي",
+      "none_midi_save": "لم يتم أرشفة أي مؤلفات ميدي حتى الآن",
+      "midi_category": "قائمة الأنواع ميدي",
+      "list_midi_your": "قائمة ميدي الخاصة بك",
+      "list_midi_online": "قائمة ميدي اون لاين",
+      "none_midi_search": "لم يتم العثور على مؤلفات ميدي ذات صلة!",
+      "id_import": "ar"
+    },
+    {
+      "none_midi_search": "Nebyly nalezeny žádné související midi kompozice!",
+      "id": "cs",
+      "midi_public_success": "Děkujeme vám za příspěvek k návrhu midi klavíru, zkontrolujeme a zveřejníme svět v nejrychlejším možném čase.",
+      "none_midi_save": "Dosud nejsou archivovány žádné midi kompozice",
+      "list_midi_your": "Váš seznam Midi",
+      "list_midi_online": "Seznam Midi Online",
+      "midi_public": "Vydavatelství Midi",
+      "midi_category": "Seznam midi žánrů",
+      "id_import": "cs"
+    },
+    {
+      "none_midi_search": "No related midi compositions found!",
+      "midi_public": "Publishing Midi",
+      "none_midi_save": "No midi compositions are archived yet",
+      "list_midi_your": "Your Midi list",
+      "list_midi_online": "List Midi Online",
+      "midi_public_success": "Thank you for contributing the draft midi piano, We will review and release to the world in the fastest time possible.",
+      "id": "en",
+      "midi_category": "List of midi genres",
+      "id_import": "en"
+    },
+    {
+      "midi_category": "Midi türlerinin listesi",
+      "midi_public": "Midi'yi yayınlamak",
+      "midi_public_success": "Midi piyano taslağına katkıda bulunduğunuz için teşekkür ederiz. Mümkün olan en hızlı sürede inceleyip tüm dünyaya yayınlayacağız.",
+      "none_midi_save": "Henüz hiçbir midi kompozisyonu arşivlenmedi",
+      "list_midi_your": "Midi listeniz",
+      "list_midi_online": "Midi Online'ı Listele",
+      "id": "tr",
+      "none_midi_search": "İlgili midi kompozisyonu bulunamadı!",
+      "id_import": "tr"
+    },
+    {
+      "none_midi_save": "Chưa có tác phẩm midi nào được lưu trữ",
+      "midi_category": "Danh sách thể loại midi",
+      "list_midi_your": "Danh sách Midi của bạn",
+      "midi_public_success": "Cảm ơn bạn đã đóng góp bản thảo midi piano, Chúng tôi sẽ xem xét và phát hành ra thế giới trong thời gian nhanh nhất có thể.",
+      "midi_public": "xuất bản Midi",
+      "id": "vi",
+      "none_midi_search": "Không tìm thấy tác phẩm midi liên quan nào!",
+      "list_midi_online": "Danh sách Midi trực tuyến",
+      "id_import": "vi"
+    }
+  ],
+  "collection": "lang_midi_piano"
+}
