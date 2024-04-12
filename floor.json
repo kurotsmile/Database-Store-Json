@@ -1,0 +1,60 @@
+{
+  "all_item": [
+    {
+      "id": "place_1.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555643619_place_1.png?alt=media&token=9a05bc86-6c10-4bd0-83df-35843b86b617",
+      "id_import": "place_1.png"
+    },
+    {
+      "id": "place_10.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555663681_place_10.png?alt=media&token=4e9fbcb6-22b4-487b-9823-1497d63638b2",
+      "id_import": "place_10.png"
+    },
+    {
+      "id": "place_11.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555680951_place_11.png?alt=media&token=ea8f70eb-7916-4fca-9eee-edd7cf898c7a",
+      "id_import": "place_11.png"
+    },
+    {
+      "id": "place_2.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555695974_place_2.png?alt=media&token=4d03084f-d097-4600-a898-d425669ffefc",
+      "id_import": "place_2.png"
+    },
+    {
+      "id": "place_3.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555712553_place_3.png?alt=media&token=ab3354e7-c439-4e4a-b810-9f0aa3b7eab9",
+      "id_import": "place_3.png"
+    },
+    {
+      "id": "place_4.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555728679_place_4.png?alt=media&token=4f3d4dba-9c7b-43af-8e9a-b5db7b6e996b",
+      "id_import": "place_4.png"
+    },
+    {
+      "id": "place_5.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555744664_place_5.png?alt=media&token=ec085762-749b-4999-831b-990748ef3a2d",
+      "id_import": "place_5.png"
+    },
+    {
+      "id": "place_6.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555759871_place_6.png?alt=media&token=6c1b5098-8dbe-45c3-922f-41e8a8bee239",
+      "id_import": "place_6.png"
+    },
+    {
+      "id": "place_7.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555774816_place_7.png?alt=media&token=a34519d0-0791-41cd-b7a6-8b4dbc723e0e",
+      "id_import": "place_7.png"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555789859_place_8.png?alt=media&token=f277ac95-6e99-49e2-9ea1-481bd6579fb6",
+      "id": "place_8.png",
+      "id_import": "place_8.png"
+    },
+    {
+      "id": "place_9.png",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/floor%2Fimage%2Fpng%2F1688555805234_place_9.png?alt=media&token=8b729318-a315-4d47-9152-2031c638eba4",
+      "id_import": "place_9.png"
+    }
+  ],
+  "collection": "floor"
+}
