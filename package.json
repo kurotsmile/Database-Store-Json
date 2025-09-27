@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "database-store-json",
+  "description": "Database-Store-Json",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
