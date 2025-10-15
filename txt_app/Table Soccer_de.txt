@@ -1,0 +1,1 @@
+Das Spiel simuliert einen Fußballtisch. Sie steuern die Ballreihen Ihrer Mannschaft, um die Bälle des Gegners zu blockieren. Wenn Sie den Ball behalten haben, geben Sie den Ball an Ihre Teamkollegen weiter, um den richtigen Zeitpunkt für ein Tor zu wählen

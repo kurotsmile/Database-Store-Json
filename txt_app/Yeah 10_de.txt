@@ -1,0 +1,11 @@
+Yeah 10 ist ein unterhaltsames und fesselndes Puzzlespiel, das auf einem Zahlenraster gespielt werden kann. Ziel des Spiels ist es, Paare benachbarter Zahlen zu finden, die zusammen 10 ergeben, oder Paare ähnlicher Zahlen, die nebeneinander liegen.
+
+
+
+Das Gameplay ist einfach und leicht zu verstehen. Sie beginnen damit, dass Sie sich das Zahlenraster ansehen und nach benachbarten Zahlenpaaren suchen. Wenn Sie ein Zahlenpaar finden, dessen Summe 10 ergibt, können Sie es auswählen und aus dem Raster entfernen. Dadurch erhalten Sie Punkte und schaffen Platz im Raster für weitere Zahlen.
+
+Alternativ können Sie, wenn Sie Paare ähnlicher Zahlen finden, die nebeneinander liegen, diese auch auswählen und aus dem Raster entfernen. Dadurch erhalten Sie auch Punkte und machen Platz in der Startaufstellung frei.
+
+Das Spiel wird im Laufe der Level immer anspruchsvoller, da mehr Zahlen zum Raster hinzugefügt werden und weniger Möglichkeiten bestehen, Paare benachbarter oder ähnlicher Zahlen zu finden. Das Spiel enthält auch Power-Ups und Boni, die Ihnen helfen können, das Feld effizienter zu räumen oder mehr Punkte zu sammeln.
+
+Insgesamt ist Yeah 10 ein unterhaltsames und süchtig machendes Puzzlespiel, das Spieler jeden Alters und jeder Spielstärke genießen kann. Es ist eine großartige Möglichkeit, sich die Zeit zu vertreiben und gleichzeitig Ihr Gehirn zu trainieren!

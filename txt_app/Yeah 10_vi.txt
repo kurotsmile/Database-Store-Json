@@ -1,0 +1,11 @@
+Yeah 10 là một trò chơi giải đố vui nhộn và hấp dẫn có thể chơi trên một ô số. Mục tiêu của trò chơi là tìm các cặp số liền kề có tổng bằng 10 hoặc các cặp số giống nhau nhưng liền kề nhau.
+
+
+
+Cách chơi đơn giản và dễ hiểu. Bạn bắt đầu bằng cách nhìn vào lưới các số và quét các cặp số liền kề. Nếu tìm thấy một cặp số có tổng bằng 10, bạn có thể chọn và xóa chúng khỏi lưới. Điều này sẽ giúp bạn kiếm được điểm và giải phóng không gian trên lưới để có thêm số.
+
+Ngoài ra, nếu bạn tìm thấy các cặp số tương tự liền kề nhau, bạn cũng có thể chọn và xóa chúng khỏi lưới. Điều này cũng sẽ giúp bạn kiếm được điểm và giải phóng không gian trên lưới.
+
+Trò chơi trở nên khó khăn hơn khi bạn vượt qua các cấp độ, với nhiều số được thêm vào lưới hơn và ít cơ hội hơn để tìm các cặp số liền kề hoặc các số tương tự. Trò chơi cũng bao gồm tăng sức mạnh và tiền thưởng có thể giúp bạn xóa lưới hiệu quả hơn hoặc kiếm được nhiều điểm hơn.
+
+Nhìn chung, Yeah 10 là một trò chơi giải đố vui nhộn và gây nghiện, phù hợp với người chơi ở mọi lứa tuổi và trình độ kỹ năng. Đó là một cách tuyệt vời để giết thời gian và rèn luyện trí não của bạn cùng một lúc!

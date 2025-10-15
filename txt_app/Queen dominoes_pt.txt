@@ -1,0 +1,11 @@
+O jogo de dominó offline para dois jogadores que pode ser jogado entre um humano e um robô. O jogo envolve um conjunto de peças de dominó, que são embaralhadas e distribuídas para cada jogador. Os jogadores se revezam colocando as peças na superfície de jogo, combinando os números das peças com os das peças já colocadas. O jogo termina quando um jogador não tiver peças em sua mão ou quando nenhum jogador puder fazer um movimento válido. O vencedor é o jogador com menos peças restantes na mão no final do jogo.
+
+O jogador robô é programado para jogar estrategicamente, usando algoritmos para determinar os movimentos ideais com base nas peças que tem em mãos e nas que estão na superfície de jogo.
+
+Além disso, o jogo também pode incluir diferentes variações do jogo, como bloquear ou desenhar dominós. No bloqueio, os jogadores tentam impedir que seu oponente faça um movimento, enquanto no empate dominó, os jogadores tiram peças de um cemitério quando não podem fazer um movimento.
+
+Para aumentar a diversão, o jogo também pode permitir que os jogadores personalizem a aparência das peças e da superfície de jogo. Os jogadores podem escolher entre diferentes temas e planos de fundo para tornar o jogo mais atraente visualmente.
+
+O jogo pode ser jogado em diferentes plataformas, como desktop e dispositivos móveis, tornando-o acessível a uma ampla gama de jogadores. Ele também pode suportar vários idiomas para atender jogadores de diferentes regiões.
+
+No geral, este jogo de dominó offline para dois jogadores com jogo humano e robô é uma ótima maneira de passar o tempo com amigos e familiares, bem como desafiar-se contra um adversário robô estratégico.

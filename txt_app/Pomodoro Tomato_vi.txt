@@ -1,0 +1,9 @@
+Pomodoro Tomato là một ứng dụng năng suất được thiết kế để giúp người dùng tập trung và hoàn thành nhiệm vụ một cách hiệu quả. Điều khiến Pomodoro Tomato trở nên độc đáo là khả năng cho phép người dùng tùy chỉnh khoảng thời gian và theo dõi số liệu thống kê của họ, cũng như cung cấp nhạc không lời thư giãn để giúp họ thư giãn trong giờ giải lao.
+
+Với Pomodoro Tomato, người dùng có thể dễ dàng thiết lập khoảng thời gian làm việc và nghỉ ngơi ưa thích của mình. Ví dụ: họ có thể đặt khoảng thời gian làm việc là 25 phút và khoảng thời gian nghỉ giải lao là 5 phút. Người dùng cũng có thể chọn số lượng khoảng thời gian họ muốn hoàn thành trước khi nghỉ lâu hơn. Mức độ tùy chỉnh này cho phép người dùng làm việc theo tốc độ của riêng họ và duy trì năng suất trong thời gian dài hơn.
+
+Ngoài tùy chỉnh khoảng thời gian, Pomodoro Tomato theo dõi số liệu thống kê của người dùng. Người dùng có thể xem họ đã dành bao nhiêu thời gian cho mỗi nhiệm vụ, họ đã hoàn thành bao nhiêu khoảng thời gian và thời gian nghỉ của họ là bao lâu. Tính năng này giúp người dùng đánh giá năng suất của họ và cải thiện thói quen làm việc của họ.
+
+Để giúp người dùng thư giãn trong giờ giải lao, Pomodoro Tomato còn cung cấp tuyển chọn các bản nhạc không lời. Người dùng có thể chọn từ nhiều thể loại, chẳng hạn như nhạc cổ điển, nhạc jazz và nhạc xung quanh. Những âm thanh êm dịu giúp người dùng giảm căng thẳng và nạp lại năng lượng để họ có thể quay lại làm việc với tinh thần sảng khoái và tập trung.
+
+Nhìn chung, Pomodoro Tomato là một ứng dụng năng suất linh hoạt kết hợp khả năng tùy chỉnh, theo dõi số liệu thống kê và âm nhạc thư giãn. Cho dù bạn là sinh viên, chuyên nghiệp hay chỉ là người muốn làm việc hiệu quả hơn, Pomodoro Tomato là một công cụ tuyệt vời giúp bạn tập trung và đạt được mục tiêu của mình.

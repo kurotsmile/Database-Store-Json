@@ -1,0 +1,1 @@
+El juego simula un futbolín, controlas las filas de bolas de tu equipo para bloquear las bolas del oponente. Cuando hayas guardado el balón, pásalo a tus compañeros para elegir el momento adecuado para marcar un gol.

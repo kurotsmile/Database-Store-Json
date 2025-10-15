@@ -1,0 +1,7 @@
+Hãy chinh phục thử thách trí thông minh và suy luận của bạn để tìm ra vị trí chính xác của vị trí quả cà chua nhé.
+
+Những quả cà chua được xếp theo bàn cờ gồm hai loại khác nhau. Bao gồm mối hàn và cột mỗi mối hàn và lõi đều có chỉ số hiển thị số lượng khác nhau của từng loại cà chua, bạn có thể dựa vào đó để dự đoán số lượng và vị trí loại cà chua của mình
+
+Khi bạn đã đặt vị trí cà chua, hãy mở một ô cà chua, nhấp vào ô mới mở để xem thêm các vùng lân cận với số lượng cà chua theo loại.
+
+Trò chơi kết thúc và bạn thắng khi điền đúng và đầy đủ tất cả các quả cà chua vào bàn cờ

@@ -1,0 +1,11 @@
+Dies ist eine großartige App, um Taxi-Timer zu ersetzen und Ihren Kunden Rechnungen zu stellen
+
+Moderne Benutzeroberfläche und einfache Interaktion mit grundlegenden Funktionstasten
+
+Entfernungsmesser und gute Ortungsgeräte helfen Kunden und Fahrern bei der Nutzung während der Fahrt
+
+Darüber hinaus gibt es viele weitere Sonderfunktionen, wie z. B. die Anzeige der Entfernung beim Drücken der Grafiktaste in der Anwendung
+
+Sie können den Preis an die entsprechende zurückgelegte Strecke anpassen
+
+Bei der Nutzung der Anwendung müssen Sie die Standortberechtigung erteilen, um die korrekte Entfernung berechnen und andere Funktionen einwandfrei nutzen zu können.

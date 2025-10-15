@@ -1,0 +1,4 @@
+Sử dụng bộ não logic của bạn để sắp xếp việc giải mã các ma trận trong từng giai đoạn của trò chơi để giúp cải thiện tư duy của bạn. Với cách chơi vô cùng đơn giản thích hợp cho các bạn giải trí trong thời gian thư giãn
+
+Cách chơi:
+Bạn điều khiển từng cụm số xung quanh nút điều khiển màu đen tại các hàng và cột trong ma trận số, các số sẽ được quay theo chiều kim đồng hồ, bạn hãy vận dụng trí thông minh của mình để tìm ra quy luật sắp xếp các số theo thứ tự từ nhỏ đến lớn. Khi hoàn thành bạn sẽ là người chiến thắng

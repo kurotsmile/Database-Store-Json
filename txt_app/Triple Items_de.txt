@@ -1,0 +1,9 @@
+Triple Items ist ein einfaches, aber herausforderndes Puzzlespiel. Das Ziel des Spiels ist es, drei identische Gegenstände zusammenzufügen, um einen neuen Gegenstand zu erschaffen. Der neue Gegenstand wird eine größere Kraft haben als der alte Gegenstand.
+
+Um Triple Items zu spielen, müssen Sie die Gegenstände durch Antippen auf dem Spielbrett bewegen. Wenn Sie 3 identische Artikel gefunden haben, werden diese automatisch zusammengeführt.
+
+Die Anzahl der Punkte, die Sie erhalten, hängt von der Stärke des neuen Gegenstands ab. Je stärker der Gegenstand, desto mehr Punkte erhalten Sie.
+
+Sie haben 30 Sekunden Zeit, um so viele Elemente wie möglich zusammenzuführen. Der Spieler mit den meisten Punkten am Ende der Zeit gewinnt das Spiel.
+
+Triple Items ist ein großartiges Spiel zum Spaß und zum Gehirntraining. Probieren Sie es noch heute aus!

@@ -1,0 +1,22 @@
+Neuroduct is a fresh and innovative puzzle game that challenges your logic and spatial thinking. Slide tiles to align pipe segments and guide the neural flow to the green destination tile. Simple in concept, but increasingly complex in execution.
+
+Unique Gameplay
+Unlike traditional puzzle games, Neuroduct introduces a sliding mechanic where you move entire tiles containing pipe segments. The challenge lies in building a continuous path using only vertical and horizontal connections. With every move, the puzzle reshapes, demanding careful planning and smart decisions.
+
+Objective
+Connect the tubes so the signal reaches the green square — your final destination. Success depends on your ability to think ahead and manipulate the board efficiently.
+
+Immersive Soundtrack
+Neuroduct includes a curated background music playlist designed to enhance focus and immersion. Each track is selected to match the mood and complexity of your puzzle-solving experience.
+
+Original sliding puzzle mechanics with pipe connection logic
+
+Background music playlist that evolves with your progress
+
+Multiple handcrafted levels with increasing difficulty
+
+Special fixed tiles and advanced mechanics in later stages
+
+A relaxing yet mentally stimulating experience for puzzle lovers
+
+Challenge your mind, reshape the flow, and master the path in Neuroduct — the puzzle game that redefines the genre.

@@ -1,0 +1,9 @@
+Triple Items là một trò chơi trí tuệ đơn giản nhưng đầy thách thức. Mục tiêu của trò chơi là ghép 3 vật phẩm giống nhau lại với nhau để tạo ra một vật phẩm mới. Vật phẩm mới sẽ có sức mạnh lớn hơn vật phẩm cũ.
+
+Để chơi Triple Items, bạn cần di chuyển các vật phẩm xung quanh bàn chơi bằng cách chạm vào chúng. Khi bạn đã tìm thấy 3 vật phẩm giống nhau, chúng sẽ tự động ghép lại với nhau.
+
+Số điểm bạn nhận được sẽ phụ thuộc vào sức mạnh của vật phẩm mới. Vật phẩm càng mạnh, bạn sẽ nhận được càng nhiều điểm.
+
+Bạn sẽ có 30 giây để ghép càng nhiều vật phẩm càng tốt. Người chơi có nhiều điểm nhất khi hết thời gian sẽ thắng trò chơi.
+
+Triple Items là một trò chơi tuyệt vời để giải trí và rèn luyện trí não. Hãy thử ngay hôm nay!

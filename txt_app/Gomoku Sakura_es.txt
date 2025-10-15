@@ -1,0 +1,7 @@
+El tablero de ajedrez es un lugar para mostrar tu inteligencia y tus habilidades de cálculo. Comprender la psicología del oponente y predecir el camino es a lo que debes prestar atención cuando participas en este juego.
+
+Serás el ganador cuando conozcas las reglas del juego, pero no olvides que debes tener mucho cuidado con tus piezas.
+
+Este juego se juega como las damas, pero es difícil obtener puntos cuando bloqueas las dos piezas del oponente. Esta forma de jugar lo hace más interesante y especial que los estilos de juego tradicionales. Puedes jugar con amigos en el modo por turnos o jugar con inteligencia artificial en el modo AI
+
+Además, el juego ofrece innumerables músicas de fondo para que te relajes.

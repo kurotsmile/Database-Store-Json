@@ -1,0 +1,21 @@
+O jogo se chama "Penguins And Dice" e é um jogo divertido e emocionante para todas as idades. O objetivo do jogo é mover seus pinguins pelo tabuleiro, coletando bônus e evitando a eliminação.
+
+Para iniciar o jogo, cada jogador escolhe uma cor de pinguins (vermelho, azul, verde ou amarelo) e os coloca nos espaços iniciais do tabuleiro. O tabuleiro é composto por uma série de espaços, alguns com bônus e outros com penalidades.
+
+Em cada turno, o jogador lança dois dados. O número total no dado determina quantos espaços o jogador pode mover seus pinguins. Por exemplo, se o jogador rolar um 4 e um 3, ele pode mover um pinguim 7 espaços ou dois pinguins 4 e 3 espaços.
+
+O objetivo é coletar o máximo de bônus possível, evitando os espaços de penalidade. Os bônus incluem pinguins adicionais e jogadas de dados extras. Espaços de penalidade incluem espaços que eliminam um pinguim se outro pinguim for pisado.
+
+Se um jogador cair em um espaço de bônus, ele pode adicionar um pinguim adicional ao seu time, aumentando suas chances de vitória. Se um jogador cair em um espaço de penalidade e outro pinguim for pisado, esse pinguim será eliminado do jogo.
+
+O jogo continua até que um jogador tenha todos os seus pinguins eliminados ou até que um número predeterminado de rodadas tenha sido jogado. O jogador com mais pinguins restantes no final do jogo é declarado o vencedor.
+
+No geral, Penguins And Dice é um jogo divertido e emocionante que envolve estratégia, sorte e um pouco de risco. Com seus personagens fofos de pinguins e regras fáceis de aprender, com certeza será um sucesso entre jogadores de todas as idades.
+
+Robô
+
+Jogar contra robôs pode ser uma ótima maneira de praticar a estratégia e ter uma ideia do jogo antes de jogar contra outros jogadores humanos. Os robôs são programados para fazer movimentos inteligentes e imprevisíveis, então os jogadores precisarão ficar atentos e ajustar suas estratégias de acordo.
+
+Para jogar no modo robô, os jogadores simplesmente escolhem a opção "modo robô" ao configurar o jogo. Eles podem então selecionar o número e o nível de dificuldade dos robôs contra os quais desejam jogar.
+
+No geral, o modo robô adiciona um nível extra de desafio e emoção a Penguins And Dice, tornando-o um jogo que os jogadores podem desfrutar sozinhos ou com amigos. Seja jogando contra robôs ou oponentes humanos, Penguins And Dice é um jogo que certamente proporcionará horas de diversão e entretenimento.

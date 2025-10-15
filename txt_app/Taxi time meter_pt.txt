@@ -1,0 +1,11 @@
+Este é um ótimo aplicativo para substituir os cronômetros de táxi e cobrar de seus clientes
+
+Interface moderna e fácil interação com botões de funções básicas
+
+Contadores de distância e bons localizadores ajudarão os clientes e motoristas a usar durante a viagem
+
+Existem também muitas outras funções especiais, como visualizar a distância ao pressionar o botão gráfico no aplicativo
+
+Você pode ajustar o preço com a distância percorrida correspondente
+
+Ao usar o aplicativo, você deve conceder permissão de localização para poder calcular a distância correta e usar outras funções perfeitamente.

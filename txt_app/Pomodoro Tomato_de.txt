@@ -1,0 +1,9 @@
+Pomodoro Tomato ist eine Produktivitätsanwendung, die Benutzern dabei helfen soll, konzentriert zu bleiben und ihre Aufgaben effizient zu erledigen. Was Pomodoro Tomato einzigartig macht, ist die Möglichkeit, den Benutzern die Möglichkeit zu geben, ihre Intervalle anzupassen und ihre Statistiken zu verfolgen, sowie entspannende Instrumentalmusik, die ihnen hilft, sich in den Pausen zu entspannen.
+
+Mit Pomodoro Tomato können Benutzer ganz einfach ihre bevorzugten Arbeits- und Pausenintervalle festlegen. Sie können beispielsweise ein 25-minütiges Arbeitsintervall und ein 5-minütiges Pausenintervall festlegen. Benutzer können außerdem auswählen, wie viele Intervalle sie absolvieren möchten, bevor sie eine längere Pause einlegen. Dieser Grad der Anpassung ermöglicht es Benutzern, in ihrem eigenen Tempo zu arbeiten und über längere Zeiträume produktiv zu bleiben.
+
+Zusätzlich zur Intervallanpassung verfolgt Pomodoro Tomato die Statistiken des Benutzers. Benutzer können sehen, wie viel Zeit sie für jede Aufgabe aufgewendet haben, wie viele Intervalle sie absolviert haben und wie lange ihre Pausen waren. Diese Funktion hilft Benutzern, ihre Produktivität zu bewerten und ihre Arbeitsgewohnheiten zu verbessern.
+
+Zur Entspannung in den Pausen bietet Pomodoro Tomato außerdem eine Auswahl an Instrumentalmusik. Benutzer können aus einer Reihe von Genres wählen, darunter Klassik, Jazz und Ambient-Musik. Die beruhigenden Klänge helfen Benutzern, Stress abzubauen und neue Energie zu tanken, sodass sie erfrischt und konzentriert an ihre Arbeit zurückkehren können.
+
+Insgesamt ist Pomodoro Tomato eine vielseitige Produktivitätsanwendung, die Anpassung, Statistikverfolgung und entspannende Musik kombiniert. Egal, ob Sie Student, Berufstätiger oder einfach nur jemand sind, der produktiver sein möchte, Pomodoro Tomato ist ein großartiges Werkzeug, das Ihnen hilft, konzentriert zu bleiben und Ihre Ziele zu erreichen.

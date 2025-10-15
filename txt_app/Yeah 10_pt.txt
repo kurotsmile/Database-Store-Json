@@ -1,0 +1,11 @@
+Yeah 10 é um jogo de quebra-cabeça divertido e envolvente que pode ser jogado em uma grade de números. O objetivo do jogo é encontrar pares de números adjacentes cuja soma seja 10, ou pares de números semelhantes adjacentes entre si.
+
+
+
+A jogabilidade é simples e fácil de entender. Você começa olhando para a grade de números e procurando por pares de números adjacentes. Se você encontrar um par de números que somam 10, você pode selecioná-los e removê-los da grade. Isso lhe renderá pontos e liberará espaço na grade para mais números.
+
+Como alternativa, se você encontrar pares de números semelhantes adjacentes, poderá selecioná-los e removê-los da grade também. Isso também lhe renderá pontos e liberará espaço no grid.
+
+O jogo se torna mais desafiador à medida que você avança nos níveis, com mais números adicionados à grade e menos oportunidades de encontrar pares de números adjacentes ou números semelhantes. O jogo também inclui power-ups e bônus que podem ajudá-lo a limpar a grade com mais eficiência ou ganhar mais pontos.
+
+No geral, o Yeah 10 é um jogo de quebra-cabeça divertido e viciante que pode ser apreciado por jogadores de todas as idades e níveis de habilidade. É uma ótima maneira de passar o tempo e exercitar o cérebro ao mesmo tempo!

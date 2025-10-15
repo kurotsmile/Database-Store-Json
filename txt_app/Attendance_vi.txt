@@ -1,0 +1,22 @@
+Chào mừng bạn đến với Điểm danh - Giải pháp tối ưu của bạn để theo dõi điểm danh!
+
+Điểm danh là một ứng dụng mạnh mẽ và thân thiện với người dùng được thiết kế để giúp bạn quản lý hiệu quả việc điểm danh của sinh viên, sự kiện và nhiệm vụ. Cho dù bạn là nhà giáo dục, người tổ chức sự kiện hay người quản lý nhóm, Điểm danh đều cung cấp một bộ tính năng toàn diện để đáp ứng mọi nhu cầu theo dõi của bạn.
+
+Các tính năng chính:
+Đăng ký/trả phòng đơn giản: Dễ dàng đánh dấu điểm danh cho các cá nhân bằng quy trình đăng ký/trả phòng nhanh chóng. Lưu giữ hồ sơ chính xác về những người có mặt hoặc vắng mặt.
+
+Danh sách có thể tùy chỉnh: Tạo và quản lý danh sách tham dự phù hợp với yêu cầu cụ thể của bạn. Cho dù đó là dành cho lớp học, sự kiện hay dự án công việc, hãy tùy chỉnh danh sách của bạn để phù hợp với mọi bối cảnh.
+
+Quản lý sinh viên và người tham gia: Duy trì hồ sơ chi tiết cho sinh viên hoặc người tham gia, bao gồm thông tin liên hệ, lịch sử điểm danh và các ghi chú bổ sung.
+
+Theo dõi sự kiện và nhiệm vụ: Theo dõi liền mạch việc tham dự các sự kiện và nhiệm vụ khác nhau. Hoàn hảo cho các cuộc họp, hội thảo, hội nghị hoặc công việc hàng ngày.
+
+Tùy chọn đánh dấu nâng cao: Sử dụng nhiều loại điểm đánh dấu có mã màu để phân biệt các kiểu đi học khác nhau (ví dụ: có mặt, đi muộn, vắng mặt có lý do). Làm cho danh sách của bạn trực quan và dễ hiểu.
+
+Đồng hồ đếm ngược: Sử dụng đồng hồ đếm ngược cho các sự kiện hoặc nhiệm vụ được tính giờ, đảm bảo rằng bạn luôn đúng tiến độ và quản lý thời gian hiệu quả.
+
+Thống kê chi tiết: Tạo báo cáo và số liệu thống kê toàn diện để phân tích mô hình tham dự. Nhận thông tin chuyên sâu về xu hướng tham dự và đưa ra quyết định sáng suốt dựa trên dữ liệu.
+
+Thuộc tính tùy chỉnh: Thêm thuộc tính tùy chỉnh cho các cá nhân để theo dõi được cá nhân hóa hơn. Cho dù bạn cần lưu ý các nhu cầu, vai trò hoặc danh mục cụ thể, hãy điều chỉnh ứng dụng để nắm bắt thông tin bạn cần.
+
+Chấm công giúp đơn giản hóa quá trình quản lý chấm công, giúp bạn tiết kiệm thời gian và đảm bảo độ chính xác. Trải nghiệm sự tiện lợi và hiệu quả của Chấm công ngay hôm nay và kiểm soát việc theo dõi điểm danh của bạn hơn bao giờ hết!

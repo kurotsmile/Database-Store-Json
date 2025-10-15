@@ -1,0 +1,9 @@
+Try the feeling of detecting mines in space
+
+Henry is Earth's spaceship aircraft tasked with exploring mysterious galaxy regions
+
+unfortunately he got lost in the galaxy full of bombs, don't know what force created them
+
+Now he asks for your help, with sudoku judgment to find the locations where there are mines and you should flag those positions so that he can avoid going through.
+
+In addition, the game integrates many music boards, so it's good and simple to play to help you relax

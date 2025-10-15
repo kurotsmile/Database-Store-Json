@@ -1,0 +1,13 @@
+PlainSite es una aplicación de visualización web y almacenamiento fuera de línea de solo texto que ofrece una experiencia de navegación simplificada y sin distracciones para los usuarios que prefieren centrarse en el contenido en lugar de gráficos llamativos. Con PlainSite, los usuarios pueden guardar páginas web para verlas sin conexión, explorar contenido de texto sin formato, ver el código fuente y acceder a una variedad de funciones adicionales para administrar y organizar el contenido web.
+
+Una de las funciones clave de PlainSite es la capacidad de guardar páginas web para verlas más tarde, incluso sin conexión. Los usuarios pueden guardar páginas en formato de texto sin formato o como archivos HTML, que se pueden ver en cualquier editor de texto o navegador web. Esta característica es particularmente útil para quienes viajan con frecuencia o tienen acceso limitado a conexiones de Internet confiables.
+
+Además de guardar páginas web, PlainSite también ofrece un modo de navegación de texto sin formato que elimina todas las imágenes y el formato, dejando solo el contenido de texto sin procesar. Este modo es ideal para aquellos que prefieren una experiencia de lectura sin distracciones o que tienen un ancho de banda o recursos de dispositivo limitados.
+
+Para aquellos que quieren profundizar en la estructura de una página web, PlainSite también ofrece un visor de código fuente que muestra el código HTML subyacente en un formato simplificado y fácil de leer. Esta característica puede ser útil para solucionar problemas con enlaces rotos o falta de contenido.
+
+Otra función útil de PlainSite es la capacidad de listar todos los enlaces en una página, junto con sus tipos y tamaños de archivos asociados. Esto puede ser útil para identificar contenido que puede ser de interés o para solucionar problemas con enlaces rotos o archivos faltantes.
+
+Finalmente, PlainSite también ofrece una variedad de funciones adicionales para administrar y organizar contenido web, incluida la capacidad de etiquetar páginas con etiquetas o guardarlas en carpetas para recuperarlas fácilmente.
+
+En general, PlainSite es una herramienta versátil y poderosa para navegar y administrar contenido web en un formato de solo texto. Con su variedad de funciones para guardar páginas, explorar contenido de texto sin formato, ver el código fuente y administrar enlaces y archivos, es una herramienta esencial para cualquier persona que valore la simplicidad y la eficiencia en su experiencia de navegación web.

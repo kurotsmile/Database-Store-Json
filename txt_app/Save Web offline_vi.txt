@@ -1,0 +1,13 @@
+PlainSite là một ứng dụng lưu trữ ngoại tuyến và hiển thị web chỉ có văn bản, cung cấp trải nghiệm duyệt đơn giản, không bị phân tâm cho những người dùng thích tập trung vào nội dung hơn là đồ họa hào nhoáng. Với PlainSite, người dùng có thể lưu các trang web để xem ngoại tuyến, duyệt nội dung văn bản thuần túy, xem mã nguồn và truy cập một loạt các tính năng bổ sung để quản lý và sắp xếp nội dung web.
+
+Một trong những chức năng chính của PlainSite là khả năng lưu các trang web để xem sau, ngay cả khi ngoại tuyến. Người dùng có thể lưu các trang ở định dạng văn bản thuần túy hoặc dưới dạng tệp HTML, có thể xem được trong bất kỳ trình soạn thảo văn bản hoặc trình duyệt web nào. Tính năng này đặc biệt hữu ích cho những người thường xuyên di chuyển hoặc có quyền truy cập hạn chế vào các kết nối internet đáng tin cậy.
+
+Ngoài việc lưu các trang web, PlainSite còn cung cấp chế độ duyệt văn bản thuần túy loại bỏ tất cả hình ảnh và định dạng, chỉ để lại nội dung văn bản thô. Chế độ này lý tưởng cho những người thích trải nghiệm đọc không bị phân tâm hoặc những người có tài nguyên thiết bị hoặc băng thông hạn chế.
+
+Đối với những người muốn tìm hiểu sâu hơn về cấu trúc của trang web, PlainSite cũng cung cấp trình xem mã nguồn hiển thị mã HTML cơ bản ở định dạng đơn giản, dễ đọc. Tính năng này có thể hữu ích để khắc phục sự cố liên kết bị hỏng hoặc thiếu nội dung.
+
+Một chức năng hữu ích khác của PlainSite là khả năng liệt kê tất cả các liên kết trên một trang, cùng với các loại và kích thước tệp được liên kết của chúng. Điều này có thể hữu ích để xác định nội dung có thể được quan tâm hoặc để khắc phục sự cố với liên kết bị hỏng hoặc tệp bị thiếu.
+
+Cuối cùng, PlainSite cũng cung cấp một loạt các tính năng bổ sung để quản lý và sắp xếp nội dung trang web, bao gồm khả năng gắn thẻ các trang bằng nhãn hoặc lưu chúng vào các thư mục để dễ dàng truy xuất.
+
+Nhìn chung, PlainSite là một công cụ linh hoạt và mạnh mẽ để duyệt và quản lý nội dung trang web ở định dạng chỉ có văn bản. Với nhiều tính năng để lưu trang, duyệt nội dung văn bản thuần túy, xem mã nguồn cũng như quản lý các liên kết và tệp, đây là một công cụ cần thiết cho bất kỳ ai đánh giá cao sự đơn giản và hiệu quả trong trải nghiệm duyệt web của họ.

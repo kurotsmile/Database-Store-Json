@@ -1,0 +1,22 @@
+Bem-vindo ao Atendimento – Sua solução definitiva para rastreamento de atendimento!
+
+Attendance é um aplicativo poderoso e fácil de usar, projetado para ajudá-lo a gerenciar com eficiência a frequência de alunos, eventos e tarefas. Quer você seja um educador, organizador de eventos ou gerente de equipe, o Attendance oferece um conjunto abrangente de recursos para atender a todas as suas necessidades de rastreamento.
+
+Características principais:
+Check-in/check-out simples: marque facilmente a presença de indivíduos com um processo rápido de check-in/check-out. Mantenha registros precisos de quem está presente ou ausente.
+
+Listas personalizáveis: crie e gerencie listas de presença adaptadas às suas necessidades específicas. Seja para uma sala de aula, um evento ou um projeto de trabalho, personalize suas listas para se adequarem a qualquer contexto.
+
+Gerenciamento de alunos e participantes: mantenha perfis detalhados de alunos ou participantes, incluindo informações de contato, histórico de presença e notas adicionais.
+
+Rastreamento de eventos e tarefas: rastreie perfeitamente a participação em vários eventos e tarefas. Perfeito para reuniões, workshops, conferências ou tarefas diárias.
+
+Opções avançadas de marcação: Use uma variedade de marcadores codificados por cores para distinguir diferentes tipos de presença (por exemplo, presença, atraso, ausência justificada). Torne suas listas visualmente intuitivas e fáceis de interpretar.
+
+Cronômetros de contagem regressiva: Utilize cronômetros de contagem regressiva para eventos ou tarefas cronometradas, garantindo que você cumpra o cronograma e gerencie o tempo de maneira eficaz.
+
+Estatísticas detalhadas: gere relatórios e estatísticas abrangentes para analisar padrões de frequência. Obtenha insights sobre tendências de frequência e tome decisões informadas com base em dados.
+
+Atributos personalizados: adicione atributos personalizados a indivíduos para um rastreamento mais personalizado. Se você precisa anotar necessidades, funções ou categorias específicas, personalize o aplicativo para capturar as informações necessárias.
+
+O atendimento simplifica o processo de gerenciamento de atendimento, economizando tempo e garantindo precisão. Experimente a conveniência e eficiência do Atendimento hoje e assuma o controle do seu rastreamento de atendimento como nunca antes!

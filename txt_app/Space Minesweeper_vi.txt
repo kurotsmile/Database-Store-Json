@@ -1,0 +1,9 @@
+Thử cảm giác dò mìn ngoài vũ trụ
+
+Henry là máy bay phi thuyền của Trái đất có nhiệm vụ khám phá các vùng thiên hà bí ẩn
+
+không may anh lạc vào dải ngân hà đầy bom đạn, không biết thế lực nào đã tạo ra chúng
+
+Bây giờ anh ấy nhờ bạn giúp đỡ, với khả năng phán đoán sudoku để tìm ra những vị trí có mìn và bạn nên gắn cờ những vị trí đó để anh ấy tránh đi qua.
+
+Ngoài ra game tích hợp nhiều bảng nhạc nên cách chơi rất hay và đơn giản giúp bạn thư giãn

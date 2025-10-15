@@ -1,0 +1,9 @@
+El juego se llama "Dice Puzzle" y es un juego de rompecabezas desafiante y entretenido que puede ser jugado por individuos o equipos. El objetivo del juego es utilizar la estrategia y las habilidades de resolución de problemas para organizar los dados.
+
+El juego viene con un tablero de juego y un juego de dados, cada uno con números diferentes en los lados. El tablero tiene un patrón de cuadrícula con espacios designados para colocar los dados.
+
+Al comienzo de cada ronda, se revela un patrón objetivo. Luego, los jugadores deben tirar los dados y usarlos para recrear el patrón en el tablero.
+
+El juego tiene diferentes niveles de dificultad, desde fácil hasta experto. A medida que avanzan los niveles, los patrones de destino se vuelven más complejos y el límite de tiempo disminuye.
+
+Dice Puzzle es un juego divertido y atractivo que pueden disfrutar jugadores de todas las edades. Es una excelente manera de ejercitar la mente y mejorar las habilidades para resolver problemas mientras se divierte. El juego se puede jugar solo o con amigos, lo que lo convierte en una excelente opción para una noche de juegos en familia o como una actividad divertida con un grupo de amigos.

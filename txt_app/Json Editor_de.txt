@@ -1,0 +1,9 @@
+Dies ist eine Anwendung, die Ihnen hilft, JSON-Daten schnell zu entwerfen, ohne dass Sie Kenntnisse über den JSON-Datenquellcode haben
+
+Die Anwendung verfügt außerdem über eine Funktion zum Anzeigen des dekompilierten Quellcodes in einer Baumstruktur, um die Objekte im JSON-String anzuzeigen
+
+Generieren und speichern Sie JSON-Strings in einem Projekt, um sie bei Bedarf zu verwenden
+
+Fügen Sie einfach Eigenschaften, Arrays und Indizes hinzu. Immobilienwerte schnell und professionell ermitteln
+
+Die oben genannten Faktoren sind die Highlights, die Sie für diejenigen, die arbeiten und Programmieren entwickeln, nicht ignorieren können

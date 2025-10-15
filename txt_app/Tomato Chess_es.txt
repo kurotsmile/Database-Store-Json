@@ -1,0 +1,7 @@
+Conquista tu prueba inteligente y deducción para averiguar la posición correcta de la posición del tomate.
+
+Los tomates se colocan según un tablero de ajedrez de dos tipos diferentes. Incluye soldadura y columna, cada soldadura y núcleo tiene un índice que muestra la cantidad diferente de cada tipo de tomate, puede confiar en eso para predecir el número y la ubicación de su tipo de tomate
+
+Una vez que haya establecido una ubicación de tomate, abra una celda de tomate, haga clic en el cuadro recién abierto para ver más vecindarios con la cantidad de tomates por tipo.
+
+El juego termina y ganas cuando completas todos los tomates correcta y completamente en el tablero de ajedrez.

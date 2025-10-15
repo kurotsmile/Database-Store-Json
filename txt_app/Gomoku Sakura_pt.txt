@@ -1,0 +1,7 @@
+O tabuleiro de xadrez é um lugar para mostrar sua inteligência e habilidades de cálculo. Compreender a psicologia do adversário e prever o caminho é o que você precisa prestar atenção ao participar deste jogo
+
+Você será o vencedor quando souber as regras do jogo, mas não se esqueça que é preciso ter muito cuidado com as suas peças.
+
+Este jogo funciona como damas, mas é difícil ganhar pontos quando você bloqueia as duas peças do adversário. Esta forma de jogar torna-o mais interessante e especial do que os estilos de jogo tradicionais. Você pode jogar com amigos no modo baseado em turnos ou jogar com inteligência artificial no modo AI
+
+Além disso, o jogo oferece inúmeras músicas de fundo para você relaxar

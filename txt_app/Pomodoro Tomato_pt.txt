@@ -1,0 +1,9 @@
+Pomodoro Tomato é um aplicativo de produtividade projetado para ajudar os usuários a manter o foco e realizar suas tarefas com eficiência. O que torna o Pomodoro Tomato único é a capacidade de permitir que os usuários personalizem seus intervalos e acompanhem suas estatísticas, além de fornecer música instrumental relaxante para ajudá-los a relaxar durante os intervalos.
+
+Com o Pomodoro Tomato, os usuários podem definir facilmente seus intervalos preferidos de trabalho e pausa. Por exemplo, eles podem definir um intervalo de trabalho de 25 minutos e um intervalo de descanso de 5 minutos. Os usuários também podem escolher quantos intervalos desejam concluir antes de fazer uma pausa mais longa. Esse nível de personalização permite que os usuários trabalhem em seu próprio ritmo e permaneçam produtivos por períodos mais longos.
+
+Além da personalização do intervalo, o Pomodoro Tomato rastreia as estatísticas do usuário. Os usuários podem ver quanto tempo gastaram em cada tarefa, quantos intervalos concluíram e quanto tempo duraram as pausas. Esse recurso ajuda os usuários a avaliar sua produtividade e fazer melhorias em seus hábitos de trabalho.
+
+Para ajudar os usuários a relaxar durante os intervalos, o Pomodoro Tomato também oferece uma seleção de músicas instrumentais. Os usuários podem escolher entre uma variedade de gêneros, como música clássica, jazz e ambiente. Os sons suaves ajudam os usuários a desestressar e recarregar, para que possam retornar ao trabalho sentindo-se revigorados e focados.
+
+No geral, o Pomodoro Tomato é um aplicativo de produtividade versátil que combina personalização, rastreamento de estatísticas e música relaxante. Seja você um estudante, profissional ou apenas alguém que deseja ser mais produtivo, o Pomodoro Tomato é uma ótima ferramenta para ajudá-lo a manter o foco e atingir seus objetivos.

@@ -1,0 +1,7 @@
+Por favor, conquiste seu teste inteligente e dedução para descobrir a posição correta da posição do tomate.
+
+Os tomates são colocados de acordo com um tabuleiro de xadrez de dois tipos diferentes. Inclui solda e coluna cada solda e núcleo tem um índice que mostra a quantidade diferente de cada tipo de tomate, você pode confiar nisso para prever o número e a localização do seu tipo de tomate
+
+Depois de definir a localização do tomate, abra uma célula de tomate, clique na caixa recém-aberta para ver mais bairros com o número de tomates por tipo.
+
+O jogo acaba e você ganha quando preencher todos os tomates correta e completamente no tabuleiro de xadrez

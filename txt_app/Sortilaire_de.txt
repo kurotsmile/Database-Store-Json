@@ -1,0 +1,14 @@
+Solitaire, auch bekannt als Patience, ist ein Einzelspieler-Kartenspiel, das normalerweise mit einem Standardkartenspiel aus 52 Karten gespielt wird. Das Ziel des Spiels besteht darin, alle Karten gemäß einem bestimmten Regelwerk vom Tableau (Spielbereich) auf die Grundstapel (oben auf dem Bildschirm) zu verschieben.
+
+Zu Beginn werden die Karten gemischt und in sieben Tableauspalten verteilt, wobei die erste Spalte eine Karte, die zweite Spalte zwei Karten usw. enthält. Die oberste Karte in jeder Tableau-Spalte liegt offen, während die restlichen Karten verdeckt liegen.
+
+Die Grundstapel sind zunächst leer, können aber in einer bestimmten Reihenfolge aufgebaut werden, beginnend mit dem Ass jeder Farbe und endend mit dem König jeder Farbe.
+
+Die Spieler müssen die Karten im Tableau verwenden, um die Grundstapel gemäß den folgenden Regeln aufzubauen:
+
+Nur die oberste Karte jeder Tableau-Spalte kann verschoben werden, und sie kann auf die Grundstapel oder in eine andere Tableau-Spalte verschoben werden.
+Die Karten im Tableau müssen in wechselnden Farben (d. h. Rot und Schwarz) und in absteigender Reihenfolge gestapelt werden (d. h. ein König muss auf eine Dame, eine Dame auf einen Buben usw. gelegt werden).
+Wenn eine Tableau-Spalte geleert wird, kann ein König (und alle darauf befindlichen Karten) auf den leeren Platz verschoben werden.
+Wenn ein Spieler einen Punkt erreicht, an dem im Tableau keine Züge mehr möglich sind, kann er die oberste Karte vom Stapel (in der rechten Ecke des Bildschirms) umdrehen und weiterspielen. Das Spiel ist gewonnen, wenn alle Karten in der richtigen Reihenfolge auf die Ablagestapel gelegt wurden.
+
+Solitaire ist ein beliebtes Spiel, das in verschiedenen Situationen gespielt werden kann, vom Zeitvertreib am Computer bis hin zum Spielen mit echten Karten am Tisch. Es wird oft als gutes Spiel zur Verbesserung der Konzentration und des strategischen Denkens angesehen.

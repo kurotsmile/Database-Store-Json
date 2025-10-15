@@ -1,0 +1,1 @@
+EduSpeak là một ứng dụng sáng tạo và thân thiện với người dùng được thiết kế dành riêng cho học sinh trung học để nâng cao kỹ năng phát âm và nghe tiếng Anh của mình. Với các bài tập hấp dẫn, phản hồi theo thời gian thực và các bài học tương tác, EduSpeak giúp học sinh cải thiện tiếng Anh nói và phát triển sự tự tin khi giao tiếp

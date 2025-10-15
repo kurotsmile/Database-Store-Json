@@ -1,0 +1,9 @@
+Triple Items is a simple but challenging puzzle game. The goal of the game is to match 3 identical items together to create a new item. The new item will have a greater power than the old item.
+
+To play Triple Items, you need to move the items around the game board by tapping on them. When you have found 3 identical items, they will automatically merge together.
+
+The number of points you receive will depend on the power of the new item. The stronger the item, the more points you will receive.
+
+You will have 30 seconds to merge as many items as possible. The player with the most points at the end of the time will win the game.
+
+Triple Items is a great game for fun and brain training. Try it today!

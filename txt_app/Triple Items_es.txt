@@ -1,0 +1,9 @@
+Triple Items es un juego de rompecabezas simple pero desafiante. El objetivo del juego es hacer coincidir 3 elementos idénticos para crear un nuevo elemento. El nuevo elemento tendrá un poder mayor que el antiguo.
+
+Para jugar Elementos triples, debe mover los elementos alrededor del tablero de juego tocándolos. Cuando haya encontrado 3 elementos idénticos, se fusionarán automáticamente.
+
+La cantidad de puntos que reciba dependerá del poder del nuevo elemento. Cuanto más fuerte sea el artículo, más puntos recibirás.
+
+Tendrá 30 segundos para fusionar tantos elementos como sea posible. El jugador con más puntos al final del tiempo ganará el juego.
+
+Triple Items es un gran juego para divertirse y entrenar el cerebro. ¡Pruébalo hoy!

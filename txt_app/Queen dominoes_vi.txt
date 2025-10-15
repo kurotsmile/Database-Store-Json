@@ -1,0 +1,11 @@
+Trò chơi domino ngoại tuyến hai người chơi có thể chơi giữa người và rô-bốt. Trò chơi liên quan đến một bộ quân bài domino, được xáo trộn và chia cho mỗi người chơi. Người chơi thay phiên nhau đặt các ô trên bề mặt chơi, ghép các số trên ô với số trên các ô đã đặt. Trò chơi kết thúc khi một người chơi không còn ô nào trong tay hoặc khi không người chơi nào có thể thực hiện nước đi hợp lệ. Người chiến thắng là người chơi có ít ô còn lại nhất trong tay khi kết thúc trò chơi.
+
+Người chơi rô-bốt được lập trình để chơi có chiến lược, sử dụng thuật toán để xác định nước đi tối ưu dựa trên các ô mà nó có trong tay và các ô trên bề mặt chơi.
+
+Ngoài ra, trò chơi cũng có thể bao gồm các biến thể khác nhau của trò chơi như chặn hoặc vẽ domino. Khi chặn, người chơi cố gắng chặn đối thủ của họ di chuyển, trong khi rút domino, người chơi rút các ô từ một bãi xương khi họ không thể di chuyển.
+
+Để thêm phần thú vị, trò chơi cũng có thể cho phép người chơi tùy chỉnh hình thức của các ô và bề mặt chơi. Người chơi có thể chọn từ các chủ đề và hình nền khác nhau để làm cho trò chơi hấp dẫn hơn về mặt hình ảnh.
+
+Trò chơi có thể được chơi trên các nền tảng khác nhau như máy tính để bàn và thiết bị di động, giúp nhiều người chơi có thể truy cập được. Nó cũng có thể hỗ trợ nhiều ngôn ngữ để phục vụ người chơi từ các khu vực khác nhau.
+
+Nhìn chung, trò chơi domino ngoại tuyến hai người chơi với con người và rô bốt này là một cách tuyệt vời để dành thời gian với bạn bè và gia đình, cũng như thử thách bản thân trước một đối thủ rô bốt chiến lược.

@@ -1,0 +1,5 @@
+Você controla o verme para se mover para as maçãs e evitar os cantos da parede.
+Quando você comer as maçãs, você marcará pontos e seu verme crescerá e aumentará
+Para velocidade, consuma garrafas de água no caminho. O jogo apresenta um modo de jogo para dois jogadores, permitindo que você desafie seus amigos ou amantes.
+
+Desejo-lhe feliz jogo

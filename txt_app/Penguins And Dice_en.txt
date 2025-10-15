@@ -1,0 +1,21 @@
+The game is called "Penguins And Dice", and it is a fun and exciting game for all ages. The objective of the game is to move your penguins around the board, collecting bonuses and avoiding elimination.
+
+To start the game, each player chooses a color of penguins (red, blue, green, or yellow) and places them on the starting spaces on the board. The board is made up of a series of spaces, some with bonuses and some with penalties.
+
+On each turn, the player rolls two dice. The total number on the dice determines how many spaces the player can move their penguins. For example, if the player rolls a 4 and a 3, they can move one penguin 7 spaces or two penguins 4 and 3 spaces.
+
+The goal is to collect as many bonuses as possible while avoiding the penalty spaces. Bonuses include additional penguins and extra dice rolls. Penalty spaces include spaces that eliminate a penguin if another penguin is stepped over.
+
+If a player lands on a bonus space, they can add an additional penguin to their team, increasing their chances of winning. If a player lands on a penalty space and another penguin is stepped over, that penguin is eliminated from the game.
+
+The game continues until one player has all of their penguins eliminated, or until a predetermined number of rounds have been played. The player with the most penguins remaining at the end of the game is declared the winner.
+
+Overall, Penguins And Dice is a fun and exciting game that involves strategy, luck, and a bit of risk-taking. With its cute penguin characters and easy-to-learn rules, it is sure to be a hit with players of all ages.
+
+Robot
+
+Playing against robots can be a great way to practice strategy and get a feel for the game before playing against other human players. The robots are programmed to make smart and unpredictable moves, so players will need to stay on their toes and adjust their strategies accordingly.
+
+To play in robot mode, players simply choose the "robot mode" option when setting up the game. They can then select the number and difficulty level of the robots they want to play against.
+
+Overall, the robot mode adds an extra level of challenge and excitement to Penguins And Dice, making it a game that players can enjoy both on their own and with friends. Whether playing against robots or human opponents, Penguins And Dice is a game that is sure to provide hours of fun and entertainment.

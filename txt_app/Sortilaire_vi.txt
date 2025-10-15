@@ -1,0 +1,14 @@
+Solitaire, còn được gọi là Kiên nhẫn, là một trò chơi bài một người chơi thường được chơi với bộ bài tiêu chuẩn gồm 52 lá bài. Mục tiêu của trò chơi là di chuyển tất cả các thẻ từ hoạt cảnh (khu vực chơi) đến cọc móng (nằm ở đầu màn hình), theo một bộ quy tắc cụ thể.
+
+Để bắt đầu, các quân bài được xáo trộn và chia thành bảy cột hoạt cảnh, với cột đầu tiên chứa một quân bài, cột thứ hai chứa hai quân bài, v.v. Thẻ trên cùng trong mỗi cột hoạt cảnh được úp, trong khi các thẻ còn lại úp xuống.
+
+Các cọc móng ban đầu trống, nhưng có thể được xây dựng theo một thứ tự cụ thể, bắt đầu với quân Át của mỗi bộ và kết thúc với quân Vua của mỗi bộ.
+
+Người chơi phải sử dụng các thẻ trong hoạt cảnh để xây dựng các cọc móng, theo các quy tắc sau:
+
+Chỉ có thể di chuyển thẻ trên cùng của mỗi cột hoạt cảnh và nó có thể được di chuyển đến các cọc móng hoặc đến một cột hoạt cảnh khác.
+Các quân bài trong hoạt cảnh phải được xếp chồng lên nhau theo các màu xen kẽ (tức là đỏ và đen) và theo thứ tự giảm dần (tức là quân Vua phải được đặt trên quân Hậu, quân Hậu trên quân Jack, v.v.).
+Nếu một cột hoạt cảnh bị trống, một quân Vua (và bất kỳ quân bài nào có thể ở trên nó) có thể được di chuyển đến chỗ trống.
+Nếu người chơi đạt đến điểm không thể di chuyển nữa trong hoạt cảnh, họ có thể lật thẻ trên cùng từ đống chứng khoán (nằm ở góc bên phải của màn hình) và tiếp tục chơi. Trò chơi thắng khi tất cả các thẻ đã được chuyển đến cọc móng theo đúng thứ tự.
+
+Solitaire là một trò chơi phổ biến có thể chơi trong nhiều bối cảnh khác nhau, từ giết thời gian trên máy tính đến chơi bằng quân bài thực tại bàn. Nó thường được coi là một trò chơi tốt để cải thiện sự tập trung và tư duy chiến lược.

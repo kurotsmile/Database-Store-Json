@@ -1,0 +1,14 @@
+Solitaire, também conhecido como Patience, é um jogo de cartas para um jogador que normalmente é jogado com um baralho padrão de 52 cartas. O objetivo do jogo é mover todas as cartas do tabuleiro (área de jogo) para as pilhas de fundação (localizadas na parte superior da tela), de acordo com um conjunto específico de regras.
+
+Para começar, as cartas são embaralhadas e distribuídas em sete colunas do tabuleiro, com a primeira coluna contendo uma carta, a segunda coluna contendo duas cartas e assim por diante. A carta do topo de cada coluna da mesa está voltada para cima, enquanto as demais cartas estão voltadas para baixo.
+
+As pilhas de fundação estão inicialmente vazias, mas podem ser construídas em uma ordem específica, começando com o Ás de cada naipe e terminando com o Rei de cada naipe.
+
+Os jogadores devem usar as cartas do quadro para construir as pilhas de fundação, de acordo com as seguintes regras:
+
+Apenas a carta do topo de cada coluna da mesa pode ser movida e pode ser movida para as pilhas de fundação ou para outra coluna da mesa.
+As cartas no quadro devem ser empilhadas em cores alternadas (ou seja, vermelho e preto) e em ordem decrescente (ou seja, um rei deve ser colocado em uma rainha, uma rainha em um valete e assim por diante).
+Se uma coluna da mesa estiver vazia, um Rei (e quaisquer cartas que possam estar em cima dele) pode ser movido para o espaço vazio.
+Se um jogador chegar a um ponto em que não há mais movimentos possíveis no tabuleiro, ele pode virar a carta do topo da pilha de estoque (localizada no canto direito da tela) e continuar jogando. O jogo é ganho quando todas as cartas forem movidas para as pilhas de fundação na ordem correta.
+
+Solitaire é um jogo popular que pode ser jogado em uma variedade de configurações, desde passar o tempo em um computador até jogar com cartas reais em uma mesa. Muitas vezes é considerado um bom jogo para melhorar a concentração e o pensamento estratégico.

@@ -1,0 +1,9 @@
+O aplicativo testa o desempenho gráfico do seu dispositivo, se o seu dispositivo está qualificado para jogar e servir um trabalho de design gráfico
+
+Esta é realmente uma boa ferramenta para avaliar o desempenho do seu processador gráfico.
+
+Com o índice de fps, memória RAM e outras informações para ajudá-lo a entender claramente a capacidade do seu dispositivo de funcionar em aplicativos de processamento de imagem ou jogos em que seu dispositivo tenha uma boa experiência.
+
+Com o gerador de objetos virtuais 3D do personagem de peixe baleia, você pode soltá-los no tanque para medir a suavidade do índice de indexação de fps.
+
+Com o usuário o ranking mostrará qual equipamento é o mais forte com a quantidade de peixes soltos

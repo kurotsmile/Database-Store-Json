@@ -1,0 +1,21 @@
+El juego se llama "Penguins And Dice", y es un juego divertido y emocionante para todas las edades. El objetivo del juego es mover a tus pingüinos por el tablero, recolectar bonos y evitar la eliminación.
+
+Para comenzar el juego, cada jugador elige un color de pingüinos (rojo, azul, verde o amarillo) y los coloca en los espacios iniciales del tablero. El tablero se compone de una serie de espacios, algunos con bonificaciones y otros con penalizaciones.
+
+En cada turno, el jugador tira dos dados. El número total en los dados determina cuántos espacios el jugador puede mover sus pingüinos. Por ejemplo, si el jugador saca un 4 y un 3, puede mover un pingüino 7 espacios o dos pingüinos 4 y 3 espacios.
+
+El objetivo es recolectar tantos bonos como sea posible evitando los espacios de penalización. Los bonos incluyen pingüinos adicionales y tiradas de dados adicionales. Los espacios de penalización incluyen espacios que eliminan a un pingüino si se pasa por encima de otro pingüino.
+
+Si un jugador aterriza en un espacio de bonificación, puede agregar un pingüino adicional a su equipo, lo que aumenta sus posibilidades de ganar. Si un jugador aterriza en un espacio de penalización y se pasa por encima de otro pingüino, ese pingüino se elimina del juego.
+
+El juego continúa hasta que un jugador haya eliminado todos sus pingüinos, o hasta que se haya jugado un número predeterminado de rondas. El jugador con la mayor cantidad de pingüinos restantes al final del juego es declarado ganador.
+
+En general, Penguins And Dice es un juego divertido y emocionante que involucra estrategia, suerte y un poco de riesgo. Con sus lindos personajes de pingüinos y reglas fáciles de aprender, seguramente será un éxito entre los jugadores de todas las edades.
+
+Robot
+
+Jugar contra robots puede ser una excelente manera de practicar la estrategia y tener una idea del juego antes de jugar contra otros jugadores humanos. Los robots están programados para realizar movimientos inteligentes e impredecibles, por lo que los jugadores deberán mantenerse alerta y ajustar sus estrategias en consecuencia.
+
+Para jugar en modo robot, los jugadores simplemente eligen la opción "modo robot" al configurar el juego. Luego pueden seleccionar el número y el nivel de dificultad de los robots contra los que quieren jugar.
+
+En general, el modo robot agrega un nivel adicional de desafío y emoción a Penguins And Dice, lo que lo convierte en un juego que los jugadores pueden disfrutar tanto solos como con amigos. Ya sea que juegues contra robots o contra oponentes humanos, Penguins And Dice es un juego que seguramente te brindará horas de diversión y entretenimiento.

@@ -1,0 +1,11 @@
+El juego de dominó fuera de línea para dos jugadores que se puede jugar entre un humano y un robot. El juego consiste en un conjunto de fichas de dominó, que se barajan y se reparten a cada jugador. Los jugadores se turnan para colocar fichas en la superficie de juego, haciendo coincidir los números de las fichas con los de las fichas ya colocadas. El juego termina cuando a un jugador no le quedan fichas en la mano, o cuando ninguno de los jugadores puede hacer un movimiento válido. El ganador es el jugador con la menor cantidad de fichas en su mano al final del juego.
+
+El jugador robot está programado para jugar estratégicamente, utilizando algoritmos para determinar los movimientos óptimos en función de las fichas que tiene en la mano y las que se encuentran en la superficie de juego.
+
+Además, el juego también puede incluir diferentes variaciones del juego, como bloquear o dibujar dominó. En el bloqueo, los jugadores intentan impedir que su oponente haga un movimiento, mientras que en el dominó de sorteo, los jugadores sacan fichas de un cementerio cuando no pueden hacer un movimiento.
+
+Para aumentar la diversión, el juego también puede permitir a los jugadores personalizar la apariencia de las fichas y la superficie de juego. Los jugadores pueden elegir entre diferentes temas y fondos para hacer que el juego sea visualmente más atractivo.
+
+El juego se puede jugar en diferentes plataformas, como computadoras de escritorio y dispositivos móviles, lo que lo hace accesible para una amplia gama de jugadores. También puede admitir varios idiomas para atender a los jugadores de diferentes regiones.
+
+En general, este juego de dominó sin conexión para dos jugadores con juego de humanos y robots es una excelente manera de pasar tiempo con amigos y familiares, así como de desafiarse a sí mismo contra un oponente robot estratégico.

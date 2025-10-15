@@ -1,0 +1,11 @@
+Ứng dụng Trình soạn thảo XML có chức năng thiết kế XML là một công cụ phần mềm được thiết kế để tạo, chỉnh sửa và thao tác các tệp XML. Nó cung cấp một giao diện thân thiện với người dùng để người dùng nhập mã XML, thêm, xóa hoặc sửa đổi các thành phần và định dạng cấu trúc của tài liệu. Ngoài ra, nó cung cấp một chế độ thiết kế nơi người dùng có thể thiết kế một đối tượng XML bằng một giao diện trực quan.
+
+Ứng dụng này có hai chế độ chỉnh sửa: mã và chế độ thiết kế. Ở chế độ mã, người dùng có thể trực tiếp chỉnh sửa mã XML bằng cách nhập mã theo cách thủ công hoặc sao chép và dán mã từ một tệp hiện có. Chế độ mã hữu ích cho người dùng có kinh nghiệm với XML và muốn làm việc trực tiếp với ngôn ngữ đánh dấu.
+
+Trong chế độ thiết kế, người dùng có thể tạo hoặc chỉnh sửa tài liệu XML bằng giao diện trực quan cho phép họ kéo và thả các phần tử, đặt thuộc tính và định dạng cấu trúc của tài liệu mà không cần phải viết mã. Chế độ thiết kế lý tưởng cho người dùng mới sử dụng XML hoặc thích giao diện trực quan hơn.
+
+Ứng dụng soạn thảo XML cung cấp một loạt các tính năng như đánh dấu cú pháp, tự động hoàn thành, xác thực và định dạng giúp người dùng tạo các tài liệu XML có định dạng tốt và không có lỗi. Ứng dụng này cũng cho phép người dùng xác thực các tệp XML của họ dựa trên lược đồ DTD hoặc XSD và cung cấp bản xem trước của kết quả cuối cùng.
+
+Chế độ thiết kế của trình soạn thảo XML cung cấp một giao diện trực quan để tạo các tài liệu XML. Chế độ thiết kế thường cung cấp chế độ xem dạng cây của tài liệu XML, cho phép người dùng điều hướng và sửa đổi cấu trúc tài liệu. Người dùng có thể chọn các thành phần từ bảng các thành phần có sẵn và kéo chúng vào chế độ xem dạng cây của tài liệu. Chế độ thiết kế cũng cho phép người dùng đặt các thuộc tính và giá trị của thành phần bằng cách điền vào biểu mẫu.
+
+Tóm lại, một ứng dụng soạn thảo XML có chức năng thiết kế cung cấp cho người dùng hai chế độ chỉnh sửa, mã và chế độ thiết kế, cho phép người dùng có trình độ chuyên môn khác nhau làm việc với các tài liệu XML. Ứng dụng soạn thảo XML cung cấp một loạt các tính năng để giúp việc tạo, chỉnh sửa và thao tác tài liệu XML trở nên đơn giản và hiệu quả hơn.

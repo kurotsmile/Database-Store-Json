@@ -1,0 +1,5 @@
+Trình mô phỏng trường đua ngựa với hai chế độ khảo sát và đặt cược.
+
+Với chế độ khảo sát sẽ cho bạn kết quả với mô tả sinh động, bạn có thể chọn thêm nhiều kết quả khác và Chương trình là tập hợp của nhiều thuật toán ngẫu nhiên giúp điều chỉnh cuộc đua. động và thực
+
+Chế độ cá cược với mỗi lần đặt cược đúng bạn sẽ được cộng điểm với tổng kết quả trung bình cộng sẽ giúp bạn đạt được kết quả với số điểm được đánh để có thể tham gia xếp hạng người chơi trong hệ thống chương trình qua carro. tài khoản

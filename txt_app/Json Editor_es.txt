@@ -1,0 +1,9 @@
+Esta es una aplicación que lo ayuda a diseñar datos json rápidamente sin tener ningún conocimiento del código fuente de datos json
+
+La aplicación también tiene una función para ver el código fuente descompilado en un árbol para ver los objetos en la cadena json.
+
+Genere y almacene cadenas json en un proyecto para usar según sea necesario
+
+Agregue propiedades, matrices e índices de forma sencilla. Establezca valores de propiedad de forma rápida y profesional.
+
+Los factores anteriores son los aspectos más destacados que no puede ignorar para quienes trabajan y desarrollan la programación.

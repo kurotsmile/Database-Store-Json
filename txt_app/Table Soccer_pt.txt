@@ -1,0 +1,1 @@
+O jogo simula uma mesa de futebol, você controla as linhas das bolas do seu time para bloquear as bolas do adversário. Depois de segurar a bola, passe a bola para seus companheiros de equipe para escolher o momento certo para marcar um gol

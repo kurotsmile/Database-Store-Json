@@ -1,0 +1,9 @@
+Die Anwendung testet die Grafikleistung Ihres Geräts, ob Ihr Gerät zum Spielen von Spielen und für Grafikdesign-Aufgaben geeignet ist
+
+Dies ist wirklich ein gutes Tool zur Beurteilung der Leistung Ihres Grafikprozessors.
+
+Mithilfe des FPS-Index, des RAM und anderer Informationen können Sie die Leistungsfähigkeit Ihres Geräts für Bildverarbeitungsanwendungen oder Spiele, bei denen Ihr Gerät eine gute Erfahrung macht, klar erfassen.
+
+Mit dem virtuellen 3D-Objektgenerator für Walfischfiguren können Sie sie in den Tank fallen lassen, um zu messen, wie glatt der FPS-Indizierungsindex ist.
+
+Mit der User-Rangliste wird angezeigt, wessen Ausrüstung mit der Anzahl der freigelassenen Fische am stärksten ist

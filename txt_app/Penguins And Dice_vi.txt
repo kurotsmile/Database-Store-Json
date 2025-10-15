@@ -1,0 +1,21 @@
+Trò chơi có tên là "Chim cánh cụt và súc sắc", đây là một trò chơi thú vị và hấp dẫn dành cho mọi lứa tuổi. Mục tiêu của trò chơi là di chuyển những chú chim cánh cụt của bạn xung quanh bàn cờ, thu thập tiền thưởng và tránh bị loại.
+
+Để bắt đầu trò chơi, mỗi người chơi chọn một màu của chim cánh cụt (đỏ, xanh dương, xanh lá cây hoặc vàng) và đặt chúng vào ô bắt đầu trên bàn cờ. Bảng được tạo thành từ một loạt các khoảng trống, một số có tiền thưởng và một số có hình phạt.
+
+Trên mỗi lượt, người chơi tung hai viên xúc xắc. Tổng số trên xúc xắc xác định số ô mà người chơi có thể di chuyển chim cánh cụt của mình. Ví dụ: nếu người chơi cuộn được số 4 và số 3, họ có thể di chuyển một con chim cánh cụt 7 ô hoặc hai con chim cánh cụt 4 và 3 ô.
+
+Mục tiêu là thu thập càng nhiều tiền thưởng càng tốt trong khi tránh các khoảng trống phạt. Tiền thưởng bao gồm thêm chim cánh cụt và cuộn xúc xắc bổ sung. Không gian hình phạt bao gồm các không gian loại bỏ một con chim cánh cụt nếu một con chim cánh cụt khác bước qua.
+
+Nếu người chơi đáp xuống một không gian thưởng, họ có thể thêm một chú chim cánh cụt bổ sung vào đội của mình, tăng cơ hội chiến thắng. Nếu một người chơi tiếp đất trên một ô phạt và một chú chim cánh cụt khác bước qua, chú chim cánh cụt đó sẽ bị loại khỏi trò chơi.
+
+Trò chơi tiếp tục cho đến khi một người chơi loại bỏ hết số chim cánh cụt của họ hoặc cho đến khi đã chơi xong một số vòng xác định trước. Người chơi còn lại nhiều chim cánh cụt nhất khi kết thúc trò chơi được tuyên bố là người chiến thắng.
+
+Nhìn chung, Penguins And Dice là một trò chơi thú vị và hấp dẫn liên quan đến chiến lược, may mắn và một chút mạo hiểm. Với các nhân vật chim cánh cụt dễ thương và luật chơi dễ học, trò chơi chắc chắn sẽ gây ấn tượng với người chơi ở mọi lứa tuổi.
+
+người máy
+
+Chơi với rô-bốt có thể là một cách tuyệt vời để thực hành chiến lược và cảm nhận về trò chơi trước khi đấu với những người chơi khác là con người. Các rô-bốt được lập trình để thực hiện các bước di chuyển thông minh và không thể đoán trước, vì vậy người chơi sẽ cần phải luôn cảnh giác và điều chỉnh chiến lược của mình cho phù hợp.
+
+Để chơi ở chế độ robot, người chơi chỉ cần chọn tùy chọn "chế độ robot" khi thiết lập trò chơi. Sau đó, họ có thể chọn số lượng và mức độ khó của robot mà họ muốn đối đầu.
+
+Nhìn chung, chế độ rô-bốt bổ sung thêm mức độ thử thách và hứng thú cho Chim cánh cụt và xúc xắc, khiến nó trở thành trò chơi mà người chơi có thể thưởng thức một mình và cùng bạn bè. Cho dù chơi với rô-bốt hay đối thủ là con người, Chim cánh cụt và xúc xắc là một trò chơi chắc chắn sẽ mang đến hàng giờ vui vẻ và giải trí.

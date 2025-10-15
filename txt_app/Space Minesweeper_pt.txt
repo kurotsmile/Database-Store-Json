@@ -1,0 +1,9 @@
+Experimente a sensação de detectar minas no espaço
+
+Henry é a nave espacial da Terra encarregada de explorar regiões misteriosas da galáxia
+
+infelizmente ele se perdeu na galáxia cheia de bombas, não sei que força as criou
+
+Agora ele pede sua ajuda, com julgamento de sudoku para encontrar os locais onde existem minas e você deve sinalizar essas posições para que ele evite passar.
+
+Além disso, o jogo integra muitos quadros de música, por isso é bom e simples de jogar para ajudá-lo a relaxar

@@ -1,0 +1,11 @@
+Um aplicativo Editor de XML com função de designer de XML é uma ferramenta de software projetada para criar, editar e manipular arquivos XML. Ele fornece uma interface amigável para que os usuários insiram código XML, adicionem, excluam ou modifiquem elementos e formatem a estrutura do documento. Além disso, oferece um modo de designer onde os usuários podem projetar um objeto XML por meio de uma interface intuitiva.
+
+O aplicativo possui dois modos de edição: código e modo designer. No modo de código, os usuários podem editar diretamente o código XML, digitando-o manualmente ou copiando-o e colando-o de um arquivo existente. O modo de código é útil para usuários que têm experiência com XML e desejam trabalhar diretamente com a linguagem de marcação.
+
+No modo designer, os usuários podem criar ou editar um documento XML usando uma interface visual que permite arrastar e soltar elementos, definir atributos e formatar a estrutura do documento sem precisar escrever o código. O modo Designer é ideal para usuários que são novos em XML ou preferem uma interface mais intuitiva.
+
+O aplicativo editor de XML fornece uma variedade de recursos, como realce de sintaxe, preenchimento automático, validação e formatação que ajudam os usuários a criar documentos XML bem formados e sem erros. O aplicativo também permite que os usuários validem seus arquivos XML em um esquema DTD ou XSD e fornece uma visualização do resultado final.
+
+O modo designer do editor XML oferece uma interface intuitiva para criar documentos XML. O modo de designer geralmente fornece uma exibição em árvore do documento XML, permitindo que os usuários naveguem e modifiquem a estrutura do documento. Os usuários podem selecionar elementos de uma paleta de elementos disponíveis e arrastá-los para a visualização em árvore do documento. O modo designer também permite que os usuários definam atributos e valores de elementos preenchendo um formulário.
+
+Em resumo, um aplicativo editor de XML com uma função de designer fornece aos usuários dois modos de edição, código e modo de designer, permitindo que usuários com vários graus de experiência trabalhem com documentos XML. O aplicativo editor de XML oferece uma variedade de recursos para tornar a criação, edição e manipulação de documentos XML mais simples e eficientes.

@@ -1,0 +1,9 @@
+¿Tuviste un momento feliz?
+
+Esta es una aplicación de calendario que registra tus emociones día a día y puedes hacer estadísticas de cómo ha pasado un mes o un año, cómo has vivido con emoticonos tristes, alegres, solitarios.
+
+Esto es interesante, ¿no?
+
+Además, puede utilizar esta aplicación con el fin de programar días importantes y la aplicación le notificará cuando tenga un trabajo programado para ese día.
+
+¡Registre sus emociones día a día para que la aplicación evalúe si está viviendo una vida feliz o no!

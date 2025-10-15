@@ -1,0 +1,7 @@
+Bitte bestehen Sie Ihren intelligenten Test und Abzug, um die richtige Position der Tomate herauszufinden.
+
+Die Tomaten werden schachbrettartig in zwei verschiedene Sorten gelegt. Beinhaltet Lot und Säule. Jede Schweißnaht und jeder Kern verfügt über einen Index, der die unterschiedliche Menge jeder Tomatensorte anzeigt. Sie können sich darauf verlassen, dass Sie die Anzahl und den Standort Ihrer Tomatensorte vorhersagen können
+
+Sobald Sie einen Tomatenstandort festgelegt haben, öffnen Sie eine Tomatenzelle und klicken Sie auf das neu geöffnete Feld, um weitere Stadtteile mit der Anzahl der Tomaten nach Sorte anzuzeigen.
+
+Das Spiel ist beendet und Sie gewinnen, wenn Sie alle Tomaten richtig und vollständig auf dem Schachbrett ausgefüllt haben

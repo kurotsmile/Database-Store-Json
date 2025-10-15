@@ -1,0 +1,6 @@
+ứng dụng, trò chơi giúp ích cho người mất ngủ, ngủ không sâu giấc. Với 2 chức năng Đi ngủ và chơi game.
+
+Bạn chỉ cần chọn số cừu và nhìn vào màn hình để làm cho hồn bạn giật mình đếm cừu nhảy qua hàng rào, bạn sẽ chìm vào giấc ngủ. Khi bạn đang ngủ
+Ứng dụng sẽ tự động tắt màn hình để bảo vệ dung lượng pin của thiết bị
+
+Bạn cũng có thể chơi game vui nhộn này điều khiển từng chú cừu nhảy qua hàng rào bạn sẽ ghi điểm, mỗi chú cừu nó sẽ thêm chữ cái tương ứng với nút chọn thời điểm nhảy phù hợp bạn sẽ giành chiến thắng trong trò chơi. chơi

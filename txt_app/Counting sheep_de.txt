@@ -1,0 +1,6 @@
+Anwendung, Spielhilfe für Menschen, die den Schlaf verlieren, nicht tief schlafen. Mit 2 Funktionen. Ins Bett gehen und spielen.
+
+Sie müssen nur die Anzahl der Schafe auswählen und auf den Bildschirm schauen, um Ihre Seele zu erschrecken. Wenn Sie Schafe zählen, die über einen Zaun springen, werden Sie einschlafen. Wenn du schläfst
+Die Anwendung schaltet den Bildschirm automatisch aus, um die Akkukapazität des Geräts zu schonen
+
+Sie können dieses unterhaltsame Spiel auch spielen, um jedes Schaf zu steuern, das über den Zaun springt. Sie erhalten Punkte, jedes Schaf fügt Buchstaben entsprechend der Schaltfläche hinzu, wählt den richtigen Zeitpunkt zum Springen und gewinnt das Spiel. spielen

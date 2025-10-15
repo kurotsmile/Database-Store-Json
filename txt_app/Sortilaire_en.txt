@@ -1,0 +1,14 @@
+Solitaire, also known as Patience, is a single-player card game that is typically played with a standard deck of 52 cards. The objective of the game is to move all of the cards from the tableau (playing area) to the foundation piles (located at the top of the screen), according to a specific set of rules.
+
+To begin, the cards are shuffled and dealt out into seven tableau columns, with the first column containing one card, the second column containing two cards, and so on. The top card in each tableau column is face-up, while the rest of the cards are face-down.
+
+The foundation piles are initially empty, but can be built up in a specific order, starting with the Ace of each suit and ending with the King of each suit.
+
+Players must use the cards in the tableau to build up the foundation piles, according to the following rules:
+
+Only the top card of each tableau column can be moved, and it can be moved to the foundation piles or to another tableau column.
+Cards in the tableau must be stacked in alternating colors (i.e. red and black), and in descending order (i.e. a King must be placed on a Queen, a Queen on a Jack, and so on).
+If a tableau column is emptied, a King (and any cards that may be on top of it) can be moved to the empty space.
+If a player reaches a point where no more moves are possible in the tableau, they can turn over the top card from the stock pile (located in the right corner of the screen) and continue playing. The game is won when all cards have been moved to the foundation piles in the correct order.
+
+Solitaire is a popular game that can be played in a variety of settings, from passing the time on a computer to playing with actual cards at a table. It is often considered a good game for improving concentration and strategic thinking.

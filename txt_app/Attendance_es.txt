@@ -1,0 +1,22 @@
+Bienvenido a Asistencia: ¡su solución definitiva para realizar un seguimiento de la asistencia!
+
+Attendance es una aplicación poderosa y fácil de usar diseñada para ayudarlo a administrar de manera eficiente la asistencia de estudiantes, eventos y tareas. Ya sea educador, organizador de eventos o gerente de equipo, Attendance ofrece un conjunto integral de funciones para satisfacer todas sus necesidades de seguimiento.
+
+Características clave:
+Registro de entrada/salida sencillo: marque fácilmente la asistencia de las personas con un proceso rápido de registro de entrada/salida. Mantenga registros precisos de quién está presente o ausente.
+
+Listas personalizables: cree y administre listas de asistencia adaptadas a sus requisitos específicos. Ya sea para un salón de clases, un evento o un proyecto de trabajo, personalice sus listas para adaptarlas a cualquier contexto.
+
+Gestión de estudiantes y participantes: mantenga perfiles detallados para estudiantes o participantes, incluida información de contacto, historial de asistencia y notas adicionales.
+
+Seguimiento de eventos y tareas: realice un seguimiento fluido de la asistencia a diversos eventos y tareas. Perfecto para reuniones, talleres, conferencias o tareas diarias.
+
+Opciones de calificación avanzadas: use una variedad de marcadores codificados por colores para distinguir diferentes tipos de asistencia (por ejemplo, presente, tarde, ausencia justificada). Haga sus listas visualmente intuitivas y fáciles de interpretar.
+
+Temporizadores de cuenta regresiva: utilice temporizadores de cuenta regresiva para eventos o tareas cronometrados, asegurándose de cumplir con el cronograma y administrar el tiempo de manera efectiva.
+
+Estadísticas detalladas: genere informes y estadísticas completos para analizar patrones de asistencia. Obtenga información sobre las tendencias de asistencia y tome decisiones informadas basadas en datos.
+
+Atributos personalizados: agregue atributos personalizados a las personas para un seguimiento más personalizado. Ya sea que necesite anotar necesidades, roles o categorías específicas, adapte la aplicación para capturar la información que necesita.
+
+La asistencia simplifica el proceso de gestión de la asistencia, lo que le ahorra tiempo y garantiza la precisión. ¡Experimente la conveniencia y eficiencia de Asistencia hoy y tome el control de su seguimiento de asistencia como nunca antes!

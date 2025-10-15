@@ -1,0 +1,5 @@
+Rennbahnsimulator mit zwei Umfrage- und Wettmodi.
+
+Mit dem Umfragemodus, der Ihnen Ergebnisse mit anschaulicher Beschreibung liefert, können Sie weitere Ergebnisse hinzufügen. Das Programm ist eine Sammlung vieler Zufallsalgorithmen, die bei der Anpassung des Rennens helfen. bewegend und real
+
+Im Wettmodus werden Ihnen bei jeder richtigen Wette Punkte gutgeschrieben. Die durchschnittliche Gesamtsumme der Ergebnisse hilft Ihnen dabei, das Ergebnis mit der bewerteten Punktzahl zu erreichen, sodass Sie über carro an der Spielerrangliste im Programmsystem teilnehmen können. Konto

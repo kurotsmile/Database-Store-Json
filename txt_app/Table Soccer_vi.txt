@@ -1,0 +1,1 @@
+Trò chơi mô phỏng một bàn bóng đá, bạn điều khiển các hàng bóng của đội mình để chặn các đường bóng của đối phương. Khi đã giữ bóng, hãy chuyền bóng cho đồng đội chọn thời điểm thích hợp để ghi bàn

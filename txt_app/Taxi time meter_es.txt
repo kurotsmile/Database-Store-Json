@@ -1,0 +1,11 @@
+Esta es una gran aplicación para reemplazar los temporizadores de taxis y facturar a sus clientes.
+
+Interfaz moderna y fácil interacción con botones de funciones básicas
+
+Los contadores de distancia y los buenos localizadores ayudarán a los clientes y conductores a utilizar durante el viaje.
+
+También hay muchas otras funciones especiales, como ver la distancia al presionar el botón gráfico en la aplicación.
+
+Puedes ajustar el precio con la distancia recorrida correspondiente
+
+Al usar la aplicación debes otorgar permiso de ubicación para poder calcular la distancia correcta y usar otras funciones a la perfección.

@@ -1,0 +1,11 @@
+Das Offline-Dominospiel für zwei Spieler, das zwischen einem Menschen und einem Roboter gespielt werden kann. Bei dem Spiel handelt es sich um einen Satz Dominosteine, die gemischt und an jeden Spieler verteilt werden. Die Spieler legen abwechselnd Spielsteine auf die Spielfläche, wobei die Zahlen auf den Spielsteinen mit denen auf den bereits platzierten Spielsteinen übereinstimmen. Das Spiel endet, wenn ein Spieler keine Spielsteine mehr auf der Hand hat oder keiner der Spieler einen gültigen Zug ausführen kann. Sieger ist der Spieler, der am Ende des Spiels die wenigsten Plättchen auf der Hand hat.
+
+Der Roboterspieler ist so programmiert, dass er strategisch spielt und mithilfe von Algorithmen die optimalen Bewegungen basierend auf den Spielsteinen, die er in der Hand hat, und denen auf der Spielfläche bestimmt.
+
+Darüber hinaus kann das Spiel auch verschiedene Spielvarianten wie Blockieren oder Ziehen von Dominosteinen beinhalten. Beim Blocken versuchen die Spieler, ihren Gegner daran zu hindern, einen Zug auszuführen, während die Spieler beim Ziehen von Dominosteinen Steine aus einem Hinterhof ziehen, wenn sie keinen Zug ausführen können.
+
+Um den Spaß zu steigern, kann das Spiel den Spielern auch die Möglichkeit geben, das Aussehen der Spielsteine und der Spieloberfläche individuell anzupassen. Spieler können aus verschiedenen Themen und Hintergründen wählen, um das Spiel optisch ansprechender zu gestalten.
+
+Das Spiel kann auf verschiedenen Plattformen wie Desktop- und Mobilgeräten gespielt werden und ist somit für ein breites Spielerspektrum zugänglich. Es kann auch mehrere Sprachen unterstützen, um Spielern aus verschiedenen Regionen gerecht zu werden.
+
+Insgesamt ist dieses Offline-Dominospiel für zwei Spieler mit Mensch- und Roboterspiel eine großartige Möglichkeit, Zeit mit Freunden und Familie zu verbringen und sich auch gegen einen strategischen Robotergegner zu behaupten.

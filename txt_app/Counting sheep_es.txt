@@ -1,0 +1,6 @@
+aplicación, ayuda de juegos para personas que pierden el sueño, no duermen profundamente. Con 2 funciones Ir a la cama y jugar.
+
+Solo tienes que elegir el número de ovejas y mirar la pantalla para que tu alma se sobresalte contando ovejas saltando sobre una valla, te quedarás dormido. cuando estas durmiendo
+La aplicación apagará automáticamente la pantalla para proteger la capacidad de la batería del dispositivo
+
+También puedes jugar a este divertido juego para controlar cada oveja que salta sobre la cerca, obtendrás puntos, cada oveja agregará las letras correspondientes al botón, elige el momento adecuado para saltar y ganarás el juego. jugar

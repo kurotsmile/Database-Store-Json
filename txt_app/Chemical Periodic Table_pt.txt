@@ -1,0 +1,6 @@
+A química é um assunto interessante que ajuda no nosso dia a dia. Agarrando essa coisa importante, esta aplicação nasceu
+servir para buscar informações químicas de elementos químicos.
+
+Com informações detalhadas completas, indicadores químicos detalhados e interface de apresentação intuitiva são os pontos fortes que esta aplicação traz.
+
+Além disso, você também pode fixar e marcar moléculas químicas que você ama ou se preocupa, não apenas isso, mas também pode pesquisar rapidamente por uma molécula por palavra-chave e inúmeras outras funções esperando por você para descobrir

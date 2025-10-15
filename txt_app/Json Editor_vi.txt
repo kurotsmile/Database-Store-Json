@@ -1,0 +1,9 @@
+Đây là ứng dụng giúp bạn thiết kế dữ liệu json một cách nhanh chóng mà bạn không cần biết gì về mã nguồn dữ liệu json
+
+Ứng dụng còn có chức năng xem mã nguồn đã dịch ngược thành cây để xem các đối tượng trong chuỗi json
+
+Tạo và lưu trữ các chuỗi json vào một dự án để sử dụng khi cần thiết
+
+Thêm thuộc tính, mảng và chỉ mục một cách đơn giản. Đặt giá trị thuộc tính một cách nhanh chóng và chuyên nghiệp
+
+Những yếu tố trên là điểm nổi bật không thể bỏ qua đối với những người làm và phát triển lập trình

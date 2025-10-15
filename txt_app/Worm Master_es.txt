@@ -1,0 +1,5 @@
+Controlas al gusano para que se mueva hacia las manzanas y evites las esquinas de la pared.
+Cuando comas las manzanas, obtendrás puntos y tu gusano crecerá y crecerá.
+Para acelerar, consuma botellas de agua en su camino. El juego presenta un modo de juego para dos jugadores, lo que le permite desafiar a sus amigos o amantes.
+
+Te deseo feliz juego

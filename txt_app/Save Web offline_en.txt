@@ -1,0 +1,13 @@
+PlainSite is a text-only web display and offline storage application that offers a simplified, distraction-free browsing experience for users who prefer a focus on content rather than flashy graphics. With PlainSite, users can save web pages for offline viewing, browse plain text content, view source code, and access a range of additional features for managing and organizing web content.
+
+One of the key functions of PlainSite is the ability to save web pages for later viewing, even when offline. Users can save pages in plain text format or as HTML files, which can be viewed in any text editor or web browser. This feature is particularly useful for those who travel frequently or have limited access to reliable internet connections.
+
+In addition to saving web pages, PlainSite also offers a plain text browsing mode that strips away all images and formatting, leaving only the raw text content. This mode is ideal for those who prefer a distraction-free reading experience or who have limited bandwidth or device resources.
+
+For those who want to dig deeper into the structure of a web page, PlainSite also offers a source code viewer that displays the underlying HTML code in a simplified, easy-to-read format. This feature can be useful for troubleshooting issues with broken links or missing content.
+
+Another useful function of PlainSite is the ability to list all the links on a page, along with their associated file types and sizes. This can be helpful for identifying content that may be of interest, or for troubleshooting issues with broken links or missing files.
+
+Finally, PlainSite also offers a range of additional features for managing and organizing web content, including the ability to tag pages with labels or save them into folders for easy retrieval.
+
+Overall, PlainSite is a versatile and powerful tool for browsing and managing web content in a text-only format. With its range of features for saving pages, browsing plain text content, viewing source code, and managing links and files, it is an essential tool for anyone who values simplicity and efficiency in their web browsing experience.

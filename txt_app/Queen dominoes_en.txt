@@ -1,0 +1,11 @@
+The two-player offline domino game that can be played between a human and a robot. The game involves a set of domino tiles, which are shuffled and dealt out to each player. The players take turns placing tiles on the playing surface, matching the numbers on the tiles to those on the tiles already placed. The game ends when one player has no tiles left in their hand, or when neither player can make a valid move. The winner is the player with the fewest tiles left in their hand at the end of the game.
+
+The robot player is programmed to play strategically, using algorithms to determine the optimal moves based on the tiles it has in hand and those on the playing surface.
+
+Additionally, the game can also include different variations of the game such as blocking or draw dominoes. In blocking, players try to block their opponent from making a move, while in draw dominoes, players draw tiles from a boneyard when they cannot make a move.
+
+To add to the fun, the game can also allow players to customize the appearance of the tiles and the playing surface. Players can choose from different themes and backgrounds to make the game more visually appealing.
+
+The game can be played on different platforms such as desktop and mobile devices, making it accessible to a wide range of players. It can also support multiple languages to cater to players from different regions.
+
+Overall, this two-player offline domino game with human and robot play is a great way to spend time with friends and family, as well as to challenge oneself against a strategic robot opponent.

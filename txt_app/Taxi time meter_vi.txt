@@ -1,0 +1,11 @@
+Đây là một ứng dụng tuyệt vời để thay thế đồng hồ hẹn giờ taxi và lập hóa đơn cho khách hàng của bạn
+
+Giao diện hiện đại và tương tác dễ dàng với các nút chức năng cơ bản
+
+Máy đếm khoảng cách và định vị tốt sẽ giúp khách hàng và tài xế sử dụng trong quá trình di chuyển
+
+Ngoài ra còn nhiều chức năng đặc biệt khác như xem quãng đường khi nhấn nút đồ thị trong ứng dụng
+
+Bạn có thể điều chỉnh giá với quãng đường di chuyển tương ứng
+
+Khi sử dụng ứng dụng bạn phải cấp quyền định vị để có thể tính toán khoảng cách chính xác và sử dụng các chức năng khác một cách hoàn hảo.

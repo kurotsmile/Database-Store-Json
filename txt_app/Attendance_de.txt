@@ -1,0 +1,22 @@
+Willkommen bei Attendance – Ihrer ultimativen Lösung zur Anwesenheitsverfolgung!
+
+Attendance ist eine leistungsstarke und benutzerfreundliche Anwendung, mit der Sie die Anwesenheit von Schülern, Veranstaltungen und Aufgaben effizient verwalten können. Egal, ob Sie Pädagoge, Veranstaltungsorganisator oder Teammanager sind, Attendance bietet umfassende Funktionen, die all Ihre Verfolgungsanforderungen erfüllen.
+
+Hauptfunktionen:
+Einfaches Ein- und Auschecken: Markieren Sie die Anwesenheit einzelner Personen ganz einfach mit einem schnellen Ein- und Auscheckvorgang. Führen Sie genaue Aufzeichnungen darüber, wer anwesend oder abwesend ist.
+
+Anpassbare Listen: Erstellen und verwalten Sie Anwesenheitslisten, die auf Ihre spezifischen Anforderungen zugeschnitten sind. Ob für einen Unterrichtsraum, eine Veranstaltung oder ein Arbeitsprojekt, passen Sie Ihre Listen an jeden Kontext an.
+
+Verwaltung von Schülern und Teilnehmern: Pflegen Sie detaillierte Profile für Schüler oder Teilnehmer, einschließlich Kontaktinformationen, Anwesenheitsverlauf und zusätzlichen Notizen.
+
+Verfolgung von Veranstaltungen und Aufgaben: Verfolgen Sie nahtlos die Anwesenheit bei verschiedenen Veranstaltungen und Aufgaben. Perfekt für Meetings, Workshops, Konferenzen oder tägliche Aufgaben.
+
+Erweiterte Markierungsoptionen: Verwenden Sie eine Vielzahl farbcodierter Markierungen, um verschiedene Arten der Anwesenheit zu unterscheiden (z. B. anwesend, verspätet, entschuldigt abwesend). Gestalten Sie Ihre Listen visuell intuitiv und leicht zu interpretieren.
+
+Countdown-Timer: Verwenden Sie Countdown-Timer für zeitgesteuerte Ereignisse oder Aufgaben, um sicherzustellen, dass Sie im Zeitplan bleiben und Ihre Zeit effektiv verwalten.
+
+Detaillierte Statistiken: Erstellen Sie umfassende Berichte und Statistiken, um Anwesenheitsmuster zu analysieren. Erhalten Sie Einblicke in Anwesenheitstrends und treffen Sie fundierte Entscheidungen auf der Grundlage von Daten.
+
+Benutzerdefinierte Attribute: Fügen Sie Einzelpersonen benutzerdefinierte Attribute hinzu, um die Nachverfolgung persönlicher zu gestalten. Egal, ob Sie bestimmte Bedürfnisse, Rollen oder Kategorien notieren müssen, passen Sie die App an, um die benötigten Informationen zu erfassen.
+
+Attendance vereinfacht den Prozess der Anwesenheitsverwaltung, spart Ihnen Zeit und gewährleistet Genauigkeit. Erleben Sie noch heute den Komfort und die Effizienz von Attendance und übernehmen Sie die Kontrolle über Ihre Anwesenheitsverfolgung wie nie zuvor!

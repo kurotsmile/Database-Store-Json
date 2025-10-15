@@ -1,0 +1,22 @@
+Neuroduct là một trò chơi giải đố mới mẻ và sáng tạo, thách thức tư duy logic và không gian của bạn. Trượt các ô để căn chỉnh các đoạn ống và hướng dẫn luồng thần kinh đến ô đích màu xanh lá cây. Khái niệm đơn giản nhưng thực hiện ngày càng phức tạp.
+
+Lối chơi độc đáo
+Không giống như các trò chơi giải đố truyền thống, Neuroduct giới thiệu cơ chế trượt, trong đó bạn di chuyển toàn bộ các ô chứa các đoạn ống. Thách thức nằm ở việc xây dựng một đường dẫn liên tục chỉ bằng các kết nối theo chiều dọc và chiều ngang. Với mỗi lần di chuyển, câu đố sẽ định hình lại, đòi hỏi phải lập kế hoạch cẩn thận và đưa ra quyết định thông minh.
+
+Mục tiêu
+Kết nối các ống để tín hiệu đến ô vuông màu xanh lá cây — đích đến cuối cùng của bạn. Thành công phụ thuộc vào khả năng suy nghĩ trước và điều khiển bảng hiệu quả của bạn.
+
+Nhạc nền nhập vai
+Neuroduct bao gồm danh sách phát nhạc nền được tuyển chọn được thiết kế để tăng cường sự tập trung và đắm chìm. Mỗi bản nhạc được chọn để phù hợp với tâm trạng và sự phức tạp của trải nghiệm giải đố của bạn.
+
+Cơ chế giải đố trượt gốc với logic kết nối đường ống
+
+Danh sách phát nhạc nền phát triển theo tiến trình của bạn
+
+Nhiều cấp độ thủ công với độ khó tăng dần
+
+Các ô cố định đặc biệt và cơ chế nâng cao ở các giai đoạn sau
+
+Một trải nghiệm thư giãn nhưng kích thích tinh thần dành cho những người yêu thích giải đố
+
+Thách thức trí óc của bạn, định hình lại dòng chảy và làm chủ con đường trong Neuroduct — trò chơi giải đố định nghĩa lại thể loại này.

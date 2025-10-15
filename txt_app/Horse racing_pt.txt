@@ -1,0 +1,5 @@
+Simulador de hipódromo com dois modos de pesquisa e apostas.
+
+Com o modo de pesquisa que fornecerá resultados com descrição vívida, você pode optar por adicionar mais resultados e O programa é uma coleção de muitos algoritmos aleatórios que ajudam a ajustar a corrida. comovente e real
+
+Modo de aposta a cada aposta correta você soma pontos com a média total dos resultados vai te ajudar a atingir o resultado com a pontuação nominal para que você possa participar do ranking do jogador no sistema do programa via carro. conta

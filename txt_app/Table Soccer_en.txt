@@ -1,0 +1,1 @@
+The game simulates a football table, you control the rows of your team's balls to block the opponent's balls. When you have kept the ball, pass the ball to your teammates to choose the right time to score a goal

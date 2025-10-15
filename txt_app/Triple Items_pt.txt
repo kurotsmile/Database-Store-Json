@@ -1,0 +1,9 @@
+Triple Items é um jogo de quebra-cabeça simples, mas desafiador. O objetivo do jogo é combinar 3 itens idênticos para criar um novo item. O novo item terá um poder maior que o antigo.
+
+Para jogar Itens Triplos, você precisa mover os itens pelo tabuleiro do jogo tocando neles. Quando você encontrar 3 itens idênticos, eles se fundirão automaticamente.
+
+O número de pontos que você recebe dependerá do poder do novo item. Quanto mais forte o item, mais pontos você receberá.
+
+Você terá 30 segundos para mesclar o máximo de itens possível. O jogador com mais pontos ao final do tempo vencerá o jogo.
+
+Triple Items é um ótimo jogo para diversão e treinamento cerebral. Experimente hoje!

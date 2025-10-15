@@ -1,0 +1,5 @@
+Simulador de hipódromo con dos modos de encuesta y apuestas.
+
+Con el modo de encuesta que le dará resultados con una descripción vívida, puede optar por agregar más resultados y El programa es una colección de muchos algoritmos aleatorios que ayudan a ajustar la carrera. conmovedor y real
+
+Modo de apuestas con cada apuesta correcta se le agregarán puntos con el total promedio de los resultados que lo ayudarán a lograr el resultado con el puntaje calificado para que pueda participar en la clasificación de jugadores en el sistema del programa a través de carro. cuenta

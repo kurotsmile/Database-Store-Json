@@ -1,0 +1,14 @@
+Solitaire, también conocido como Patience, es un juego de cartas para un solo jugador que generalmente se juega con una baraja estándar de 52 cartas. El objetivo del juego es mover todas las cartas del cuadro (área de juego) a las pilas de cimientos (ubicadas en la parte superior de la pantalla), de acuerdo con un conjunto específico de reglas.
+
+Para comenzar, las cartas se barajan y se reparten en siete columnas del cuadro, con la primera columna que contiene una carta, la segunda columna que contiene dos cartas, y así sucesivamente. La carta superior de cada columna del cuadro está boca arriba, mientras que el resto de las cartas están boca abajo.
+
+Las pilas de cimientos inicialmente están vacías, pero se pueden construir en un orden específico, comenzando con el As de cada palo y terminando con el Rey de cada palo.
+
+Los jugadores deben usar las cartas en el cuadro para construir las pilas de cimientos, de acuerdo con las siguientes reglas:
+
+Solo se puede mover la carta superior de cada columna del cuadro, y se puede mover a las pilas de cimientos o a otra columna del cuadro.
+Las cartas en el cuadro deben apilarse en colores alternos (es decir, rojo y negro) y en orden descendente (es decir, un rey debe colocarse sobre una reina, una reina sobre una jota, etc.).
+Si se vacía una columna del cuadro, se puede mover un rey (y cualquier carta que pueda estar encima) al espacio vacío.
+Si un jugador llega a un punto en el que no es posible realizar más movimientos en el cuadro, puede dar la vuelta a la carta superior de la pila (ubicada en la esquina derecha de la pantalla) y continuar jugando. El juego se gana cuando todas las cartas se han movido a las pilas de base en el orden correcto.
+
+El solitario es un juego popular que se puede jugar en una variedad de entornos, desde pasar el tiempo en una computadora hasta jugar con cartas reales en una mesa. A menudo se considera un buen juego para mejorar la concentración y el pensamiento estratégico.

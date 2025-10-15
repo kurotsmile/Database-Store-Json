@@ -1,0 +1,9 @@
+Este é um aplicativo que ajuda você a projetar dados json rapidamente, sem que você tenha nenhum conhecimento do código-fonte de dados json
+
+O aplicativo também possui uma função para visualizar o código-fonte descompilado em uma árvore para visualizar os objetos na string json
+
+Gere e armazene strings json em um projeto para usar conforme necessário
+
+Adicione propriedades, arrays e índices de forma simples. Defina valores de propriedade de forma rápida e profissional
+
+Os fatores acima são os destaques que você não pode ignorar para quem trabalha e desenvolve programação

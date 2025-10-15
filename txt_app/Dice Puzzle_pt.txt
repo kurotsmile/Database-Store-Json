@@ -1,0 +1,9 @@
+O jogo se chama "Dice Puzzle" e é um quebra-cabeça desafiador e divertido que pode ser jogado individualmente ou em equipes. O objetivo do jogo é usar estratégias e habilidades de resolução de problemas para organizar os dados.
+
+O jogo vem com um tabuleiro e um conjunto de dados, cada um com números diferentes nas laterais. O tabuleiro tem um padrão de grade com espaços designados para os dados serem colocados.
+
+No início de cada rodada, um padrão de alvo é revelado. Os jogadores devem então rolar os dados e usá-los para recriar o padrão no tabuleiro.
+
+O jogo tem diferentes níveis de dificuldade, variando de fácil a especialista. À medida que os níveis progridem, os padrões de destino tornam-se mais complexos e o limite de tempo diminui.
+
+Dice Puzzle é um jogo divertido e envolvente que pode ser apreciado por jogadores de todas as idades. É uma ótima maneira de exercitar a mente e melhorar as habilidades de resolução de problemas enquanto se diverte. O jogo pode ser jogado sozinho ou com amigos, tornando-se uma ótima opção para uma noite de jogos em família ou como uma atividade divertida com um grupo de amigos.

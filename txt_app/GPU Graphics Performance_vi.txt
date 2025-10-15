@@ -1,0 +1,9 @@
+Ứng dụng kiểm tra hiệu suất đồ họa của thiết bị, thiết bị của bạn có đủ tiêu chuẩn để chơi game và phục vụ công việc thiết kế đồ họa hay không
+
+Đây thực sự là một công cụ tốt để đánh giá bộ xử lý đồ họa của bạn đang hoạt động như thế nào.
+
+Với chỉ số fps, ram và các thông tin khác giúp bạn nắm bắt rõ ràng khả năng hoạt động của máy trên các ứng dụng xử lý hình ảnh hay game mà máy bạn có trải nghiệm tốt.
+
+Với trình tạo vật thể ảo 3d nhân vật cá voi, bạn có thể thả chúng vào bể để đo chỉ số fps chạy mượt như thế nào.
+
+Với bảng xếp hạng người dùng sẽ cho biết thiết bị của ai mạnh nhất với số lượng cá được thả
