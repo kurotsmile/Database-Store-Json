@@ -4,7 +4,7 @@ import json
 
 lang="ja"
 def main():
-    json_path = "app.json"  # đường dẫn đến file json
+    json_path = "app_carrotstore.json"  # đường dẫn đến file json
     output_folder = "txt_app"           # thư mục lưu các file .txt
 
     # Tạo thư mục nếu chưa có
