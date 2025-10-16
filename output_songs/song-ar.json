@@ -2,7 +2,7 @@
   "all_item": [
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692979001355_Maha%20Ftouni.mp3?alt=media&token=9574e028-6f05-4425-8803-e2d0dede18b4",
-      "id": "song1692978786680",
+      "id": "maha-ftouni",
       "date": "2023-08-25",
       "genre": "pop",
       "album": "Maha Ftouni",
@@ -13,13 +13,12 @@
       "publishedAt": "2023-02-20T16:00:07Z",
       "artist": "Maha Ftouni",
       "year": "2023",
-      "name": "مهى فتوني - الصبر جميل",
-      "id_import": "song1692978786680"
+      "name": "مهى فتوني - الصبر جميل"
     },
     {
       "year": "2022",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692979150924_Min%20Awel%20Dekika.mp3?alt=media&token=afe83cf3-0009-4a70-9c9c-5eca0d137fd3",
-      "id": "song1692979059643",
+      "id": "elissa",
       "lyrics": "<div><div>بغير من عيني وأنا شايفك وده اللي وصلت ليه</div><div>لو أسمع اسمي بشفايفك بقولك كرريه</div><div>وعمري ما هقدر أوصفلك بحبك قد إيه</div><div>ارسمني في ليلك نجمة، ضيها يلمع في العين</div><div>اكتبني في عمرك كلمة يحكوها الناس بعدين</div><div>أنا نفسي أعيش فوق عمري يا حبيبي معاك عمرين</div><div>لو تطلبي مني عينيا، لو تطلبي عمري كمان</div><div>هاديكي سنيني الجاية وهكون راضي وفرحان</div><div>أنتي اللي وجودك جنبي حسسني إن أنا إنسان</div><div>ده من أول دقيقة لحبك قلبي مال</div><div>عرفت بمية طريقة تغير حال بحال</div><div>بتوه بين الحقيقة يا عمري والخيال</div><div>ده من أول دقيقة لحبك قلبي مال</div><div>عرفت بمية طريقة تغير حال بحال</div><div>بتوه بين الحقيقة يا عمري والخيال</div><div>أنا عايزاك تفضل جنبي سندي وفارس أحلامي</div><div>قلبي في قربك متطمن خليك دايمًا قدامي</div><div>أنا قبل ما بنطق كلمة بتكمل ليا كلامي</div><div>ده وجودك بيكملني خليتي حياتي حياة</div><div>إحساسي بحبك خدني وأنا هفضل ماشي وراه</div><div>حضنك يا حبيبتي لا يمكن لو ثانية أعيش براه</div><div>في واحدة تملي في ظهرك وفي ضعفك هتقويك</div><div>تؤمرها حبيبي وأمرك هتقول شبيك لبيك</div><div>جنبك ولآخر عمرك هتعيش علشان ترضيك</div><div>ده من أول دقيقة لحبك قلبي مال</div><div>عرفت بمية طريقة تغير حال بحال</div><div>بتوه بين الحقيقة يا عمري والخيال</div><div>ده من أول دقيقة لحبك قلبي مال</div><div>عرفت فمية طريقة تغير حال بحال</div><div>بتوه بين الحقيقة يا عمري والخيال</div></div><div><br></div>",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979122988_Min%20Awel%20Dekika.jpg?alt=media&token=494f4778-423d-4f94-9439-6cf6c638943f",
       "link_ytb": "https://www.youtube.com/watch?v=O--o-O-ABBw",
@@ -29,11 +28,10 @@
       "publishedAt": "2022-05-04T17:00:12Z",
       "name": "اليسا وسعد لمجرد - من أول دقيقة",
       "artist": "Elissa",
-      "genre": "pop",
-      "id_import": "song1692979059643"
+      "genre": "pop"
     },
     {
-      "id": "song1692979217176",
+      "id": "etnaset-muslim",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692979346813_Etnaset.mp3?alt=media&token=1c4d479e-c53d-42bc-9942-d8cc4c69ce5e",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979352041_Etnaset.jpg?alt=media&token=f231c921-2f80-453e-aeae-86f8953f6cc5",
       "publishedAt": "2021-10-21T20:09:02Z",
@@ -45,13 +43,12 @@
       "genre": "pop",
       "year": "2021",
       "name": "Etnaset مسلم - اتنسيت",
-      "artist": "Muslim",
-      "id_import": "song1692979217176"
+      "artist": "Muslim"
     },
     {
       "artist": "Muhammed",
       "lang": "ar",
-      "id": "song1692979378340",
+      "id": "muhammed",
       "genre": "pop",
       "year": "2022",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979679276_Muhammed.jpg?alt=media&token=9cb70eae-b269-450d-adef-40c7ff44ef96",
@@ -61,13 +58,12 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692979712385_Mohammed.mp3?alt=media&token=fd2abb23-8eb9-4f78-bd96-e450d81b2168",
       "date": "2023-08-25",
       "link_ytb": "https://www.youtube.com/watch?v=XMwey5J6VEs",
-      "publishedAt": "2022-11-16T17:00:06Z",
-      "id_import": "song1692979378340"
+      "publishedAt": "2022-11-16T17:00:06Z"
     },
     {
       "name": "فريد - بأمارة مين ",
       "lang": "ar",
-      "id": "song1692979739392",
+      "id": "farid",
       "link_ytb": "https://www.youtube.com/watch?v=aFmXRte6Wyc",
       "year": "2022",
       "genre": "pop",
@@ -77,8 +73,7 @@
       "album": "Farid - فريد",
       "lyrics": "<div><div>بقى جاي تقول نفتح باب ليه سنين مقفول</div><div>– Jay kept saying, ‘ open a locked door for years.’</div><div>معلش ما فيش في يدي حلول تنفع ترضيك</div><div>– There is nothing in my hands solutions that work to your liking</div><div><br></div><div>بامارة مين افضل هنا حتى دقيقتين</div><div>– In Maine, it’s better here, up to two minutes</div><div>ده ثقيل على قلبك اتنفس هوا بيطير حواليك</div><div>– It’s heavy on your heart, I breathe, I’m flying around you</div><div>لو جاي في رجوع انساني</div><div>– Lou Gehrig in a humanitarian comeback</div><div>شوف لك موضوع ثاني</div><div>– Show you a second topic</div><div>ارجع ليه للي اذاني</div><div>– Come back to me for my ears</div><div>وعلي بايه</div><div>– And Ali Bayeh</div><div><br></div><div>ما تقلبليش في مواجع</div><div>– What a flip-flop it is</div><div>وقتك ده خلاص بقى ضائع</div><div>– Your time is a salvation that has been lost</div><div>مش لاقي قلبي انا في الشارع</div><div>– I don’t feel my heart, I’m on the street</div><div>على شان ارميه</div><div>– I have to throw it</div><div>لو جاي في رجوع انساني</div><div>– Lou Gehrig in a humanitarian comeback</div><div>شوف لك موضوع ثاني</div><div>– Show you a second topic</div><div>ارجع ليه للي اذاني</div><div>– Come back to me for my ears</div><div>وعلي باي</div><div>– And Ali Bai</div><div><br></div><div>ما تقلبليش في مواجع</div><div>– What a flip-flop it is</div><div>وقتك ده خلاص بقى ضائع</div><div>– Your time is a salvation that has been lost</div><div>مش لاقي قلبي انا في الشارع</div><div>– I don’t feel my heart, I’m on the street</div><div>علشان ارميه</div><div>– To throw it</div><div>كملها وحيد</div><div>– Complete single</div><div>قلبك من قلبي رميته بعيد</div><div>– Your heart from my heart I threw it away</div><div>مش بقسى عليك</div><div>– Not hard on you</div><div>سميها ان انا الحقني وافوق</div><div>– Call it that I am right and above</div><div>ومش زي زمان</div><div>– And no time</div><div>هامشي وهارجع لك مره كمان</div><div>– Marginal and I’ll come back to you once, violin</div><div>سكت انا قلبي وعقلي خلاص بقى كلمته فوق</div><div>– I shut my heart and mind, salvation has kept his word up</div><div>لو جاي في رجوع انساني</div><div>– Lou Gehrig in a humanitarian comeback</div><div>شوف لك موضوع ثاني</div><div>– Show you a second topic</div><div>ارجع ليه للاذاني</div><div>– Come back to my ears</div><div>وعلي بايه</div><div>– And Ali Bayeh</div><div>ما تقلبليش في مواجع</div><div>– What a flip-flop it is</div><div>وقتك ده خلاص بقى ضائع</div><div>– Your time is a salvation that has been lost</div><div>مش لاقي قلبي انا في الشارع علشان ارميه</div><div>– I can’t meet my heart, I’m on the street to throw it away</div></div>",
       "publishedAt": "2022-10-09T18:39:44Z",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979847873_Farid.jpg?alt=media&token=c23460d6-17d4-40d4-b2ce-d53358ac9a23",
-      "id_import": "song1692979739392"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979847873_Farid.jpg?alt=media&token=c23460d6-17d4-40d4-b2ce-d53358ac9a23"
     },
     {
       "year": "2023",
@@ -86,15 +81,14 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692979963339_Ahmed%20Saad.jpg?alt=media&token=4d41d630-8e19-46ed-8655-b4d5df89fca0",
       "link_ytb": "https://www.youtube.com/watch?v=nXdNVhzCEpE",
       "genre": "pop",
-      "id": "song1692979887502",
+      "id": "",
       "date": "2023-08-25",
       "name": "أحمد سعد - قادر اكمل",
       "lang": "ar",
       "album": "Ahmed Saad",
       "artist": "مزيكا",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692979973376_Ahmed%20Saad.mp3?alt=media&token=6617e0de-a699-46ec-a9cd-161bdf924b3e",
-      "publishedAt": "2023-02-14T13:00:08Z",
-      "id_import": "song1692979887502"
+      "publishedAt": "2023-02-14T13:00:08Z"
     },
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980088140_Chreim.mp3?alt=media&token=10b31712-790e-45c4-bb05-f98eb11ec956",
@@ -108,14 +102,13 @@
       "artist": "Farah Chreim",
       "link_ytb": "https://www.youtube.com/watch?v=XiL2F84vOw0",
       "lang": "ar",
-      "id": "song1692979994474",
-      "album": "Albi Elou",
-      "id_import": "song1692979994474"
+      "id": "farah-chreim",
+      "album": "Albi Elou"
     },
     {
       "name": "احمد سعد - عليكي عيون",
       "lyrics": "<div><div>عليكِي عيون</div><div>لا بتنافق ولا بتخون</div><div>وفيها من الأمان مخزون</div><div>وفيها من الجمال أسرار (الجمال أسرار)</div><div>عليكِي كلام</div><div>يمشِّي الحزن وأبقى تمام</div><div>يطمِّن قلبي يرجع خام</div><div>فأكون أنا وإنتِ كالأطفال</div><div>عليكِي سلام</div><div>يقويني على الأيام</div><div>في طاقة تزقني لقدام</div><div>وبيها بكمل المشوار</div><div>عليكِي هدوء</div><div>حلاوة صوت ونظرة شوق</div><div>أكون زعلان، أشوفك أروق</div><div>وأحس براحة واستقرار</div><div>عليكِي جمال</div><div>وقلبك صافي وإبن حلال</div><div>معاكِي بعيش في راحة بال</div><div>ومن غيرك بكون محتار (بكون محتار)</div><div>وجودك خير</div><div>بضحكة تخلي يومي جميل</div><div>بتسند ضهري وقت ما أميل</div><div>أنا فعلاً عرفت أختار</div><div>عليكِي سلام</div><div>يقويني على الأيام</div><div>في طاقة تزقني لقدام</div><div>وبيها بكمل المشوار</div><div>عليكِي هدوء</div><div>حلاوة صوت ونظرة شوق</div><div>أكون زعلان، أشوفك أروق</div><div>وأحس براحة واستقرار</div></div><div><br></div>",
-      "id": "song1692980113033",
+      "id": "ahmad-saad",
       "date": "2023-08-25",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980191877_Aleky%20Eyoun.mp3?alt=media&token=a81f3d2b-7b8a-41ef-ab20-2654f260516b",
       "lang": "ar",
@@ -125,14 +118,13 @@
       "link_ytb": "https://www.youtube.com/watch?v=l_Q-SySBYfk",
       "publishedAt": "2022-02-13T18:00:14Z",
       "year": "2022",
-      "genre": "pop",
-      "id_import": "song1692980113033"
+      "genre": "pop"
     },
     {
       "year": "2023",
       "name": "سعد لمجرد  - أش خبارك",
       "publishedAt": "2023-05-04T18:03:10Z",
-      "id": "song1692980224259",
+      "id": "saad-lamjarred",
       "genre": "pop",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980335885_Ach%20Khbarek.mp3?alt=media&token=422a4c68-86da-40a9-aedf-c382eb993d82",
       "date": "2023-08-25",
@@ -141,8 +133,7 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692980324629_Ach%20Khbarek.jpg?alt=media&token=23b26a65-789e-4276-88eb-8b58d1dd1c75",
       "lyrics": "<div><div><br></div><div>أش خبارك لباس عليك و يا لحبيبة</div><div>واش مازال عارفني و لا محال&nbsp;</div><div>واش خبارك قوليلي فين هاد لغيبة</div><div>و شكون لي بقا شافك من هادا شحال</div><div><br></div><div>و أنتِ أنتِ لي مشيتي فطريقك لي بغتي&nbsp;</div><div>حتال دابا عاد جيتي و راه فات لحال&nbsp;</div><div><br></div><div>تقتي بالناس لي غروا بيك و زادوا&nbsp;</div><div>ياويلي على لي خلاك و ما ولاش&nbsp;</div><div>مافيها باس كل واحد عندو حسادو</div><div>حاولي تنساي واخا عارفك ماتنساي</div><div><br></div><div>و أنتِ أنتِ لي مشيتي فطريقك لي بغتي&nbsp;</div><div>حتال دابا عاد جيتي و راه فات لحال</div><div><br></div><div>أش خبارك لباس عليك و يا لحبيبة</div><div>واش مازال عارفني و لا محال&nbsp;</div><div>واش خبارك قوليلي فين هاد لغيبة</div><div>و شكون لي بقا شافك من هادا شحال</div><div><br></div><div>اها اها اها اها اها اها</div><div>&nbsp;</div><div><br></div><div>واش لي جرى حتى تبعتي لبراني</div><div>مكانش عليك تروحي مكانش عليك</div><div>ليوم ليوم ارجع قليبك وحداني&nbsp;</div><div>تكوى و تقهر بنار&nbsp; لغدر وضاق عليك</div><div><br></div><div>و أنتِ أنتِ لي مشيتي فطريقك لي بغتي&nbsp;</div><div>حتال دابا عاد جيتي و راه فات لحال&nbsp;</div><div><br></div><div>أش خبارك لباس عليك و يا لحبيبة</div><div>واش مازال عارفني و لا محال&nbsp;</div><div>واش خبارك قوليلي فين هاد لغيبة</div><div>و شكون لي بقا شافك من هادا شحال</div></div><div><br></div>",
       "album": "Ach Khbarek",
-      "lang": "ar",
-      "id_import": "song1692980224259"
+      "lang": "ar"
     },
     {
       "link_ytb": "https://www.youtube.com/watch?v=OTd28lXLEfc",
@@ -156,9 +147,8 @@
       "year": "2022",
       "artist": "Siilawy",
       "publishedAt": "2022-08-19T15:00:12Z",
-      "id": "song1692980416952",
-      "lang": "ar",
-      "id_import": "song1692980416952"
+      "id": "siilawy-siilawy",
+      "lang": "ar"
     },
     {
       "date": "2023-08-25",
@@ -169,12 +159,11 @@
       "publishedAt": "2022-10-06T15:00:01Z",
       "name": "نانسي عجرم - على شانك",
       "album": "Nancy 10",
-      "id": "song1692980572695",
+      "id": "nancy-ajram",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980642246_Nancy%20Ajram.mp3?alt=media&token=d31ec5ac-25fd-433d-b87b-1e76d2787368",
       "artist": "Nancy Ajram",
       "genre": "pop",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692980635840_Nancy%20Ajram.jpg?alt=media&token=77018afa-b6ef-46b9-945d-93ccb3c135da",
-      "id_import": "song1692980572695"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692980635840_Nancy%20Ajram.jpg?alt=media&token=77018afa-b6ef-46b9-945d-93ccb3c135da"
     },
     {
       "name": "مسلم - قلب فى الدفاتر",
@@ -184,13 +173,12 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692980761654_Muslim.jpg?alt=media&token=621f8f62-a4a3-440a-8724-af0ef7b0a5bb",
       "publishedAt": "2022-12-22T18:00:10Z",
       "lyrics": "<div><div>قلب في الدفاتر تلقى الشعر بيحكي عنا فاكر</div><div>أيام ما كنا بنحلم نبقى تحت ضل ساتر</div><div>قل اللي بيننا بالأيام وصبح كلامنا فاتر</div><div>مش لاقي حد غيرك حتى في البعاد أغازل</div><div>قلب في الدفاتر تلقى الشعر بيحكي عنا فاكر</div><div>أيام ما كنا بنحلم نبقى تحت ضل ساتر</div><div>قل اللي بيننا بالأيام وصبح كلامنا فاتر</div><div>مش لاقي حد غيرك حتى في البعاد أغازل</div><div>آخر الطريق ملاقيتش غير لحني حزين</div><div>جف البكى من فرط صبري ع السنين</div><div>صدق اللي قاللك إن بعض العشق دين</div><div>جف البكى معادش باقي في عيني شيء</div><div>آخر الطريق ملاقيتش غير لحني حزين</div><div>جف البكى من فرط صبري ع السنين</div><div>صدق اللي قاللك إن بعض العشق دين</div><div>جف البكى معادش باقي في عيني شيء</div><div>غريبة عاشقك حتى وأنتي مش هنا</div><div>أنا لسه باقي عاللي بيننا، صورنا لسه تدلنا</div><div>كانت الشوارع في شتا الليالي تملنا</div><div>قلبي متيم بيكي يشهد عليا ربنا</div><div>وغريبة عاشقك حتى وأنتي مش هنا</div><div>أنا لسه باقي عاللي بيننا، صورنا لسه تدلنا</div><div>كانت الشوارع في شتا الليالي تملنا</div><div>قلبي متيم بيكي يشهد عليا ربنا</div><div>أنت صبرك كله خير</div><div>أنت حزنك أبقى غير</div><div>أنت أعمى بس طير</div><div>على أي مرسى يوماتي ترسى</div><div>أنت فوقت ولا لسه؟</div><div>والليل سهرلك خوف</div><div>البن ليك موصوف</div><div>النور محاوطك شوف</div><div>ولا بعيد لسه؟</div><div>رديت وقولت: \"انسى\"</div><div>أنت صبرك كله خير</div><div>أنت حزنك أبقى غير</div><div>أنت أعمى بس طير</div><div>على أي مرسى يوماتي ترسى</div><div>أنت فوقت ولا لسه؟</div><div>والليل سهرلك خوف</div><div>البن ليك موصوف</div><div>النور محاوطك شوف</div><div>ولا بعيد لسه؟</div><div>رديت وقولت: \"انسى\"</div><div>صفر اللي جالك من شمالك زادك شيء</div><div>جمعك فأصبحت تبكي من لا شيء</div><div>صفر اللي جالك من يمينك غمى عليك</div><div>بقيت تزهد نفس الهوا من بعد عطش الليل</div><div>صفر اللي جالك من شمالك زادك شيء</div><div>جمعك فأصبحت تبكي من لا شيء</div><div>صفر اللي جالك من يمينك غمى عليك</div><div>بقيت تزهد نفس الهوا من بعد عطش الليل</div><div>بقينا فين؟ (بقينا فين؟)</div><div>الروح تشتاق، تتمنى نظرة عين</div><div>آه، وبقينا فين؟</div><div>آه، الروح تشتاق، تتمنى نظرة عين</div><div>قوللي أنت فين؟</div><div>آخر الطريق ملاقيتش غير لحني حزين</div><div>جف البكى من فرط صبري ع السنين</div><div>صدق اللي قاللك إن بعض العشق دين</div><div>جف البكى معادش باقي في عيني شيء</div><div>آخر الطريق ملاقيتش غير لحني حزين</div><div>جف البكى من فرط صبري ع السنين</div><div>صدق اللي قاللك إن بعض العشق دين</div><div>جف البكى معادش باقي في عيني شيء</div></div><div><br></div>",
-      "id": "song1692980676537",
+      "id": "muslim",
       "genre": "pop",
       "album": "Aleb Fel Dafater",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980766368_Muslim.mp3?alt=media&token=cecfea73-1ec0-4a78-acb7-f99924e2c24c",
       "year": "2022",
-      "lang": "ar",
-      "id_import": "song1692980676537"
+      "lang": "ar"
     },
     {
       "publishedAt": "2021-11-30T15:00:10Z",
@@ -199,21 +187,20 @@
       "lang": "ar",
       "artist": "Sherine",
       "date": "2023-08-25",
-      "id": "song1692980787324",
+      "id": "sherine",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692980937990_Kollaha%20Ghayrana.jpg?alt=media&token=7f01714e-74b9-4703-acbd-83c79ba5f141",
       "year": "2021",
       "lyrics": "<div><div>كلها غيرانة بتحقد والنفسية سواد</div><div>لو أعدي في حتة أنا مش بسلم من الكومنتات</div><div>طب أعمل ايه منا ست جميلة ودي كاريزمات</div><div>أنا بدخل اي مكان بقلبه ده بفضل الله</div><div>&nbsp;</div><div>واللي يشوفني على طول بعجبه من غير معاناة</div><div>في حاجات كده خلقة ربنا مش مجهود عاملاه</div><div>&nbsp;</div><div>خلوا اللي يغير مننا يجي ويعمل زينا</div><div>من غير ما يغل يقل ويضربنا في ضهرنا</div><div>خلوه يجي في وشنا لو عنده حاجة يقولنا</div><div>وبلاش بقي شغل قالولنا كفاية كلام عننا</div><div>&nbsp;</div><div>الناس طول ما بتتكلم عنك ليك قيمة</div><div>جايبين سيرتك بالخير أو كانت دايرة نميمة</div><div>سيبها على الله وفكك طول ما النية سليمة</div><div>&nbsp;</div><div>وأنا في المواضيع ده أنا واخده شهادة خبرة سنين</div><div>وكلام الناس بقى بالنسبالي زي البنزين</div><div>بيخليني أنور أكتر واثبت أنا مين</div></div>",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692980945200_Sherine.mp3?alt=media&token=9b8346a3-fb64-451b-b271-b3b833a4f989",
       "album": "Kollaha Ghayrana",
-      "name": "شيرين … كلها غيرانة",
-      "id_import": "song1692980787324"
+      "name": "شيرين … كلها غيرانة"
     },
     {
       "date": "2023-08-25",
       "name": "حمزة نمرة - فاضي شوية",
       "lang": "ar",
       "genre": "pop",
-      "id": "song1692980985277",
+      "id": "hamza-namira",
       "lyrics": "<div><div>آه يا سلام</div><div>سيبنا الوقت يعدي أوام</div><div>ما حسبناش اللحظة الجاية</div><div>ده اسمه كلام</div><div>عشنا العمر نربّي حمام</div><div>بس نسينا نقوم غيّة</div><div>وما يهمكش عادي</div><div>اسمع مني الساعة دي</div><div>مش وقت عتاب أو لوم</div><div>آه فيها ايه لو نرجع تاني</div><div>وبدل ما تكون وحداني</div><div>تسندني معاك ونقوم</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>ده احنا يا دوب</div><div>ما لحقناش نقرا المكتوب</div><div>علشان نلقى هموم وقسية</div><div>ده اسمه كلام</div><div>عشنا العمر نربّي حمام</div><div>بس نسينا نقوم غيّة</div><div>عارفك مشغول ليام دي</div><div>ما أنا زيك بس عندي</div><div>حكايات صعب أخبيها</div><div>وأكمنك داري بحالي</div><div>مذاكرني وعارف مالي</div><div>مستني عشان أحكيها</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>موج الدنيا أناني وعالي</div><div>وأنت لوحدك وأنا لسه لي</div><div>عمر هعيشه معاك لو يوم</div><div>ماشي براحتك بس راهنني</div><div>على يوم منّك وسنين مني</div><div>إنك ما بتعرفش تعوم</div><div>وما يهمكش عادي</div><div>اسمع مني الساعة دي</div><div>مش وقت عتاب أو لوم</div><div>آه فيها ايه لو نرجع تاني</div><div>وبدل ما تكون وحداني</div><div>تسندني معاك ونقوم</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>فاضي شوية</div><div>ده أنا وحشاني القعدة معاك</div><div>وإن ما قدرتش تيجي هناك</div><div>هستناك المرة الجاية</div><div>فاضي شوية</div><div>نشرب قهوة فـ حتة بعيدة</div><div>إعزمني على نكتة جديدة</div><div>وخلّي حساب الضحك عليّا</div><div>فاضي شوية</div><div>ده أنا وحشاني القعدة معاك</div><div>وإن ماقدرتش تيجي هناك</div><div>هستناك المرة الجاية</div></div><div><br></div>",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692981042800_Hamza%20Namira.jpg?alt=media&token=27f6561b-93df-4ab1-8acb-323c39d154a6",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981047062_Hamza%20Namira.mp3?alt=media&token=5eb8aef0-8bcf-4ada-b7aa-ebb61e27d77d",
@@ -221,15 +208,14 @@
       "year": "2020",
       "album": "Mawloud Sanat 80",
       "link_ytb": "https://www.youtube.com/watch?v=guCwdHngTmM",
-      "publishedAt": "2020-12-30T17:00:10Z",
-      "id_import": "song1692980985277"
+      "publishedAt": "2020-12-30T17:00:10Z"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692981181337_Hamaki.jpg?alt=media&token=ccdba7b9-44ee-4a24-b1b3-f7c1887f2831",
       "album": "Adrenaline",
       "link_ytb": "https://www.youtube.com/watch?v=Vmq8os0Llpk",
       "artist": "Hamaki",
-      "id": "song1692981111758",
+      "id": "hamaki",
       "year": "2022",
       "publishedAt": "2022-07-28T15:00:12Z",
       "date": "2023-08-25",
@@ -237,8 +223,7 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981186359_Hamaki.mp3?alt=media&token=e3586ebc-7bc3-4efc-b282-0288ddc75df6",
       "genre": "pop",
       "lyrics": "<div><div>لمست إيدي عملت contact، الكهربا مسكت في الشرايين</div><div>زودت الأدرينالين قلبي وعيني مش قادرين</div><div>مشت قلبي على الخط ما راحش شمال وما شافش يمين</div><div>أنا هنجت، اتبنجت، اتمزجت، أنا معمولي كمين</div><div>الله ع البسمة، البسمة والعود والرسمة، الرسمة</div><div>جايه في وقتها والله ما هي جت في اللحظة الحاسمة</div><div>الله ع الخفة، الخفة والعود واللفة، اللفة</div><div>جايه في وقتها والله ما هي جت من بعد اللهفة</div><div>ولمست إيدي عملت contact، الكهربا مسكت في الشرايين</div><div>زودت الأدرينالين (قلبي وعيني مش قادرين)</div><div>مشت قلبي على الخط ما راحش شمال وما شافش يمين</div><div>أنا هنجت، اتبنجت (اتمزجت، أنا معمولي كمين)</div><div>ثانية واحدة بس نفهم الجمال ده مش بيرحم</div><div>الجمال ده ناره قايدة كل نظرة متعة زايدة</div><div>ثانية واحدة بس ندرس الجمال ده يهري يفرس</div><div>الجمال ده ناره والعة م الدلع وم الملاوعة</div><div>لحظة واحدة بس هدوا، الجمال ده مين اللي قده؟</div><div>الجمال ده ناره جنة معذورين لو اتفتننا</div><div>لحظة واحدة لحظة واحدة لأ بجد أحلى واحدة</div><div>في الطعامة زايدة حتة حتتين، تلاتة، ستة</div><div>الله ع البسمة، البسمة والعود والرسمة، الرسمة</div><div>جايه في وقتها والله (ما هي جت في اللحظة الحاسمة)</div><div>الله ع الخفة، الخفة والعود واللفة، اللفة</div><div>جايه في وقتها والله (ما هي جت من بعد اللهفة)</div><div>ولمست إيدي عملت contact الكهربا مسكت في الشرايين</div><div>زودت الأدرينالين قلبي وعيني مش قادرين</div><div>مشت قلبي على الخط ما راحش شمال وما شافش يمين</div><div>أنا هنجت، اتبنجت (اتمزجت، أنا معمولي كمين)</div></div><div><br></div>",
-      "lang": "ar",
-      "id_import": "song1692981111758"
+      "lang": "ar"
     },
     {
       "publishedAt": "2022-09-16T13:00:09Z",
@@ -252,9 +237,8 @@
       "year": "2022",
       "genre": "pop",
       "name": "ناصيف زيتون - بالأحلام",
-      "id": "song1692981300822",
-      "album": "Bel Ahlam",
-      "id_import": "song1692981300822"
+      "id": "nassif-zeytoun",
+      "album": "Bel Ahlam"
     },
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981562622_Dystinct.mp3?alt=media&token=47169c34-2e0a-4545-a0ce-6c9daa2338b6",
@@ -269,15 +253,14 @@
       "date": "2023-08-25",
       "link_ytb": "https://www.youtube.com/watch?v=xRoaPdBcxAU",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692981557435_Dystinct.jpg?alt=media&token=09c21574-decd-477a-9242-e0949b0f3608",
-      "id": "song1692981489145",
-      "id_import": "song1692981489145"
+      "id": "dystinct"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692981715711_Majed%20Alrslani.jpg?alt=media&token=88f39dec-901d-4428-952e-4a59c6b26845",
       "lang": "ar",
       "name": "ماجد الرسلاني - أدعج عيون",
       "lyrics": "<div><div>الكلمات :</div><div><br></div><div>اقبل علي يالغالي</div><div>معك العمر يهنالي</div><div>يابعد راسي وحالي&nbsp;</div><div>تفداك باقي سنيني</div><div>اهلن هلا</div><div>بكل الغلا</div><div>ملح وحلا</div><div>حطيت قلبي بقلبك</div><div>ومليت عيني بحبك</div><div>دخيل ربي وربك</div><div>يحفظك من شر العين</div><div>راية هواك</div><div>رفت غلاك</div><div>بعالي سماك</div><div>ميل على مياسك</div><div>وانثر علي احساسك</div><div>الكون فدوة راسك</div><div>ياحور عين الدنيا</div><div>باهي ونزيه</div><div>ومالك شبيه</div><div>بين الوجيه</div><div>سهوم عينه ذباحه</div><div>والزين كله مجتاحه</div><div>لباس تاجه ووشاحه</div><div>لله ياعالم دره</div><div>غرون فتون</div><div>ادعج عيون</div><div>وقلبن حنون</div><div>مابين شله حطه</div><div>الوجه ولا غلطه</div><div>مياس خصره جلطه&nbsp;</div><div>مرسوم بريشة فنان</div><div>ويحي ويحاه</div><div>ويلي ويلاه</div><div>وبري برياه</div><div>يعزف برموش عيونه</div><div>وتر الهوا والحونه</div><div>هيض قلبي بشجونه</div><div>ملهم بعيونن نجلا</div><div>خشف الرشا</div><div>حبه نشا</div><div>جوف الحشا</div><div>صاب الصبايا لوعه</div><div>يافاخرن من نوعه</div><div>زاهي وكلك روعه</div><div>متفردن بخصالك</div><div>غنج ودلال</div><div>وحسن القبال</div><div>ووحي الجمال&nbsp;</div><div>ضروف وقتك ضدي</div><div>ارفق علي وهدي</div><div>الشوق بيح سدي</div><div>لا يطول عني غيابك</div><div>جرح الهوا</div><div>لو انكوا</div><div>ماله دوا</div><div>العين تجرف ماها</div><div>يامهجتي وامناها</div><div>صدتك جاب اقصاها</div><div>يابو عيونن خدرانه</div><div>ليه يالمليح</div><div>تترك طريح</div><div>قلبه جريح</div><div>الحرب كره وفره</div><div>والحب حره وعبره</div><div>والوقت يكفي شره</div><div>لو كان ماجاب اقصاي</div><div>الله عليم</div><div>والله كريم</div><div>والله رحيم</div><div>يابدر نصف الشهر</div><div>فرقاك موتن حمر</div><div>تعال يكفي هجر</div><div>ماعاد صبري يقواه</div><div>والله حرام</div><div>تنسى الغرام</div><div>وفيك الهيام</div><div>طير الوله لك يخفق</div><div>ليتك تحن وترفق</div><div>باللي لشوفك يشفق</div><div>يالفارق المتفرد</div><div>روحي حنت</div><div>وجاشي ونت</div><div>وعيني دنت</div></div>",
-      "id": "song1692981594839",
+      "id": "",
       "year": "2021",
       "genre": "pop",
       "link_ytb": "https://www.youtube.com/watch?v=eKKvQX3AV7w",
@@ -285,15 +268,14 @@
       "album": "Majed Alrslani",
       "artist": "ماجد الرسلاني",
       "date": "2023-08-25",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981722401_Majed%20Alrslani.mp3?alt=media&token=247794af-692c-483c-b97f-463270ace58b",
-      "id_import": "song1692981594839"
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981722401_Majed%20Alrslani.mp3?alt=media&token=247794af-692c-483c-b97f-463270ace58b"
     },
     {
       "genre": "pop",
       "lyrics": "<div><div>تفكرت أيامي ايه وڨلت يا حسرة (قلت يا حسرة)</div><div>ما أخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>تفكرت أيامي ايه وڨلت يا حسرة (يا حسرة)</div><div>ما أخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>ضحكة لميمة ايه وناس بالقيمة</div><div>ايه وعشرة ڨديمة ايه وڨلت يا حسرة</div><div>رضاية والدينا ايه وينك يا حنينة؟</div><div>ايه تفرڨنا مشينا ايه وڨلت يا حسرة</div><div>ما أحلانا ذراري، ذراري الدنيا ما أحلاها</div><div>ما أحلاها ماما ووزينها ديما مواتيها</div><div>ما أحلاها الحومة ديما الحومة مظلومة</div><div>ڨتلتنا الشيخة وزادت ڨتلتنا الحكومة</div><div>تفكرت اللمة ايه ڨسمنا إلي فما</div><div>ايه وكل حد وهمه ايه وكنا ما أحلانا</div><div>وليوم زمما ايه وبكات المما</div><div>ايه خشومات في الشمة ايه شكون الي بلانا؟</div><div>تفكرت أصحابي، أصحابي حبوا على خرابي</div><div>عطيتهم ترابي في رشوشه تفرش لا زرابي</div><div>نعيب على روحي وما نعيبش على قرابي</div><div>راڨد ونحلم وفڨت نجري على سرابي</div><div>وفي غيبوبة ايه وينك يا صحوبة؟</div><div>ايه وطلعوا ذيوبة ايه وناس خوانة</div><div>ريوسنا مقلوبة ايه وطالب التوبة</div><div>ايه وأيام محسوبة آه والوقت خذانا</div><div>تفكرت أيامي ايه وڨلت يا حسرة (قلت يا حسرة)</div><div>ما أخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>تفكرت أيامي ايه وڨلت يا حسرة (يا حسرة)</div><div>ما أخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>ضحكة لميمة ايه وناس بالقيمة</div><div>ايه وعشرة ڨديمة ايه وڨلت يا حسرة</div><div>رضاية والدينا ايه وينك يا حنينة؟</div><div>ايه تفرڨنا مشينا ايه وڨلت يا حسرة</div><div>تفكرت روحي لقيت روحي ضاعت مني</div><div>راقد متحير وينه لي راقد متهني؟</div><div>وعجبتني الجارة ليوم الجارة عروسة تحني</div><div>تفكرت ليالي ساهر كالفرزيت نغني</div><div>وشربنا الروجا ايه ضيعنا الموجة</div><div>ايه خطاوينا عوجة آه ضحكة وبكانا</div><div>بالخير ما يروشا ايه وما حبوشه</div><div>ايه كيلنا الحربوشة ايه والحب كوانا</div><div>تفكرت شبابي ربحت وخسرت أطراحي</div><div>نروح للدار ميما لتكمدلي جروحي</div><div>تفكرت أحزاني وم أحلى الدنيا في فراحي</div><div>مسكينة بلادي الشايخ أكثر ملي صاحي</div><div>وصغار ما درينا ايه وضحكوا علينا ايه</div><div>ما مشينا قرينا هيه مشينا بهوانا</div><div>واليوم شبينا ايه ضحكتنا حزينة</div><div>ايه وقلي وين آه نلقاو دوانة</div><div>تفكرت أيامي ايه وڨلت يا حسرة</div><div>مخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>تفكرت أيامي ايه وڨلت يا حسرة</div><div>مخيبها الدنيا وما أحلاها الدنيا بلا غصرة</div><div>ضحكة لميمة ايه وناس بالقيمة</div><div>ايه وعشرة ڨديمة ايه وڨلت يا حسرة</div><div>رضاية والدينا ايه وينك يا حنينة؟</div><div>ايه تفرڨنا مشينا ايه وڨلت يا حسرة</div></div><div><br></div>",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692981812520_Balti.jpg?alt=media&token=c9c2a000-3afd-40ae-a27a-c21cfb3151fa",
       "date": "2023-08-25",
-      "id": "song1692981747925",
+      "id": "balti-ya-hasra-ya-hasra",
       "name": "Balti - Ya Hasra",
       "album": "Thisiz Balti",
       "year": "2021",
@@ -301,8 +283,7 @@
       "artist": "ya hasra",
       "lang": "ar",
       "link_ytb": "https://www.youtube.com/watch?v=tS8nzAQg_8k",
-      "publishedAt": "2021-02-13T12:00:04Z",
-      "id_import": "song1692981747925"
+      "publishedAt": "2021-02-13T12:00:04Z"
     },
     {
       "artist": "Oumeima",
@@ -314,11 +295,10 @@
       "publishedAt": "2022-06-13T14:00:12Z",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692981935770_Oumeima.mp3?alt=media&token=62528f75-f05d-4058-8284-3f3a2169a71d",
       "lyrics": "<div><div>بيان صادر من معاناة المحبّة والسنين</div><div>يا ضيق صدرك يا السنين ويا كثر هذا الغياب</div><div>تحين ساعات الزعل متى سعادتنا تحين</div><div>إمّا قهر وإلّا صبر وإلّا كبر وإلّا عتاب</div><div>بيان صادر من معاناة المحبّة والسنين</div><div>يا ضيق صدرك يا السنين ويا كثر هذا الغياب</div><div>تحين ساعات الزعل متى سعادتنا تحين</div><div>إمّا قهر وإلّا صبر وإلّا كبر وإلّا عتاب</div><div>حنا تحمّلنا بعض، شوق ومسافات وحنين</div><div>وعيا يتوب الحظ ليته يوم قصّر فينا تاب</div><div>أنا أحبِّك وأعشقك والله على الفرقة يعين</div><div>حنا دخلنا الحبّ وسكّرنا معه ألفين باب</div><div>تحين ساعات الزعل متى سعادتنا تحين</div><div>إمّا قهر وإلّا صبر وإلّا كبر وإلّا عتاب</div><div>ما للمعاناة اعتذار، مرّة ومرّة ومرّتين</div><div>لا صار في الغلطات ضحك وفي السعادة اكتئاب</div><div>لكنك أقرب منّي لي، أقربلي من حبل الوتين</div><div>وإنّي أكمّلها معك، أبعد لي من لمس السحاب</div><div>ما للمعاناة اعتذار، مرّة ومرّة ومرّتين</div><div>لا صار في الغلطات ضحك وفي السعادة اكتئاب</div><div>لكنك أقرب منّي لي، أقربلي من حبل الوتين</div><div>وإنّي أكمّلها معك، أبعد لي من لمس السحاب</div><div>حنا تحمّلنا بعض، شوق ومسافات وحنين</div><div>وعيا يتوب الحظ ليته يوم قصّر فينا تاب</div><div>أنا أحبِّك وأعشقك والله على الفرقة يعين</div><div>حنا دخلنا الحبّ وسكّرنا معه ألفين باب</div><div>تحين ساعات الزعل متى سعادتنا تحين</div><div>إمّا قهر وإلّا صبر وإلّا كبر وإلّا عتاب</div></div><div><br></div>",
-      "id": "song1692981851948",
+      "id": "oumeima",
       "name": "أميمة طالب ... الفين باب",
       "year": "2022",
-      "lang": "ar",
-      "id_import": "song1692981851948"
+      "lang": "ar"
     },
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692982052102_Saad%20Lamjarred.mp3?alt=media&token=d2d166b6-487c-4c11-89b3-8613ece0ca1e",
@@ -333,15 +313,14 @@
       "lang": "ar",
       "date": "2023-08-25",
       "link_ytb": "https://www.youtube.com/watch?v=98gCJostAcI",
-      "id": "song1692981971166",
-      "id_import": "song1692981971166"
+      "id": "saad-lamjarred"
     },
     {
       "album": "Craft Media",
       "artist": "Karim Mahmoud Abdelaziz",
       "date": "2023-08-25",
       "publishedAt": "2022-07-23T22:32:34Z",
-      "id": "song1692982077082",
+      "id": "karim-mahmoud-abdelaziz",
       "name": "الغزالة رايقة - كريم محمود عبد العزيز ومحمد أسامة",
       "lyrics": "<div><div>ياليل ليل يا ليل</div><div>– Lil lil ya lil</div><div>لي لي لي يا ليل</div><div>– Me, me, me, my night</div><div><br></div><div>الغزاله رايقه ما الناس الحلوه سايقه</div><div>– The deer is elegant what sweet people sayeqah</div><div>يا سيدي يا جماله ماله ضغط كتير عليه</div><div>– Sir, beauty, money, a lot of pressure on him</div><div>ماتقرب مني حبه</div><div>– His love is close to me</div><div>لا لسه شويه حبه</div><div>– Do not touch his love</div><div>طب وحياه المحبه مادام</div><div>– Medicine and loving life</div><div>جيت جمبي خلاص خليك</div><div>– Jet Jambi Khalas</div><div><br></div><div>الغزاله رايقه ما الناس الحلوه سايقه</div><div>– The deer is elegant what sweet people sayeqah</div><div>يا سيدي يا جماله ماله ضغط كتير عليه</div><div>– Sir, beauty, money, a lot of pressure on him</div><div>ماتقرب مني حبه</div><div>– His love is close to me</div><div>لا لسه شويه حبه</div><div>– Do not touch his love</div><div>طب وحياه المحبه</div><div>– Medicine and loving life</div><div>مادام جيت جمبي خلاص خليك</div><div>– Madam jet Jambi Khalas stay</div><div><br></div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>بيدق ورا المقسوم</div><div>– Pawn and RA divisor</div><div><br></div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>بيدق ورا المقسوم</div><div>– Pawn and RA divisor</div><div><br></div><div>الدلع له ناسه متأسسين باساسه</div><div>– Al-Dala has its own people</div><div>و حبيبي ده من ساسه لراسه متشرب حنان</div><div>– And Darling de from sassah to his head impregnated tenderness</div><div>ده رمش عينه وحده بديله يا ناس مساحته</div><div>– His eye blinking is his only substitute, people his size</div><div>مش واخد لسه راحته ولا حقه في المجال</div><div>– Do not take his rest nor his right in the field</div><div><br></div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>بيدق ورا المقسوم</div><div>– Pawn and RA divisor</div><div><br></div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>الطلبه دي (الطلبه دي) لا ده قلبي (ده قلبي)</div><div>– D-student (D-student) no D-my heart (d-my heart)</div><div>بيدق ورا المقسوم</div><div>– Pawn and RA divisor</div><div><br></div><div>الغزاله رايقه ما الناس الحلوه سايقه</div><div>– The deer is elegant what sweet people sayeqah</div><div>يا سيدي يا جماله ماله ضغط كتير عليه</div><div>– Sir, beauty, money, a lot of pressure on him</div><div>ماتقرب مني حبه</div><div>– His love is close to me</div><div>لا لسه شويه حبه</div><div>– Do not touch his love</div><div>طب وحياه المحبه</div><div>– Medicine and loving life</div><div>مادام جيت جمبي خلاص خليك</div><div>– Madam jet Jambi Khalas stay</div></div>",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692982203115_Karim%20Mahmoud%20Abdelaziz.jpg?alt=media&token=f44428da-6c9b-4d23-8741-6791f3cad8dc",
@@ -349,11 +328,10 @@
       "lang": "ar",
       "year": "2022",
       "link_ytb": "https://www.youtube.com/watch?v=alJUt1nChDI",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692982209022_Karim%20Mahmoud%20Abdelaziz.mp3?alt=media&token=f0d4cfea-5d98-41eb-a9ce-9ebd8c5714c3",
-      "id_import": "song1692982077082"
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692982209022_Karim%20Mahmoud%20Abdelaziz.mp3?alt=media&token=f0d4cfea-5d98-41eb-a9ce-9ebd8c5714c3"
     },
     {
-      "id": "song1692982231338",
+      "id": "wael-kfoury",
       "genre": "pop",
       "name": "وائل كفوري - البنت القوية",
       "lang": "ar",
@@ -365,8 +343,7 @@
       "lyrics": "<div><span style=\"font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">إذا انتي تركتيني</span></div><div>و بطلتي تحبيني</div><div>والله لخلي عيني</div><div>ما تعود تشوف</div><div>وإذا إنتي فليتي</div><div>يعني نخرب بيتي</div><div>شو بعمل بحالي</div><div>مش معروف</div><div>إنتي خلقتي لقلبي</div><div>اللي مطرحك جواتو</div><div>بكلمة منك بيعيش</div><div>وكلمة بتنهي حياتو</div><div>يا ويلي من حبّا</div><div>سكّر على مربّى</div><div>إحساسي و أنا جنبا</div><div>مش مقبول</div><div>هالبنت القوية</div><div>شو غيرت فيي</div><div>لهفتها و خوفا عليي</div><div>مش معقول</div><div><br></div><div>English Lyrics :</div><div><br></div><div>The Strong Girl</div><div>If you ever leave me</div><div>And stop loving me</div><div>I swear I will make my eyes</div><div>Go blind</div><div>If you ever go away</div><div>My life will get ruined</div><div>What would I do to myself?</div><div>I don’t know</div><div>You were born</div><div>To live inside my heart</div><div>A word from you revives it</div><div>And a word destroys it</div><div>Oh my! Her love</div><div>Is sugary and sweet</div><div>I get overwhelmed</div><div>Whenever she is around</div><div>This strong girl</div><div>Turned my life upside down</div><div>Her yearning and worry for me</div><div>Is unconditional<br></div>",
       "link_ytb": "https://www.youtube.com/watch?v=QqiqISFT15w",
       "publishedAt": "2021-07-11T08:57:29Z",
-      "year": "2021",
-      "id_import": "song1692982231338"
+      "year": "2021"
     },
     {
       "lang": "ar",
@@ -375,14 +352,13 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692982442512_Abdul%20Majeed%20Abdullah.mp3?alt=media&token=75fefd73-4ebe-4d33-b019-fc27b064314f",
       "year": "2021",
       "publishedAt": "2021-08-02T22:00:10Z",
-      "id": "song1692982343667",
+      "id": "abdul-majeed-abdullah",
       "date": "2023-08-25",
       "artist": "Abdul Majeed Abdullah",
       "genre": "pop",
       "album": "Aalam Mowazi",
       "name": "عبدالمجيد عبدالله - يا أبن الاوادم",
-      "lyrics": "<div><div><br></div><div>كلمات الأغنية</div><div><br></div><div>في عز ماكنت اهوجس فيك وافتحلك</div><div>‎ابواب قلبي.. خذتنـي رجلـي لبابك</div><div>‎جيتك وانا مـ اذكر اني كنت رايحلك</div><div>‎بس اذكر اني كـذا.. لاطـوّل غيابك</div><div>‎ياما ترددت مدري كيـف بشرحلك</div><div>‎اجيك وارجع..ابيك تقول:وش جابك‎</div><div>ياابن الاوادم ترى مليـت المحلك</div><div>‎انـا اعزك واحبك واعشـق ترابك</div><div><br></div><div>‎لاضقت اضيق ومتى ماتفرح افرحلك</div><div>‎ولاغبت اموت ومتى ماشفتك احيابك</div><div>‎ان كان ودك ترسينـي علـى كحلك</div><div>‎لميت عمري وخاويتك على اهدابك</div><div>‎وان ضاع مستقبلي مانيب سامـحلك</div><div>‎يكفيني الماضي اللي ضاع باسبابك</div><div>يـ ابن الآوادم ترى ملّيت ألمّح لك</div><div>‎آنـا أعـزّك واحبّـك واعشـق ترابـك</div></div><div><br></div>",
-      "id_import": "song1692982343667"
+      "lyrics": "<div><div><br></div><div>كلمات الأغنية</div><div><br></div><div>في عز ماكنت اهوجس فيك وافتحلك</div><div>‎ابواب قلبي.. خذتنـي رجلـي لبابك</div><div>‎جيتك وانا مـ اذكر اني كنت رايحلك</div><div>‎بس اذكر اني كـذا.. لاطـوّل غيابك</div><div>‎ياما ترددت مدري كيـف بشرحلك</div><div>‎اجيك وارجع..ابيك تقول:وش جابك‎</div><div>ياابن الاوادم ترى مليـت المحلك</div><div>‎انـا اعزك واحبك واعشـق ترابك</div><div><br></div><div>‎لاضقت اضيق ومتى ماتفرح افرحلك</div><div>‎ولاغبت اموت ومتى ماشفتك احيابك</div><div>‎ان كان ودك ترسينـي علـى كحلك</div><div>‎لميت عمري وخاويتك على اهدابك</div><div>‎وان ضاع مستقبلي مانيب سامـحلك</div><div>‎يكفيني الماضي اللي ضاع باسبابك</div><div>يـ ابن الآوادم ترى ملّيت ألمّح لك</div><div>‎آنـا أعـزّك واحبّـك واعشـق ترابـك</div></div><div><br></div>"
     },
     {
       "name": "تامر عاشور - خليني في حضنك",
@@ -390,15 +366,14 @@
       "genre": "pop",
       "publishedAt": "2022-01-20T15:20:50Z",
       "lyrics": "<div><div>كلمات</div><div>خليني ف حضنك يا حبيبي .. ده ف حضنك بهدى وبرتاح&nbsp;</div><div>أنا كل مشاعري معاك راحو .. وكمان قلبي لقلبك راح&nbsp;</div><div>ولا بضحك وأفرح من قلبي .. غير لو جمبي انا كانو عينيك&nbsp;</div><div>لو تبعد عني ولو ثانيه .. بتجنن يا حبيبي عليك&nbsp;</div><div><br></div><div>وبتحلى الدنيا ف عيني&nbsp;</div><div>وانا جمبك فا ماتبعدنيش&nbsp;</div><div>حُبك فعلاً بيخليني&nbsp;</div><div>أتمسك بالدنيا وأعيش&nbsp;</div><div><br></div><div>وف حضنك بيروح خوفي&nbsp;</div><div>وده وعد ومُلزم أنا بيه&nbsp;</div><div>مهما تكون يا حبيبي ظروفي&nbsp;</div><div>قلبك عمري ما هاجي عليه&nbsp;</div><div><br></div><div>أنا مكسب عمري إني قابلتك .. غيرت ف عيني الأيام&nbsp;</div><div>طمنتني ع الباقي ف عمري .. حققتلي كل الأحلام&nbsp;</div><div>أول ما عيونك دي بشوفها .. مش بعرف أشوف غيرها خلاص</div><div>إنت هدية ربنا ليا ..&nbsp; إنت حبيبي وأغلى الناس</div></div>",
-      "id": "song1692984016783",
+      "id": "tamer-ashour",
       "link_ytb": "https://www.youtube.com/watch?v=SKfi0V8NRhQ",
       "date": "2023-08-26",
       "album": "Tamer Ashour",
       "year": "2022",
       "lang": "ar",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984121215_Tamer%20Ashour.jpg?alt=media&token=51aeb5b3-a29f-4093-853c-753879357192",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984135529_Tamer%20Ashour.mp3?alt=media&token=5ca76dba-60e9-4ee4-9651-1efac5d94615",
-      "id_import": "song1692984016783"
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984135529_Tamer%20Ashour.mp3?alt=media&token=5ca76dba-60e9-4ee4-9651-1efac5d94615"
     },
     {
       "lang": "ar",
@@ -408,13 +383,12 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984381814_makhelaw%20magalou.mp3?alt=media&token=4cd1d306-4314-4230-bd27-a1572ad63c18",
       "artist": "Manal",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984376939_makhelaw%20magalou.jpg?alt=media&token=39851212-bd86-4dee-ae96-9971eb06e2ba",
-      "id": "song1692984193330",
+      "id": "makhelaw-magalou-manal",
       "name": "makhelaw magalou",
       "date": "2023-08-26",
       "year": "2022",
       "publishedAt": "2022-06-30T15:58:37Z",
-      "album": "Manal l منال",
-      "id_import": "song1692984193330"
+      "album": "Manal l منال"
     },
     {
       "date": "2023-08-26",
@@ -427,13 +401,12 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984486009_Assala.mp3?alt=media&token=58f47ca1-2f3f-4099-bf26-6371009803f2",
       "album": "Shayfa Feek",
       "artist": "Assala",
-      "id": "song1692984411833",
+      "id": "assala",
       "publishedAt": "2022-07-07T15:00:12Z",
-      "lyrics": "<div><div><br></div><div>غلبان أوي غلبان عايش على اللي كان</div><div>فاكرنا زي زمان آه غلبان أوي غلبان</div><div>لا ده فاته، وفاته رميناه بماضيه وحكاياته</div><div>ده فاكر دمعنا هنا على خدنا يا تهيأته</div><div>ده فاكرنا هناك قال قاعدين جنب الشباك</div><div>قال وفي عرض رجوعه فاكر موضوعه وشغلتنا حياته</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>حوالينا كثير ناس من جوة بجد جميلة</div><div>ناس حقيقية وشارية وصافية النية ومثبتين</div><div>دول أولى بخيرنا ولا ثانية رضيوا بغيرنا</div><div>على حلونا مرنا قاعدين هنا، هنا ومربعين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب</div><div>ليه هنمسك في اللي غايب</div><div>بابنا مايتسابش موارب</div><div>لالا بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه) هنمسك في اللي غايب مش من قلة الحبايب)</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div></div>",
-      "id_import": "song1692984411833"
+      "lyrics": "<div><div><br></div><div>غلبان أوي غلبان عايش على اللي كان</div><div>فاكرنا زي زمان آه غلبان أوي غلبان</div><div>لا ده فاته، وفاته رميناه بماضيه وحكاياته</div><div>ده فاكر دمعنا هنا على خدنا يا تهيأته</div><div>ده فاكرنا هناك قال قاعدين جنب الشباك</div><div>قال وفي عرض رجوعه فاكر موضوعه وشغلتنا حياته</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>حوالينا كثير ناس من جوة بجد جميلة</div><div>ناس حقيقية وشارية وصافية النية ومثبتين</div><div>دول أولى بخيرنا ولا ثانية رضيوا بغيرنا</div><div>على حلونا مرنا قاعدين هنا، هنا ومربعين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب</div><div>ليه هنمسك في اللي غايب</div><div>بابنا مايتسابش موارب</div><div>لالا بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه هنمسك في اللي غايب مش من قلة الحبايب</div><div>بابنا ما يتسابش موارب احنا بنقفل ع الشاريين</div><div>ليه) هنمسك في اللي غايب مش من قلة الحبايب)</div><div>بابنا مايتسابش موارب احنا بنقفل ع الشاريين</div></div>"
     },
     {
-      "id": "song1692984521532",
+      "id": "mohamed-mounir",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984582460_Mohamed%20Mounir.jpg?alt=media&token=93f8181d-84d9-4dd1-acb5-29b44b758ec3",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984596996_Mohamed%20Mounir.mp3?alt=media&token=e9ce203f-6a72-45f2-a7d4-dcfb57571116",
       "publishedAt": "2023-08-09T14:00:05Z",
@@ -445,8 +418,7 @@
       "date": "2023-08-26",
       "lang": "ar",
       "link_ytb": "https://www.youtube.com/watch?v=-F63-4xExYE",
-      "artist": "Mohamed Mounir",
-      "id_import": "song1692984521532"
+      "artist": "Mohamed Mounir"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984698017_L7OR.jpg?alt=media&token=2f333a39-81e4-4aa8-8bb6-171caaaaecce",
@@ -456,13 +428,12 @@
       "year": "2023",
       "publishedAt": "2023-08-06T17:11:03Z",
       "link_ytb": "https://www.youtube.com/watch?v=4lKUx3miH3U",
-      "id": "song1692984618661",
+      "id": "l7or",
       "lyrics": "<div>الخيال فاتح موضوع والقلب وحيد موجوع</div><div>واش منهم اولا مني واش ذنبي</div><div>ضحاو عليا شموع فميلادي طاحو الدموع</div><div>ولى الخوف ممنوع يكون فدربي</div><div>آه يا يما آه شكون ضد ولدك شكون معاه</div><div>شكون زرع الشوك فطريقي باش نلقاه</div><div>وشكون لقى لوقيد وجيت فبالو عليا رماه</div><div>وحيت ربي كبير جا غا الريح طفاه</div><div>ياحسرة وخصارة ، الدنيا غدارة</div><div>ولي خدلونا نساو بلي دوارة</div><div>آرا يا زمان آرا كولشي عرف الايام حگارة</div><div>والجرح مايتسمى جرح ادا ماخلا الامارة</div><div>متقولوا ليما راه مجروح وجناحي مكسور</div><div>يازهري ديني معاك نروح فطيارة ولى بابور</div><div>قولوا للحبيبة راه لي غارو باعونا فابور</div><div>وقصتي بين الناس الدور من طنجة للناظور</div><div>متقولوا ليما راه مجروح وجناحي مكسور</div><div>يازهري ديني معاك نروح فطيارة ولى بابور</div><div>قولوا للحبيبة راه لي غارو باعونا فابور</div><div>وقصتي بين الناس الدور من طنجة للناظور</div><div>سهران الليل و المشاهب تغني رسامي</div><div>ماتاقوا بكلامي ماوفالي غرامي</div><div>وشكون حرض الريح باش مايرفرفش علامي</div><div>وشنو لي خلى المراية تهضر وهي قدامي</div><div>واش باغية تبكيني اولا تنسيني</div><div>اولا تخليني ضايع بين البارح واليوم</div><div>وكل مرة مشاكل ومصايد وحفاري فطريقي</div><div>وعديان جداد يتمناو ينشف ريقي</div><div>وعلاش بغا الحوت يطير وهو غير كيعوم</div><div>ويوم يشبه يوم وعلاش بنادم فيا يلوم</div><div>والسما لي عامرة غيوم صبت ويدان وفيها نعوم</div><div>وياك يحق المظلوم واخا يستروه يبان في يوم</div><div>متقولوا ليما راه مجروح وجناحي مكسور</div><div>يازهري ديني معاك نروح فطيارة ولى بابور</div><div>قولوا للحبيبة راه لي غارو باعونا فابور</div><div>وقصتي بين الناس الدور من طنجة للناظور</div><div>متقولوا ليما راه مجروح وجناحي مكسور</div><div>يازهري ديني معاك نروح فطيارة ولى بابور</div><div>قولوا للحبيبة راه لي غارو باعونا فابور</div><div>وقصتي بين الناس الدور من طنجة للناظور</div><div>والله ما ذنبي والا ذنب لي دار قلبي</div><div>هوما لي حاربوني وسماوها حربي</div><div><br></div>",
       "date": "2023-08-26",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984702803_L7OR.mp3?alt=media&token=46ff3ac2-e4dd-4c82-a57c-cf2266b46ca6",
       "album": "L7OR - الحر",
-      "lang": "ar",
-      "id_import": "song1692984618661"
+      "lang": "ar"
     },
     {
       "lang": "ar",
@@ -477,11 +448,10 @@
       "album": "Ahmed Saad",
       "genre": "pop",
       "publishedAt": "2023-07-18T15:00:11Z",
-      "id": "song1692984756304",
-      "id_import": "song1692984756304"
+      "id": "ahmed-saad"
     },
     {
-      "id": "song1692984923236",
+      "id": "hamza-namira",
       "name": "حمزة نمرة - رياح الحياة",
       "lyrics": "<div><div>تهبي يا رياح الحياة دايمًا بما لا أشتهي</div><div>واللي السنين مقدماه غير اللي قلت نفسي فيه</div><div>يلاقي قلبي فين دواه واللي أذاه أقرب ما ليه؟</div><div>ده جرح بيعلم</div><div>وصعب تسكن الآلام وأخرج من اللي فات سليم</div><div>وصعب لما أروح أنام ما أفضلش أراجع القديم</div><div>طلع مكلف العلام وخدت درس في الصميم</div><div>ولسه بتعلم</div><div>ركز يا قلبي في اللي جاي وألف شكر للي باع</div><div>ما صانش حتى بق شاي، سلام يا ٣٠٠ وداع</div><div>واللي لقانا ما يساعوش فخانة الوداع تساع</div><div>مشاعرنا مش لعبة</div><div>ما تنشغلش باللي فات، خليك يا قلبي في المفيد</div><div>كبر لأي ذكريات، ركز وبس في الجديد</div><div>لازم نقسم الخانات بمين قريب ومين بعيد</div><div>الحسبة مش صعبة</div><div>فرحت من الساعات ساعات ودقت من الحاجات حاجات</div><div>وعشت من السنين سنين ونابني من اللي فات فتات</div><div>ومن الحبيب جواب حزين وأسئلة بلا إجابات</div><div>حيرة ورا حيرة</div><div>حتى السعادة يوم ويوم، حتى المحبة خد وهات</div><div>وكله كوم وكومي كوم، زمان بيرمي إفيهات</div><div>وزي عادتي أصوم، أصوم وأسد جوجي ذكريات</div><div>وأفضها سيرة</div><div>آخرتها يا زمن عنيد كله سبق وأنا الوحيد</div><div>اللي مشيت ورا سراب واللي بدأت من جيد</div><div>الكل شاف اللي وراه حاسبت أنا ع المشاريب</div><div>لوحدي كالعادة</div><div>مش باقي غيري في المكان، مش باقي حاجة من اللي كان</div><div>مش باقي غير وجع زمان وهمس ذكرى في الودان</div><div>طاوعت حظي لما قال: \"اصبر لكل شيء أدان\"</div><div>يا حظ ما تأدن</div><div>مش باقي غيري في المكان، مش باقي حاجة من اللي كان</div><div>مش باقي غير وجع زمان وهمس ذكرى في الودان</div><div>طاوعت حظي لما قال: \"اصبر لكل شيء أدان\"</div><div>يا حظ ما تأدن</div></div><div><br></div>",
       "date": "2023-08-26",
@@ -493,8 +463,7 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692984994442_Hamza%20Namiras.mp3?alt=media&token=7d0f22e0-2e09-4bf2-908a-c6ad432ba6a7",
       "lang": "ar",
       "link_ytb": "https://www.youtube.com/watch?v=Apl8h-P0F9Q",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984976730_Hamza%20Namiras.jpg?alt=media&token=9550e6cc-53d6-423d-8315-d3c91e24190d",
-      "id_import": "song1692984923236"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692984976730_Hamza%20Namiras.jpg?alt=media&token=9550e6cc-53d6-423d-8315-d3c91e24190d"
     },
     {
       "lyrics": "<div><div><br></div><div>انتي الحب الابدي وروح الروح</div><div>بنظرة وحدة بيه تردي الروح</div><div>ايدي بايدك وين نروح نروح</div><div>&nbsp;</div><div>انت اماني وعوضي من الايام</div><div>بس بحضنك اقدر اغفى وانام</div><div>حبك جنه واحلى من الاحلام</div><div>&nbsp;</div><div>هو هذا حب حياتي اللي اتمناه</div><div>يا طعم الغرام وعطره ومعناه</div><div>ادفع عمري كله حتى اعيش وياه</div><div>&nbsp;</div><div>اول مره اعيشه هالاحساس</div><div>عاشق من اطرافي لحد الراس</div><div>مثل الهوى احتاجه انتي الانفاس</div><div>&nbsp;</div><div>انته جناحي وبيك اتمنى اطير</div><div>بدونك والله ما حس اني بخير</div><div>اني بحضنك واللي يصير يصير</div></div><div><br></div>",
@@ -507,10 +476,9 @@
       "publishedAt": "2023-08-01T14:00:11Z",
       "genre": "pop",
       "name": "ماجد المهندس وأصالة - الحب الأبدي",
-      "id": "song1692985018336",
+      "id": "majid-al-mohandis-assala",
       "year": "2023",
-      "lang": "ar",
-      "id_import": "song1692985018336"
+      "lang": "ar"
     },
     {
       "name": "هند زيادي - واجهني",
@@ -521,12 +489,11 @@
       "year": "2023",
       "album": "Track 1",
       "lyrics": "<div><div>و بانو فيك شي فعايل</div><div>ما جاو للشيطان على البال</div><div>ما خليتي ما يتقال</div><div>ما باقيش فيا تسال</div><div><br></div><div>و لايني هادو خصايل و الله ما ديال الرجال</div><div>حتى درنا الحلال عاد باغي تهبال</div><div>X2</div><div><br></div><div>و اااه</div><div>وانا شداني شداني</div><div>نبغي واحد زهواني</div><div><br></div><div>طلق و انا نطلق</div><div>بلا ما تبغي عليا تحماق</div><div>انت لي نويتي الفراق</div><div>اجي واجهني، واجهني</div><div>X2</div><div><br></div><div>هادشي و ماجاك على بالك</div><div>بغيتي تلعب بيا</div><div>و ديرها بيا</div><div>تخليني ضحية</div><div><br></div><div>و ما قالك عقلك</div><div>راها مسكينة بنية</div><div>ما زال نية</div><div>ويلي على عقلية</div><div><br></div><div>و اااه</div><div>وانا شداني، شداني</div><div>نبغي واحد زهواني</div><div><br></div><div>و اااه</div><div>انا شداني شداني</div><div>يا و حبه الكافر عماني</div><div><br></div><div>طلق و انا نطلق</div><div>بلا ما تبغي عليا تحماق</div><div>انت لي نويتي الفراق</div><div>اجي واجهني، واجهني</div><div>X2</div><div><br></div><div>كيما كويتي قلبي</div><div>قلبي غادي يكويك</div><div><br></div><div>راني حلفتو عليك</div><div>غادي يوريك غادي يوريك</div><div>X2</div><div><br></div><div>و اااه</div><div>وانا شداني شداني</div><div>نبغي واحد زهواني</div><div><br></div><div>طلق و انا نطلق</div><div>بلا ما تبغي عليا تحماق</div><div>انت لي نويتي الفراق</div><div>اجي واجهني، واجهني.</div></div><div><br></div>",
-      "id": "song1692985146370",
+      "id": "hind-ziadi",
       "link_ytb": "https://www.youtube.com/watch?v=2nOdKMCD-a0",
       "artist": "Hind Ziadi",
       "lang": "ar",
-      "date": "2023-08-26",
-      "id_import": "song1692985146370"
+      "date": "2023-08-26"
     },
     {
       "year": "2023",
@@ -534,15 +501,14 @@
       "link_ytb": "https://www.youtube.com/watch?v=lJ-SxLdzr2M",
       "genre": "pop",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692985336272_Eftahli%20Albak.jpg?alt=media&token=d1562c3d-79e8-4bd2-9b3d-a10446723fe5",
-      "id": "song1692985280104",
+      "id": "eftahli-albak-mohamed-el-majzoub",
       "publishedAt": "2023-04-23T10:03:44Z",
       "artist": "Mohamed El Majzoub",
       "name": "Eftahli Albak",
       "lyrics": "<div><div>الأخد عقلك يتهنى</div><div>بحلم مش بس بتمنى</div><div>كون انا وبس انا وبس</div><div>جنيي لبتسمع عنا</div><div>ولا يوم رح تطلع منا</div><div>اذا فيي بتحس</div><div>يلا شو عم تستنى</div><div>بالحب غلط نتأنا</div><div>حس فيي حس بئى حس</div><div>انا جيت فتحلي قلبك</div><div>انا جيت وكلشي ورايي</div><div>رميت وجودك راحة نفسيي</div><div>أحلى من احلى غنيي</div><div>فيك ع الدنيي قويت</div><div>فتحلي قلبك انا جيت</div><div>كلشي ورايي رميت</div><div>وجودك راحة نفسيي</div><div>أحلى من احلى غنيي</div><div>فيك ع الدنيا قويت</div><div>♯Instrumental</div><div>أسف بعتذر مني</div><div>ع الوقت لضاع مني</div><div>وأنت عني بعيد عني بعيد</div><div>بشو حاسس طمني</div><div>وانت بقلبي متهني</div><div>حبني اذا بتريد</div><div>لو تعرف شو متمني</div><div>تقلي حبك جنني</div><div>عيد رح بكون عندي عيد</div><div>انا جيت فتحلي قلبك</div><div>انا جيت وكل شي ورايي</div><div>رميت رميت</div><div>وجودك راحة نفسيي</div><div>احلى من احلى غنيي</div><div>فيك ع الدنيي قويت</div><div>فتحلي قلبك انا جيت</div><div>وكل شي ورايي رميت رميت</div><div>وجودك راحة نفسيي</div><div>أحلى من أحلى غنيي</div><div>فيك ع الدنيي قويت</div></div><div><br></div>",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1692985356887_Eftahli%20Albak.mp3?alt=media&token=5813e210-9a7e-47a3-9db5-711fae6eff2d",
       "album": "Topic",
-      "date": "2023-08-26",
-      "id_import": "song1692985280104"
+      "date": "2023-08-26"
     },
     {
       "artist": "Mortadha Ftiti",
@@ -552,13 +518,12 @@
       "year": "2023",
       "album": "2000 Ktab",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692985464785_Mortadha%20Ftiti.jpg?alt=media&token=ee0aa171-2c3e-4c45-9464-91006e4f2611",
-      "id": "song1692985380224",
+      "id": "2000-mortadha-ftiti",
       "genre": "pop",
       "publishedAt": "2023-05-20T11:00:07Z",
       "link_ytb": "https://www.youtube.com/watch?v=wwhPcjDPE5s",
       "lyrics": "<div><div>\"ما عاد احباب ننساك و أنساني</div><div>تبعث 200 جواب و تقول تهواني</div><div>تقرى 2000 كتاب تقعد اناني</div><div>ما عاد تراني يااا</div><div>يا آمان</div><div>قلبي اللي بغاك ما عاد يبالي</div><div>سكّر الباب وراك و أخرج من بالي</div><div>و سلّم علّي معاك ما أبعد رخيص على الغالي ياااا</div><div>خليك بعيد و أنساني بلاش وديعة امان</div><div>كلكم نفس اللوغة نفس البيعة امان</div><div>لاك اللول لا الثاني سبب لوجيعة امان</div><div>و تعيشو في غابة</div><div>اه</div><div>قريتو الطيبة عيبة الحالة صعيبة امان</div><div>بلّي الوحش يكيد ننساك في مديدة امان</div><div>ما طويتش الصفحة و لكتب شريتها جديدة امان</div><div>و اللي صار لكلو ماضي</div><div>سمّعت كلامي وحكيت</div><div>تبسمت دموعي خبيت</div><div>و بنار كويتو قلبي لحديد</div><div>و من غدوة يوم جديد</div><div>لا ترجع لا تقول شريت</div><div>خليك من حياتي ديما بعيد</div><div>ما عاد احباب ننساك و أنساني</div><div>تبعث 200 جواب و تقول تهواني</div><div>تقرى 2000 كتاب تقعد اناني</div><div>ما عاد تراني يااا</div><div>يا آمان</div><div>قلبي اللي بغاك ما عاد يبالي</div><div>سكّر الباب وراك و أخرج من بالي</div><div>و سلّم علّي معاك ما أبعد رخيص على الغالي ياااا</div><div>خليك بعيد امان</div><div>ما تعاود فيا جرح جديد امان</div><div>كذبت على روحي و قلت نسيت امان</div><div>و انتي اللي ساكن عينيا</div><div>و اخترت نعيش نهار</div><div>خاطري مكسور اما خشمي بلار</div><div>عايش ممحون mais جاماي خسرت ختار</div><div>برشا فيك قلبي و لي بيا</div><div>ما عاد احباب ننساك و أنساني</div><div>تبعث 200 جواب و تقول تهواني</div><div>تقرى 2000 كتاب تقعد اناني</div><div>ما عاد تراني يااا</div><div>يا آمان</div><div>قلبي اللي بغاك ما عاد يبالي</div><div>سكّر الباب وراك و أخرج من بالي</div><div>و سلّم علّي معاك ما أبعد رخيص على الغالي ياااا</div><div>\"</div></div><div><br></div>",
-      "lang": "ar",
-      "id_import": "song1692985380224"
+      "lang": "ar"
     },
     {
       "genre": "pop",
@@ -573,8 +538,7 @@
       "name": "هرمون السعادة كاملة من فيلم تاج- تامر حسني",
       "lang": "ar",
       "album": "Tamer Hosny",
-      "id": "song1692985505192",
-      "id_import": "song1692985505192"
+      "id": "tamer-hosny"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1692985698893_Nabeel%20Aladeeb.jpg?alt=media&token=bc4ccf5c-eca1-4043-9536-a8bcf8e16d4c",
@@ -587,17 +551,16 @@
       "album": "HGuitaraStudio - حيدر كيتارا",
       "year": "2023",
       "genre": "pop",
-      "id": "song1692985633760",
+      "id": "nabeel-aladeeb",
       "name": "نبيل الاديب بمشاركة احمد الاوسي - خبر فززني",
-      "lyrics": "<div><div>خبر فززني من النوم</div><div>لمن گالوا امسافر</div><div>ابشرك ميت من اليوم</div><div>لأن ما طول الباچر</div><div>بقيت ابچي بچي المهموم</div><div>بچي المكسور اله خاطر</div><div>صافن منقهر مصدوم</div><div>بدونك ضايع وحاير</div><div>عفتني والشماتة تلوم</div><div>شحچيلك على الصاير</div><div>مثل بالحرب مهزوم</div><div>يصعب حالي عالكافر</div><div>امنتك تجيني اليوم</div><div>انا بلياك مو گادر</div><div>خبر فززني من النوم</div><div>لمن گالوا امسافر</div><div>عفتني بلا وداع شلون</div><div>ارجع فدوة ودعنّي</div><div>ارجع سكّت اليحجون</div><div>جرح الفرگة يوجعني</div><div>يعني ادموعي هيج تهون</div><div>وانت لوحدي عايفني</div><div>لا ميهمني كل الكون</div><div>تبقى لوحدك تهمني</div><div>واقرب ناسي اليسألون</div><div>گالوا انت ما تحبني</div><div>واموت بحبك يعرفون</div><div>لو بيدك تموتني</div><div>ما ترجعلي يتمنون</div><div>لأن بس انت عاجبني</div><div>ارجع سكّت اليحجون</div><div>جرح الفرگة يوجعني</div></div><div><br></div>",
-      "id_import": "song1692985633760"
+      "lyrics": "<div><div>خبر فززني من النوم</div><div>لمن گالوا امسافر</div><div>ابشرك ميت من اليوم</div><div>لأن ما طول الباچر</div><div>بقيت ابچي بچي المهموم</div><div>بچي المكسور اله خاطر</div><div>صافن منقهر مصدوم</div><div>بدونك ضايع وحاير</div><div>عفتني والشماتة تلوم</div><div>شحچيلك على الصاير</div><div>مثل بالحرب مهزوم</div><div>يصعب حالي عالكافر</div><div>امنتك تجيني اليوم</div><div>انا بلياك مو گادر</div><div>خبر فززني من النوم</div><div>لمن گالوا امسافر</div><div>عفتني بلا وداع شلون</div><div>ارجع فدوة ودعنّي</div><div>ارجع سكّت اليحجون</div><div>جرح الفرگة يوجعني</div><div>يعني ادموعي هيج تهون</div><div>وانت لوحدي عايفني</div><div>لا ميهمني كل الكون</div><div>تبقى لوحدك تهمني</div><div>واقرب ناسي اليسألون</div><div>گالوا انت ما تحبني</div><div>واموت بحبك يعرفون</div><div>لو بيدك تموتني</div><div>ما ترجعلي يتمنون</div><div>لأن بس انت عاجبني</div><div>ارجع سكّت اليحجون</div><div>جرح الفرگة يوجعني</div></div><div><br></div>"
     },
     {
       "date": "2023-08-26",
       "lyrics": "<div><div><br></div><div>حاسد روحي حاسدني</div><div>على الشال التعب مني</div><div>الحب مثل الرزق مرات</div><div>واحس بيك الله رازقني</div><div>&nbsp;</div><div>هلا بلماكو منه انسان ثاني</div><div>و الارتاحله حتى من اعاني</div><div>يقولون الاناني يصير مكروه</div><div>خل يكرهوني انا البيك اناني</div><div>&nbsp;</div><div>هلا بالأخذ عيني مو جذبها</div><div>الما اذكر شفت واحد يشبهه</div><div>احب روحي صرت مو لأن مغرور</div><div>أحب روحي لان انت تحبها</div><div>&nbsp;</div><div>غبت مره او وقف كل شي</div><div>قلبي وساعتي و رمشي</div><div>عوجه الدنيا تمشي وياي</div><div>أذا وياك ما تمشي</div><div>&nbsp;</div><div>هلا بليحجي كلمة وينسى كلمه</div><div>قبالي من ارتبك صار احلى دمه</div><div>وصلنا لمرحله نغلط بالحروف</div><div>وبالنظرات يفهمني و فهمه</div><div>&nbsp;</div><div>صح مو سهله بس مو مستحيله</div><div>بشر لو روحي اسلمه هم قليله</div><div>انا مجرب و ميز بين الوجوه</div><div>مبين ذاك أبو العشره الطويله</div><div>حاسد روحي حاسدني</div></div><div><br></div>",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693012561248_Mahmoud%20Al%20Turky.mp3?alt=media&token=2cfdb5fe-7435-46d0-8a6c-f4b9bbf49f71",
       "year": "2022",
-      "id": "song1693012362717",
+      "id": "mahmoud-al-turky",
       "link_ytb": "https://www.youtube.com/watch?v=CHDKn_yGKlU",
       "artist": "Mahmoud Al Turky",
       "publishedAt": "2022-11-10T14:00:04Z",
@@ -605,11 +568,10 @@
       "genre": "pop",
       "lang": "ar",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693012557170_Mahmoud%20Al%20Turky.jpg?alt=media&token=12998eda-fdc1-451a-8678-563775e4cf99",
-      "name": "محمود التركي - حاسد روحي",
-      "id_import": "song1693012362717"
+      "name": "محمود التركي - حاسد روحي"
     },
     {
-      "id": "song1693012648498",
+      "id": "amjad-jomaa",
       "artist": "Amjad Jomaa",
       "lyrics": "<div><div>حاسس في بقلبي لهفة</div><div>عم تدفعني أني روح</div><div>وميلها بإيدي وأعزمها</div><div>عـ الرقصة وبسري بوح</div><div>رح قوي قلبي وما خاف</div><div>منو خسارة الإعتراف</div><div>ملاك منّزل عـ الأرض</div><div>بيستاهل كرماله تبوح</div><div>شو عملت فيي من لما؟</div><div>لفت عخصرها هالشال</div><div>ترقص قدامي وتتغمى</div><div>تتلفت يمين شمال</div><div>وتهز بشعرها الحرير</div><div>ما تمل قلبي الصغير</div><div>اي والله دوخني كتير</div><div>خصرها الميال</div><div>أحلى صبية بشوفها</div><div>بأعشق خجلها وخوفها</div><div>أعطيني ضلوعك أغمرها</div><div>وحط النقط عحروفها</div><div>هزي براسك وافقي</div><div>وتركي عليّ اللي بقي</div><div>سمُّوني بالحب الشقي</div><div>والدنيا عندي ظروفها</div><div>براكين بقلبي خليتي</div><div>يخرب بيتك شو سويتي؟</div><div>من السهرة دغري عـ بيتي</div><div>جهزيلي حالك</div><div>عليكي عيون ما أدري كيف؟</div><div>صوتك حنانه مخيف</div><div>صفي نيتك قصدي شريف</div><div>لا تشغلي بالك</div><div>أحلى صبية بشوفها</div><div>بأعشق خجلها وخوفها</div><div>أعطيني ضلوعك أغمرها</div><div>وحط النقط عحروفها</div><div>هزي براسك وافقي</div><div>وتركي عليّ اللي بقي</div><div>سمُّوني بالحب الشقي</div><div>والدنيا عندي ظروفها</div><div>بأحلم بكفي عمري حدها</div><div>شو بحكي عن حمرة خدها</div><div>و لما بإيدها الغرة تردها</div><div>عيونها بينباسوا</div><div>كل الحلا جاي منين؟</div><div>حفظتلها شاماتا وين</div><div>تقبرني رموش العينين</div><div>طوال بينقاسوا</div><div>أحلى صبية بشوفها</div><div>بأعشق خجلها وخوفها</div><div>أعطيني ضلوعك أغمرها</div><div>وحط النقط عحروفها</div><div>هزي براسك وافقي</div><div>وتركي عليّ اللي بقي</div><div>سمُّوني بالحب الشقي</div><div>والدنيا عندي ظروفها</div><div>يلا، حلا الدني حلا</div><div>تضحكلي ايه والله</div><div>ونعيشها وبصوت الضحكات</div><div>نملى الارض كلها</div><div>أعطيني</div><div>غمزة ودوبيني</div><div>ايدك بأيدي إشبكي وخليها عـ الله</div><div>خليها عـ الله</div><div>أحلى صبية بشوفها</div><div>بأعشق خجلها وخوفها</div><div>أعطيني ضلوعك أغمرها</div><div>وحط النقط عحروفها</div><div>هزي براسك وافقي</div><div>وتركي عليّ اللي بقي</div><div>سمُّوني بالحب الشقي</div><div>والدنيا عندي ظروفها</div></div><div><br></div>",
       "lang": "ar",
@@ -621,8 +583,7 @@
       "year": "2020",
       "genre": "pop",
       "album": "Amjad Jomaa",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693012783715_Amjad%20Jomaa.jpg?alt=media&token=ce682311-513d-47db-b5ad-0857019ecca0",
-      "id_import": "song1693012648498"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693012783715_Amjad%20Jomaa.jpg?alt=media&token=ce682311-513d-47db-b5ad-0857019ecca0"
     },
     {
       "album": "Craft Media | كرافت ميديا",
@@ -634,14 +595,13 @@
       "genre": "pop",
       "date": "2023-08-26",
       "lang": "ar",
-      "id": "song1693012817197",
+      "id": "ahmed-saad",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693012896891_Ahmed%20Saad.jpg?alt=media&token=48a5d5c4-f4e1-4805-8801-cc39d52b3337",
       "publishedAt": "2022-01-25T15:00:12Z",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693012904149_Ahmed%20Saad.mp3?alt=media&token=0e9781fe-253a-4fcd-8e7c-bed54abb1df7",
-      "id_import": "song1693012817197"
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693012904149_Ahmed%20Saad.mp3?alt=media&token=0e9781fe-253a-4fcd-8e7c-bed54abb1df7"
     },
     {
-      "id": "song1693013183281",
+      "id": "mohamed-hamaki",
       "year": "2021",
       "date": "2023-08-26",
       "genre": "pop",
@@ -653,8 +613,7 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693013282837_Mohamed%20Hamaki.mp3?alt=media&token=dc163bbf-b83c-4c6d-b57f-34b367728952",
       "link_ytb": "https://www.youtube.com/watch?v=PS-uywnnzWw",
       "name": "حماقي - زيها مين",
-      "lang": "ar",
-      "id_import": "song1693013183281"
+      "lang": "ar"
     },
     {
       "genre": "pop",
@@ -667,10 +626,9 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013418601_Hatim%20Ammor.jpg?alt=media&token=c03df207-3c98-47eb-b71c-5ddc032c9688",
       "lang": "ar",
       "name": "حاتم عمور - هيّا",
-      "id": "song1693013309845",
+      "id": "hatim-ammor",
       "artist": "Hatim Ammor",
-      "link_ytb": "https://www.youtube.com/watch?v=qHIDIcyVWmQ",
-      "id_import": "song1693013309845"
+      "link_ytb": "https://www.youtube.com/watch?v=qHIDIcyVWmQ"
     },
     {
       "publishedAt": "2023-07-19T15:00:08Z",
@@ -681,12 +639,11 @@
       "date": "2023-08-26",
       "lyrics": "<div><div>ليل ياعين ياعين ياليل</div><div>&nbsp;</div><div>إخترت تفارق بمزاجك</div><div>وفاكرنى هموت موت وأحتاجك</div><div>لا لا ياحبيبى زكائك خانك ركز وإسمعنى</div><div>أنا أجمد منك بمراحل</div><div>عربيتى وهطلع ع الساحل</div><div>وهفاجأك بجنانى أنا ماحدش يتوقعنى</div><div>طب أهوه . . . سبتنـي طب أهوه</div><div>وأنا بحلو أكتر أهوه</div><div>بعدك عنى زادنى جمال وبعينك أضعف وأتوه</div><div>شوف أهوه جرجى كام خربوش</div><div>والجامدين ما بيتهزوش</div><div>م الأخر كدا الرايقين</div><div>يشغلوا بس ماينشغلوش</div><div>ليل ياعين ياعين ياليل</div><div>&nbsp;</div><div>متخيل هتعب في بعادك</div><div>أية رأيك وأنا ملكة قصادك</div><div>ولا ليه وأزاى ولا تشرحلى</div><div>وأهتم بكل دا ليه</div><div>أنا شغلى الشاغل دلوقتى</div><div>إنى أفرح وأتهنى بوقتى</div><div>وأنا عارفة أن أنت هترجعلى</div><div>وأنا ناسية أنت أسمك أيه</div><div>طب أهوه . . . سبتنـي طب أهوه</div><div>وأنا بحلو أكتر أهوه</div><div>بعدك عنى زادنى جمال وبعينك أضعف وأتوه</div><div>شوف أهوه جرجى كام خربوش</div><div>والجامدين ما بيتهزوش</div><div>م الأخر كدا الرايقين</div><div>يشغلوا بس ماينشغلوش</div><div>ليل ياعين ياعين ياليل</div></div><div><br></div>",
       "genre": "pop",
-      "id": "song1693013471350",
+      "id": "latifa",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013550642_Latifa.jpg?alt=media&token=677a22bf-7cb4-4194-bd70-2e432ad4a194",
       "artist": "Latifa",
       "name": "لطيفة - طب اهو",
-      "lang": "ar",
-      "id_import": "song1693013471350"
+      "lang": "ar"
     },
     {
       "link_ytb": "https://www.youtube.com/watch?v=dKBrWmc6xWw",
@@ -696,13 +653,12 @@
       "publishedAt": "2023-06-13T14:00:08Z",
       "lyrics": "<div><div><br></div><div>سامع بحدا&nbsp;</div><div>بحاجة إنو يضم حدا</div><div>كرمال يتنفّس&nbsp;</div><div>أو شايف حدا&nbsp;</div><div>بعينو الدني&nbsp;</div><div>من بعد إلي بيحبو&nbsp;</div><div>بتخلص&nbsp;</div><div>البيحب بأنانية</div><div>وعندو الغيرة مئذية&nbsp;</div><div>كل هيدي الإشيا فيي&nbsp;</div><div>وهيدا الملخّص&nbsp;</div><div><br></div><div>أنا لما قررت حبك&nbsp;</div><div>يعني كلك</div><div>صرت ملكي حبيبي وبس&nbsp;</div><div>أنا حبّي مش متل غيري&nbsp;</div><div>أنا الغيرة بتقتلني&nbsp;</div><div>لو بيمسّك شخص&nbsp;</div><div><br></div><div>أنا لما قررت حبك&nbsp;</div><div>يعني كلك</div><div>صرت ملكي حبيبي وبس&nbsp;</div><div>أنا حبّي مش متل غيري&nbsp;</div><div>أنا الغيرة بتقتلني&nbsp;</div><div>لو بيمسّك شخص&nbsp;</div><div><br></div><div>احساسي القوي&nbsp;</div><div>ما عندو بالدني نقطة ضعف بعدك&nbsp;</div><div>بتكويني كوي&nbsp;</div><div>فكرة انك تتركني</div><div>أو عيش ببعدك</div><div>نسّيني ولا تذكّرني&nbsp;</div><div>هالفكرة لبتدمرني</div><div>بكل قوة قلب إغمرني&nbsp;</div><div>وخليني حدك&nbsp;</div><div><br></div><div><br></div><div>أنا لما قررت حبك&nbsp;</div><div>يعني كلك</div><div>صرت ملكي حبيبي وبس&nbsp;</div><div>أنا حبّي مش متل غيري&nbsp;</div><div>أنا الغيرة بتقتلني&nbsp;</div><div>لو بيمسّك شخص</div><div><br></div><div>أنا لما قررت حبك&nbsp;</div><div>يعني كلك</div><div>صرت ملكي حبيبي وبس&nbsp;</div></div>",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693013716437_Bel%20Ahlam.mp3?alt=media&token=587a11ce-2c20-445d-ab6b-f90938609bbe",
-      "id": "song1693013607735",
+      "id": "nassif-zeytoun",
       "genre": "pop",
       "album": "Bel Ahlam",
       "year": "2023",
       "lang": "ar",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013703808_Bel%20Ahlam.jpg?alt=media&token=fa83f4e7-7990-4908-8ce8-42a8e0dfd289",
-      "id_import": "song1693013607735"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013703808_Bel%20Ahlam.jpg?alt=media&token=fa83f4e7-7990-4908-8ce8-42a8e0dfd289"
     },
     {
       "year": "2023",
@@ -717,15 +673,14 @@
       "genre": "pop",
       "album": "HGuitaraStudio - حيدر كيتارا",
       "date": "2023-08-26",
-      "id": "song1693013747849",
-      "id_import": "song1693013747849"
+      "id": "ali-arnoos"
     },
     {
       "artist": "Cravata",
       "lang": "ar",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693013932553_Cravata.mp3?alt=media&token=7352c296-8543-4187-bd6e-778512fd2f57",
       "name": "كرافاطا - حبيبي",
-      "id": "song1693013853980",
+      "id": "cravata",
       "date": "2023-08-26",
       "year": "2023",
       "publishedAt": "2023-06-16T17:55:36Z",
@@ -733,8 +688,7 @@
       "lyrics": "<div><div>سيد القاضي (أياي-ياي، أياي-ياي)</div><div>مشكلي مو عادي (أياي-ياي، أياي-ياي)</div><div>قلبي طاح في هادي (أياي-ياي، أياي-ياي)</div><div>زينها را ناضي (أياي-ياي، أياي-ياي)</div><div>يالله موتو يا les jaloux (إيه)</div><div>هو ديالي و انا ديالو (إيه)</div><div>ساكن في بالو (أه-أه)</div><div>و ما نهنا، حتى نولي حلالو (إيه)</div><div>و داري تولي دارو (إيه)</div><div>لي بغاها نجيبها لو (أه)</div><div>وايلي وايلي، شعرو طويل حبيبي (حبيبي)</div><div>ويلي حبيبي</div><div>كي ضحك كيذوب قليبي ويذوب قليبي</div><div>عيونوا كبار حبيبي ويلي حبيبي</div><div>كي شوفتو ذاب قليبي وذاب قليبي</div><div>قولي حبيبي غادي فين؟ (قولي؟)</div><div>فين غادي بهاد الزين؟ (قولي؟)</div><div>ناري جمالو مو عادي يسحر العينين</div><div>حبيبي دايرني فعينو، تاحد ما جايب لنا لخبار</div><div>خليها بيني و بينو، حتى ندق فباب الدار</div><div>يالله موتو يا les jaloux (إيه)</div><div>هو ديالي و انا ديالو (إيه)</div><div>ساكن في بالو (أه-أه)</div><div>و ما نهنا، حتى نولي حلالو (إيه)</div><div>و داري تولي دارو (إيه)</div><div>لي بغاها نجيبها لو (أه)</div><div>وايلي وايلي، شعرو طويل حبيبي (حبيبي)</div><div>ويلي حبيبي</div><div>كي يضحك كيذوب قليبي ويذوب قليبي</div><div>عيونوا كبار حبيبي ويلي حبيبي</div><div>كي شوفتو ذاب قليبي وذاب قليبي</div><div>حبيبي نيڤو عالي (واواوا)</div><div>و ادا لي العقل دا لي (واواوا)</div><div>امم كيعيط كيلقاني (آ-ياي-ياي، آ-ياي-ياي)</div><div>حبو راه رشاني</div><div>وايلي وايلي، شعرو طويل حبيبي (حبيبي)</div><div>ويلي حبيبي</div><div>كي يضحك كيذوب قليبي، ويذوب قليبي</div><div>عيونو كبار حبيبي، ويلي حبيبي</div><div>كي شوفتو ذاب قليبي، وذاب قليبي</div></div><div><br></div>",
       "genre": "pop",
       "album": "Cravata - كرافاطا",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013926676_Cravata.jpg?alt=media&token=95eb5531-3eb7-47dd-a633-a24a26f0c3ca",
-      "id_import": "song1693013853980"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693013926676_Cravata.jpg?alt=media&token=95eb5531-3eb7-47dd-a633-a24a26f0c3ca"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693014050073_Oumaima%20Taleb.jpg?alt=media&token=e6e61b29-9888-431b-8dce-2f7c7c30b47a",
@@ -748,9 +702,8 @@
       "lang": "ar",
       "publishedAt": "2023-05-25T20:30:45Z",
       "genre": "pop",
-      "id": "song1693013959391",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693014074653_Oumaima%20Taleb.mp3?alt=media&token=3a354987-b279-440e-8aef-674595dd1475",
-      "id_import": "song1693013959391"
+      "id": "oumaima-taleb",
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693014074653_Oumaima%20Taleb.mp3?alt=media&token=3a354987-b279-440e-8aef-674595dd1475"
     },
     {
       "year": "2023",
@@ -762,11 +715,10 @@
       "lyrics": "<div><div>مش فارق مين عليا</div><div>ولا فارق مين معايا</div><div>ولا فارق مين سابقني</div><div>ولا فارق مين اللي ورايا</div><div>كان صاحب ولّا عشرة</div><div>كان أصلي ولّا قِشرة</div><div>كات أوضة ولا فيلّا</div><div>كان شايب ولّا بصرة</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div><div>ولا بتعب في الغياب</div><div>ولا بفرح بالمدد</div><div>ولا بادخل في اكتئاب</div><div>ولا بقلق م الحسد</div><div>مش هفتح باب يدايق</div><div>ولإن مزاجي رايق</div><div>لا هشارك في المسابقة</div><div>ولا عايز حتى اسابق</div><div>باضحك على قد سنّي</div><div>وسنّي يسمحلي أغني</div><div>والخدمة الحلوة منكم</div><div>لما تفكوكوا منّي</div><div>كله عارف تمامه</div><div>لا هنزّل أو هعلّي</div><div>كله ياخد مقامه</div><div>مايخدش زيادة نص ملّي</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div><div>وماليش ف أي شلة</div><div>ولا فاضي لناس مملة</div><div>ولا حد كاسر عيني</div><div>ولا ماسك لحد ذلة</div><div>جوي حلو ولايق</div><div>قلت لكو مزاجي رايق</div><div>فانا بقى خارج المنافسة</div><div>على مهل مهلي سايق</div><div>أصلي فهمت المعادلة</div><div>إن مافيش للدنيا عدلة</div><div>فعيشت الأيام بذوقي</div><div>ما لبستش تاني بدلة</div><div>قصتي ماشية بمزاجي</div><div>وعرفت خلاص علاجي</div><div>انتهى القلق</div><div>كل شيء فرق</div><div>حتى الجو جوه دماغي</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div><div>رايق رايق رايق</div><div>رايق وتقيل وراسي</div><div>وعايشلي دور مقاسي</div><div>رايق رايق رايق</div><div>وراصص الكراسي</div><div>لحبايبي بس وناسي</div></div><div><br></div>",
       "date": "2023-08-26",
       "link_ytb": "https://www.youtube.com/watch?v=mTAEUPKPOBg",
-      "id": "song1693014593019",
+      "id": "hamza-namira",
       "name": "حمزة نمرة - رايق",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693014674555_Hamza%20Namira.mp3?alt=media&token=3314b3dc-58f6-4626-a61d-7580d4af7b3f",
-      "genre": "pop",
-      "id_import": "song1693014593019"
+      "genre": "pop"
     },
     {
       "lyrics": "<div><div>أعطيتك قلبي أعطيتك روحي والعيون</div><div>حبيتك حب بيتسمى حب جنون</div><div>ما قصرت عمري بحبك ما قصرت</div><div>ليش تخون قلبي الطيب ليش تخون</div><div>أعطيتك قلبي أعطيتك روحي والعيون</div><div>حبيتك حب بيتسمى حب جنون</div><div>ما قصرت عمري بحبك ما قصرت</div><div>ليش تخون قلبي الطيب ليش تخون</div><div>ليش ما قلت من الأول ما في مجال</div><div>كنت مشيت كنت نسيت ومشي الحال</div><div>علقتني بحبل حبك وقطعته</div><div>تركت قلبي تركت روحي بأسواء حال</div><div>أعطيتك قلبي أعطيتك روحي والعيون</div><div>حبيتك حب بيتسمى حب جنون</div><div>ما قصرت عمري بحبك ما قصرت</div><div>(ليش تخون قلبي الطيب (ليش تخون</div><div>عطيتك حب لو يتوزع ع ها الناس</div><div>يملى الكون بالحنية والإحساس</div><div>يموت الغدر وبتنتحر الخيانة</div><div>وما بيظل غير الوفا والإخلاص</div><div>يا قاسي القلب يا اللي بكيت عيوني دم</div><div>من يوم عرفتك لا ما عرفت غير الهم</div><div>لو تعطش كنت من دموعي إسقيك</div><div>عطشتني وشربتني كاس السم</div><div>أعطيتك قلبي أعطيتك روحي والعيون</div><div>حبيتك حب بيتسمى حب جنون</div><div>ما قصرت عمري بحبك ما قصرت</div><div>ليش تخون قلبي الطيب ليش تخون</div></div><div><br></div>",
@@ -779,10 +731,9 @@
       "link_ytb": "https://www.youtube.com/watch?v=t2K8MKuL1no",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693014820441_Nassif%20Zeytoun.jpg?alt=media&token=42bb78fc-6a4a-4171-8088-2ae732d1ba67",
       "name": "ناصيف زيتون - حب جنون",
-      "id": "song1693014719999",
+      "id": "nassif-zeytoun",
       "lang": "ar",
-      "publishedAt": "2023-06-19T15:00:09Z",
-      "id_import": "song1693014719999"
+      "publishedAt": "2023-06-19T15:00:09Z"
     },
     {
       "album": "Ragheb Alama",
@@ -792,13 +743,12 @@
       "lyrics": "<div><div>في كتير حلوين واشمعنا أنت كل أما تخش مكان؟</div><div>خطاف للعين وإن كان مقلوب فجأة بتقلبه رواقان</div><div>فيك إيه من السحر اللي مخلي لحضورك طعم غريب</div><div>فهمنا يا جامد، يا معدي، يا جميل، يا لذيذ، يا رهيب (يا رهيب)</div><div>في كتير حلوين واشمعنا أنت كل أما تخش مكان؟</div><div>خطاف للعين وإن كان مقلوب فجأة بتقلبه روقان</div><div>فيك إيه من السحر اللي مخلي لحضورك طعم غريب</div><div>فهمنا يا جامد، يا معدي، يا جميل، يا لذيذ، يا رهيب</div><div>لأ، لأ، لأ في حضور، في كارزيما وشاغلنا وعامل أزمة</div><div>وبتاكل الجو بنظرة، هنكابر ليه؟ ملهوش لازمة</div><div>لأ، لأ، لأ في حضور، في هيبة، مقبول بطريقة عجيبة</div><div>مش بس عشان متدلع، ده عشان ليك طلة رهيبة</div><div>في كتير حلوين جدًا لكن روحنا لروحهم مش قابلة</div><div>بس أنت بقى في حتة لوحدك، بصراحة عينيك مش سهلة</div><div>ولا شفت إتنين مرة اختلفوا على إن حضورك نعمة</div><div>بيقولوا عليك قمر إنما لأ أنا شايفك أحلى وأحلى</div><div>في كتير حلوين جدًا لكن روحنا لروحهم مش قابلة</div><div>بس أنت بقى في حتة لوحدك، بصراحة عينيك مش سهلة</div><div>ولا شفت إتنين مرة اختلفوا على إن حضورك نعمة</div><div>بيقولوا عليك قمر إنما لأ أنا شايفك أحلى وأحلى</div><div>لأ، لأ، لأ في حضور، في كارزيما وشاغلنا وعامل أزمة</div><div>وبتاكل الجو بنظرة، هنكابر ليه؟ ملهوش لازمة</div><div>لأ، لأ، لأ في حضور، في هيبة، مقبول بطريقة عجيبة</div><div>مش بس عشان متدلع، ده عشان ليك طلة رهيبة</div><div>لأ، لأ، لأ في حضور، في كارزيما وشاغلنا وعامل أزمة</div><div>آه، وبتاكل الجو بنظرة، هنكابر ليه؟ ملهوش لازمة</div><div>لأ، لأ، لأ في حضور، في هيبة، مقبول بطريقة عجيبة</div><div>مش بس عشان متدلع، ده عشان ليك طلة رهيبة</div><div>لأ، لأ، لأ في حضور، في هيبة</div><div>(يا جميل، يا لذيذ، يا رهيب)</div></div><div><br></div>",
       "name": "راغب علامة - في كتير حلوين",
       "artist": "Ragheb Alama",
-      "id": "song1693014852059",
+      "id": "ragheb-alama",
       "genre": "pop",
       "year": "2023",
       "date": "2023-08-26",
       "lang": "ar",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693014920394_Ragheb%20Alama.mp3?alt=media&token=82bc4649-4820-48d8-87eb-f410ac4552fd",
-      "id_import": "song1693014852059"
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693014920394_Ragheb%20Alama.mp3?alt=media&token=82bc4649-4820-48d8-87eb-f410ac4552fd"
     },
     {
       "lang": "ar",
@@ -811,10 +761,9 @@
       "year": "2020",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693015008037_humood%20alkhudher.mp3?alt=media&token=1ec2b16f-1d46-4f08-aa20-0908439fc466",
       "genre": "pop",
-      "id": "song1693014944061",
+      "id": "humood-alkhudher",
       "album": "Humood AlKhudher حمود الخضر",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693015003741_humood%20alkhudher.jpg?alt=media&token=907a2e81-4a2e-42fd-83dc-0c6a39b0589a",
-      "id_import": "song1693014944061"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693015003741_humood%20alkhudher.jpg?alt=media&token=907a2e81-4a2e-42fd-83dc-0c6a39b0589a"
     },
     {
       "album": "Oumaima Taleb",
@@ -822,22 +771,21 @@
       "genre": "pop",
       "date": "2023-08-26",
       "lyrics": "<div><div>كل ليلة تغيب عني (عني)</div><div>كنها والله سنين</div><div>غبت وغاب الفرح مني (مني)</div><div>وزاد في قلبي الحنين</div><div>كل ليلة تغيب عني</div><div>كنها والله سنين</div><div>غبت وغاب الفرح مني</div><div>وزاد في قلبي الحنين</div><div>شفتك البارح ولا أدري (ولا أدري)</div><div>كن قلبك ما هو يمي</div><div>وكن قلبك حب غيري</div><div>زاد شوقي وزاد همي</div><div>شفتك البارح ولا أدري</div><div>كن قلبك ما هو يمي</div><div>وكن قلبك حب غيري</div><div>زاد شوقي وزاد همي</div><div>كنت أبي أحكي معاك</div><div>وخفت تخذلني دموعي</div><div>أنا عاشق في هواك</div><div>بس ما أرضى خضوعي</div><div>كنت أبي أحكي معاك</div><div>وخفت تخذلني دموعي</div><div>أنا عاشق في هواك</div><div>بس ما أرضى خضوعي</div><div>خايف قليبك نساني (نساني)</div><div>وانتهت قصة هواي</div><div>وقلبك إنت حب ثاني</div><div>وابتدت رحلة عناي</div><div>خايف قليبك نساني</div><div>وانتهت قصة هواي</div><div>وقلبك إنت حب ثاني</div><div>وابتدت رحلة عناي</div><div>كل ليلة تغيب عني (كل ليلة)</div><div>كنها والله سنين</div><div>غبت وغاب الفرح مني</div><div>وزاد في قلبي الحنين</div></div><div><br></div>",
-      "id": "song1693015028689",
+      "id": "oumaima-taleb",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693015092770_Oumaima%20Talebs.jpg?alt=media&token=5a0036a5-f45a-4ff2-bdd1-5ed9af977f12",
       "lang": "ar",
       "artist": "Oumaima Taleb",
       "name": "أميمة طالب - كل ليلة",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693015109535_Oumaima%20Talebs.mp3?alt=media&token=a31f119d-729b-4410-9c38-d62e1e687dde",
       "year": "2020",
-      "publishedAt": "2020-10-02T13:00:09Z",
-      "id_import": "song1693015028689"
+      "publishedAt": "2020-10-02T13:00:09Z"
     },
     {
       "name": "سيف نبيل - انت",
       "publishedAt": "2023-05-25T14:00:26Z",
       "year": "2023",
       "genre": "pop",
-      "id": "song1693015140204",
+      "id": "saif-nabeel",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693015223862_Saif%20Nabeel.mp3?alt=media&token=28be5d3a-bd7a-46b6-906a-5c3dd7727de6",
       "date": "2023-08-26",
       "artist": "Saif Nabeel",
@@ -845,8 +793,7 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693015215904_Saif%20Nabeel.jpg?alt=media&token=7ddbc830-e4c8-4a0f-aef8-b2fc3d854d03",
       "lyrics": "<div><div>هاي اول مرة</div><div>من نظرة</div><div>واحد يحتلني</div><div>فارض قانونك</div><div>وعيونك</div><div>هية التحكمني</div><div>طبيت لگلبي بسرعة</div><div>ولو تدري شصاير بية</div><div>طاير بيك من الفرحة</div><div>وما واگف على رجلية</div><div>انت انت</div><div>انت الما امل منه</div><div>المگدر ابعد عنه</div><div>مطلعني من الكوكب هذا</div><div>وماخذني للجنة</div><div>انت انت</div><div>حب ما شايف مثلة</div><div>عنه ولا اتخلة</div><div>وكل يوم وياك يمر عندي</div><div>هواية احلة من القبلة</div><div>مو اي واحد يعجبني</div><div>وهيجي بحبة ايذوبني</div><div>انت ال من دون العالم</div><div>ارتاح شما تتعبني</div><div>اني شلون اخفي</div><div>احساسي</div><div>عنك ما اضمن</div><div>والشوگ البية</div><div>فاضحني</div><div>بعيوني مبين</div><div>منك لو گلبي امنعة</div><div>يروح ويتركني بسرعة</div><div>وياخذ من حضنك جرعة</div><div>حتى وياك يظل مدمن</div><div>انت انت</div><div>انت الما امل منه</div><div>المگدر ابعد عنه</div><div>مطلعني من الكوكب هذا</div><div>وماخذني للجنة</div><div>انت انت</div><div>حب ما شايف مثلة</div><div>عنه ولا اتخلة</div><div>وكل يوم وياك يمر عندي</div><div>هواية احلة من القبلة</div><div>وما يحتاج اثبات اكبر</div><div>شگد اني احبك اكثر</div><div>هذا انت التمشي بدمي</div><div>وعلى كل شي ال بية مسيطر</div><div>انت انت</div><div>انت الما امل منه</div><div>المگدر ابعد عنه</div><div>مطلعني من الكوكب هذا</div><div>وماخذني للجنة</div></div><div><br></div>",
       "album": "Enta",
-      "lang": "ar",
-      "id_import": "song1693015140204"
+      "lang": "ar"
     },
     {
       "album": "Rotana",
@@ -856,13 +803,12 @@
       "publishedAt": "2023-03-01T15:00:07Z",
       "genre": "pop",
       "date": "2023-08-26",
-      "id": "song1693015246321",
+      "id": "assala",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693015324899_Assala.mp3?alt=media&token=5249a279-d6d7-4e84-aee6-6f63bab0486d",
       "year": "2023",
       "lyrics": "<div><div>[اللازمة]</div><div>ما عرفتك يا غرامي</div><div>ما هو إنت اللي عشقته</div><div>حتى وجهك والملامح</div><div>ماهي ذيك الأولية</div><div>نظرتك، قسوة عيونك</div><div>تحكي شيٍ ما نطقته</div><div>كأن روحك عافت أيام</div><div>السنين العاطفية</div><div><br></div><div>[المقطع الأول]</div><div>كل جرحٍ بي زفرته</div><div>كلّ حبٍ لك شهقته</div><div>كل دربٍ لك مشيته</div><div>بالوله روحة وجية</div><div>ما بقى بحرٍ من بحوري لوصلك ما غرقته</div><div>ما أدري وش أكثر أسوي</div><div>ما بقى بي مقدرية</div><div><br></div><div>[قبل اللازمة]</div><div>آه يا حلمٍ حطبته</div><div>في حناياي وحرقته</div><div>آه يا حبٍ كتبته</div><div>لين غنت، لين غنت</div><div>لين غنت الأبجدية</div><div>آه يا حلمٍ حطبته (آه)</div><div>في حناياي وحرقته (آه)</div><div>آه يا حبٍ كتبته</div><div>لين غنت، لين غنت</div><div>لين غنت الأبجدية</div><div>You might also like</div><div>​on the street</div><div>​j-hope &amp; J. Cole</div><div>The Grants</div><div>Lana Del Rey</div><div>Boy’s a liar Pt. 2</div><div>PinkPantheress &amp; Ice Spice</div><div>[اللازمة]</div><div>ما عرفتك يا غرامي</div><div>ما هو إنت اللي عشقته (ماهو إنت)</div><div>حتى وجهك والملامح ما هي</div><div>ما هي ذيك الأولية (ما هي)</div><div>نظرتك، قسوة عيونك (عيونك)</div><div>تحكي شيٍ ما نطقتة (شيٍ شيٍ)</div><div>كن روحك عافت أيام (السنين)</div><div>السنين العاطفية</div><div><br></div><div>[المقطع الثاني]</div><div>كان قلبك ما يبيني قول يا أغلى من صدقته</div><div>كان عينك ما تبيني، قول لا تكذب عليّا</div><div>يوم قلبي جا لقلبك جيت ويّاه وسبقته</div><div>يوم قلبك صد قلبي قلت راح أغلى البرية</div><div>ما بقى بي إلاّ إنت وكلّ شي مني سرقته</div><div>خدت حتى كبريائي في الهوى والنرجسية</div><div>ما هُو إنت اللي تعلق في حناياي وعشقته</div><div>ما عرفتك ولاّ يمكن ما هو أنا الأولية</div><div><br></div><div>[قبل اللازمة]</div><div>آه يا حلمٍ حطبته</div><div>في حناياي وحرقته</div><div>آه يا حبٍ كتبته</div><div>لين غنت، لين غنت</div><div>لين غنت الأبجدية</div><div>آه يا حلمٍ حطبته (حطبته)</div><div>في حناياي وحرقته</div><div>آه يا حبٍ كتبته</div><div>لين غنت، لين غنت</div><div>لين غنت الأبجدية</div><div>[اللازمة]</div><div>ما عرفتك يا غرامي</div><div>ما هو إنت اللي عشقته (ما هو إنت)</div><div>حتى وجهك والملامح ما هي</div><div>ما هي ذيك الأولية</div><div>نظرتك، قسوة عيونك (قسوة عيونك)</div><div>تحكي شيٍ ما نطقته</div><div>كأن روحك عافت أيام</div><div>السنين العاطفية</div></div>",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693015319860_Assala.jpg?alt=media&token=2fa3e940-d890-4179-b5ce-4f986d84830f",
-      "link_ytb": "https://www.youtube.com/watch?v=9VSkCL9V98c",
-      "id_import": "song1693015246321"
+      "link_ytb": "https://www.youtube.com/watch?v=9VSkCL9V98c"
     },
     {
       "publishedAt": "2021-10-21T15:00:12Z",
@@ -873,12 +819,11 @@
       "genre": "pop",
       "link_ytb": "https://www.youtube.com/watch?v=eeQWKNhFfPQ",
       "album": "Ya Fatenny",
-      "id": "song1693015350268",
+      "id": "mohamed-hamaki",
       "lang": "ar",
       "date": "2023-08-26",
       "lyrics": "<div><div>لا ملامة عاللي حبه لا ملامة</div><div>ده اللي ساب في القلب يجي مية علامة</div><div>مش طبيعي لو ظهر بتقوم قيامة</div><div>من أول مقابلة سحر عينه ناداني</div><div>بالطريقة شد قلبي بالطريقة</div><div>مت فيه سلمت من أول دقيقة</div><div>وأعمل إيه كان لازم أضعف في الحقيقة</div><div>دي عيون ثبتوني نص ساعة فمكاني</div><div>عودت عيني عالضحكة دي</div><div>وأنا زاد حنيني المرة دي</div><div>يوهم يا عيني لا مش عادي</div><div>بحلم يكون جنبي ومعايا</div><div>حبيبي، حبيبي، حبيبي</div><div>آه، حبيبي، حبيبي، حبيبي</div><div>على كيفه يعمل اللي على كيفه</div><div>في الجمال ده مطلع القمر وصيفه</div><div>يا حرام جاله وكسر مقاديفه</div><div>ما اللي بيجي في سكته ده راح بالسلامة</div><div>عن جماله كلموني عن جماله</div><div>ده اللي شاف الجنة غير اللي إتحكاله</div><div>ده إكتشاف لفيت عليه الكون بحاله</div><div>نفسي بس أقرب ولا أطول إبتسامة</div><div>عودت عيني على الضحكة دي</div><div>وأنا زاد حنيني المرة دي</div><div>يوهم يا عيني لا مش عادي</div><div>بحلم يكون جنبي ومعايا</div><div>حبيبي، حبيبي، حبيبي</div><div>آه، حبيبي، حبيبي، حبيبي</div></div><div><br></div>",
-      "artist": "Mohamed Hamaki",
-      "id_import": "song1693015350268"
+      "artist": "Mohamed Hamaki"
     },
     {
       "name": "غريب ال مخلص - البعد موتي (حصرياً)",
@@ -888,13 +833,12 @@
       "genre": "pop",
       "date": "2023-08-26",
       "lyrics": "<div><div>انــتهـت فــرحـة سـنـيــني</div><div>يـوم فـارقــنـي ضـنـيـنـي</div><div>واضــرم الـنــار&nbsp; بْـكـنـيــني</div><div>واللـهـايـب فــي خــفوقي</div><div><br></div><div>خــيّـب الـقـاسي ظـنـوني</div><div>زاد بــالـقـسـوه غـبـونـي</div><div>واغـرق بْـدمـعـي عيوني</div><div>وانـجـرح بـالـدمع مـوقي</div><div><br></div><div>من دموع العيـن طاحت</div><div>ولْـجـفـاه ابـروق لاحــت</div><div>ســلـوة الأيــــام راحــت</div><div>جـفّ دمّـي فـي عروقي</div><div><br></div><div>داهــم الاشـجـان بوحي</div><div>زادت بْجوفي جـروحـي</div><div>ثم غدت بالبوح روحـي</div><div>نـاويه للـضـيم سـوقـي</div><div><br></div><div>اتبع الآهــااااات صـوتـي</div><div>فالمحبّه فـــات فــوتــي</div><div>والله انّ الــبـعـد مــوتـي</div><div>بــه بــدا حـزني و عـوقي</div><div><br></div><div>ويش ابي فـيـها حياتـي</div><div>انـتـظـر ســاعـة مـمـاتي</div><div>ليـتـني لـحـظـة وفـاتـي</div><div>ألـمـحـه بـالـعيـن فـوقي</div><div><br></div><div>مخلصٍ لـه فـي وعـودي</div><div>خـانني جــاحـد عـهـودي</div><div>وانـكـسـر قـلـبي و عودي</div><div>لــيـــه يـسلبني حـقـوقي</div><div><br></div><div>فـاقـده نـفسـي هـواهـا</div><div>هـمّـها الموجـع طـواهـا</div><div>مـا لـقـت غـيـره دواهــا</div><div>آه من حــبّـي و شــوقي</div><div><br></div><div>يـوم قـلت انّــــه حـبـيبي</div><div>واعـتـبـرتـه&nbsp; مـن نـصـيبي</div><div>غــاب رغـم انّـه طـبـيـبي</div><div>راااح&nbsp; ويــن اعـلاج تـوقي</div><div><br></div><div>لــيــت قلبي قد عـصـاني</div><div>يـــوم حــاكـاني و جـانـي</div><div>الـحـسايف فــي حـنـاني</div><div>والـوفــا فـينـي و ذوقـي</div></div>",
-      "id": "song1693015455684",
+      "id": "",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693015585675_150m.mp3?alt=media&token=221373db-c01f-49c7-acfa-3ce2068d9533",
       "lang": "ar",
       "publishedAt": "2020-11-08T14:45:39Z",
       "year": "2020",
-      "link_ytb": "https://www.youtube.com/watch?v=BRXbYRZrzY4",
-      "id_import": "song1693015455684"
+      "link_ytb": "https://www.youtube.com/watch?v=BRXbYRZrzY4"
     },
     {
       "link_ytb": "https://www.youtube.com/watch?v=PpgS4WeHrZk",
@@ -904,13 +848,12 @@
       "genre": "pop",
       "album": "MOUH MILANO",
       "publishedAt": "2021-08-29T16:00:08Z",
-      "id": "song1693015633722",
+      "id": "mouh-milano",
       "lyrics": "<div><div>تهمونا بلا ما يعرفونا</div><div>خلاص الروج و صونا</div><div>والموجة هولّت البحر</div><div>بان اللي منا ينضر</div><div><br></div><div>آه عييتونا صايي إلى هنا</div><div>تنتهي رحلتنا</div><div>قبل ما فيَّا تطَّفر</div><div>نبكي ما يفيد ما نهضر نهضر</div><div><br></div><div>والعديان يدّو شوايعي</div><div>الدخلة في الحيط ماشي ساهلة</div><div>خايف يفسدوا طبايعي</div><div>البيضة تولي كحلة</div><div><br></div><div>دغري دغري هاوليك الباب جري</div><div>قلبي دغية حاوزلي هاد اللجية</div><div>كيما بكري راني شافي على صغري</div><div>هاكدا وما نبدلوش العقلية</div><div><br></div><div>دغري دغري هاوليك الباب جري</div><div>قلبي دغية حاوزلي هاد اللجية</div><div>كيما بكري أنا شافي على صغري</div><div>هاكدا وما نبدلوش العقلية</div><div><br></div><div>حسبتيني بونكا قتلتيني بالحسابات</div><div>حتى العلاقة كولات</div><div>جيتي في ثوب الضحية</div><div>ديبريي واللبسي شخصية</div><div><br></div><div>نفكرك En cas أنا مدوز حروبات</div><div>شايف منك ألوفات</div><div>ما تكويني حتى كيَّة</div><div>دعاوي الخير مع والديَّا</div><div><br></div><div>يا Même نطيح Blessée</div><div>نشوف الموت ونعاود نحيا</div><div>تبقاي انتيا اللي تونكيسي في العذاب</div><div>وتخلصيها غالية</div><div><br></div><div>دغري دغري هاوليك الباب جري</div><div>قلبي دغية حاوزلي هاد اللجية</div><div>كيما بكري راني شافي على صغري</div><div>هاكدا وما نبدلوش العقلية</div><div><br></div><div>دغري دغري هاوليك الباب جري</div><div>قلبي دغية حاوزلي هاد اللجية</div><div>كيما بكري أنا شافي على صغري</div><div>هاكدا وما نبدلوش العقلية</div><div><br></div><div>آه آه دغري دغري دغري</div><div>آه هاوليك الباب جري</div><div>آه ما زالني كيما بكري</div><div>آه ما نبيع ما نشري&nbsp;</div></div>",
       "artist": "Mouh Milano",
       "name": "موح ميلانو - دغري",
       "lang": "ar",
-      "date": "2023-08-26",
-      "id_import": "song1693015633722"
+      "date": "2023-08-26"
     },
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693017666032_Oumaima%20Talebss.mp3?alt=media&token=112a9375-2076-432e-94a1-3e77ba21cff0",
@@ -925,8 +868,7 @@
       "year": "2022",
       "album": "Turki - Tarek Mohammed",
       "lang": "ar",
-      "id": "song1693017463169",
-      "id_import": "song1693017463169"
+      "id": "oumaima-taleb"
     },
     {
       "lyrics": "<div><div>خبي نفسك في وسط قلبي وخلك</div><div>انتبه لك لا احد غيري يدلك</div><div>خبي نفسك في وسط قلبي وخلك</div><div>ادري انهم شايفينك من عيوني</div><div>بس بعضك ما بعد شافوك كلك</div><div>انتبه لك لا احد غيري يدلك</div><div>خبي نفسك في وسط قلبي وخلك</div><div>ادري انهم شايفينك من عيوني</div><div>بس بعضك ما بعد شافوك كلك</div><div>ياخي زينك كل ماله يزيد زينك</div><div>طول عنقك نحل خصرك لون عينك</div><div>يخزلك اذكر الله كل ماله بان حسنك</div><div>وادعي انه يطول في باقي سنينك يخزلك</div><div>انتبه لك لا احد غيري يدلك</div><div>خبي نفسك في وسط قلبي وخلك</div><div>أنت وحدك بينهم تفرق لوحدك</div><div>طل فيهم قوللي من فيه قدك</div><div>خل حاجه بعدك اليا غبت عنهم</div><div>تروح ترجع كلهم للحين بعدك</div><div>أنت وحدك بينهم تفرق لوحدك</div><div>طل فيهم قوللي من فيه قدك</div><div>خل حاجه بعدك اليا غبت عنهم</div><div>تروح ترجع كلهم للحين بعدك</div><div>حلو لأنك واحلى منهم حلو لأنك</div><div>ماهو منك ندري والله ماهو منك</div><div>حلو لأنك كل عينن تلمحك جايب خبرها</div><div>غصب عنها مو بديها وغصب عنك</div><div>حلو لأنك انتبه لك لا احد غيري يدلك</div><div>خبي نفسك في وسط قلبي وخلك</div><div>ياخي زينك كل ماله يزيد زينك كل ماله</div><div>كل ما فيني يسوي عاشقينك عاشقينك</div></div><div><br></div>",
@@ -939,10 +881,9 @@
       "genre": "pop",
       "year": "2023",
       "lang": "ar",
-      "id": "song1693017696499",
+      "id": "sultan-al-murshed",
       "name": "سلطان المرشد - إنتبهلك",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693017758582_Sultan%20Al%20Murshed.jpg?alt=media&token=0bfa6f25-446e-4c11-8a71-97a2e02cd1d2",
-      "id_import": "song1693017696499"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693017758582_Sultan%20Al%20Murshed.jpg?alt=media&token=0bfa6f25-446e-4c11-8a71-97a2e02cd1d2"
     },
     {
       "publishedAt": "2022-12-21T17:00:10Z",
@@ -950,15 +891,14 @@
       "link_ytb": "https://www.youtube.com/watch?v=6HsXGHLEEwU",
       "artist": "Ramy Gamal",
       "lyrics": "<div><div>حبيبي ياللي قمر ومنور دنيتي بيك</div><div>تعالى بس أحكيلك قرب خايف ليه</div><div>حبيبي ياللي قمر ومنور دنيتي بيك</div><div>تعالى بس أحكيلك قرب خايف ليه</div><div>دا كلام، بيننا وسر ف بير</div><div>حكايات، بين لحظة والتانية</div><div>أنا لو أوصف حاسس أيه</div><div>هحتاج ستين سنة قدام</div><div>مفيش حاجة حبيبي معاك، بتشغلني</div><div>نسيت روحي نسيت الناس</div><div>طول ما أنا جنبك كله تمام</div><div>أقول كلمة شوق بعنيك، بتقتلني</div><div>سنين قبلك ضاعت راحت</div><div>بس خلاص (بس خلاص)</div><div>لقيت بحر من الحنية ومن الإحساس</div><div>سنين قبلك ضاعت راحت</div><div>بس خلاص (بس خلاص)</div><div>لقيت بحر من الحنية ومن الإحساس</div><div>في عنيك بهدا أنا وبرتاح</div><div>ومعاك عشت أنا الدنيا</div><div>أنا لو أوصف حاسس أيه</div><div>هاحتاج ستين سنة قداك</div><div>مفيش حاجة حبيبي معاك، بتشغلني</div><div>نسيت روحي نسيت الناس</div><div>طول ما أنا جنبك كله تمام</div><div>أقول كلمة شوق بعنيك، بتقتلني</div><div>أنا لو أوصف حاسس أيه</div><div>هاحتاج ستين سنة قداك</div><div>مفيش حاجة حبيبي معاك، بتشغلني</div></div><div><br></div>",
-      "id": "song1693018020711",
+      "id": "ramy-gamal",
       "genre": "pop",
       "year": "2022",
       "date": "2023-08-26",
       "album": "Yestahel Bostein",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693018083920_Ramy%20Gamal.jpg?alt=media&token=80da355c-0e5c-407a-b1cb-8d5c51f0195d",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693018088574_Ramy%20Gamal.mp3?alt=media&token=2d2b5c22-7c06-4234-9941-f391cb94d8d2",
-      "name": "رامي جمال – قمر و منور",
-      "id_import": "song1693018020711"
+      "name": "رامي جمال – قمر و منور"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693018218498_Tamer%20Ashor.jpg?alt=media&token=1f1aea9b-40af-49ff-97f4-f1d1ce48482d",
@@ -968,13 +908,12 @@
       "name": "تامر عاشور -  تيجي نتراهن",
       "year": "2021",
       "lang": "ar",
-      "id": "song1693018142707",
+      "id": "tamer-ashor",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693018224813_Tamer%20Ashor.mp3?alt=media&token=6449fc16-e51d-4a1b-b8c9-584a21f5d847",
       "link_ytb": "https://www.youtube.com/watch?v=igfOl9YbEXs",
       "date": "2023-08-26",
       "album": "Tegy Ntrahen",
-      "lyrics": "<div><div>تيجي نتراهن</div><div>إن هيجي اليوم وتقولي إن انتي ندمتي</div><div>وإن الدنيا هتخليكي تعرفي قيمتي</div><div>حاولى تلاقي من دلوقتي ليومها كلام</div><div>اعملى بس حساب قدام</div><div>أنا حذرتك وابقي افتكرى إنك صممتي</div><div>تيجي نتراهن</div><div>إن هيجي اليوم وتقولي إن انتي ندمتي</div><div>وإن الدنيا هتخليكي تعرفي قيمتي</div><div>حاولى تلاقي من دلوقتي ليومها كلام</div><div>اعملى بس حساب قدام</div><div>أنا حذرتك وابقي افتكرى إنك صممتي</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>عينى في عينك</div><div>مش متضايقة إن خلاص مش هبقى معاكي</div><div>بالذات لما لقيتى إن أنا بسهولة أنساكي</div><div>آه سايباني لكن عارفة بتخسرى مين</div><div>طب كان ليه بقى دمع العين</div><div>لو فعلًا مابقاش فى ليا حنين جواكى</div><div>عينى في عينك</div><div>مش متضايقة إنى خلاص مش هبقى معاكي</div><div>بالذات لما لقيتى إن أنا بسهولة أنساكي</div><div>آه سايباني لكن عارفة بتخسرى مين</div><div>طب كان ليه بقى دمع العين</div><div>لو فعلًا مابقاش فى ليا حنين جواكى</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div></div><div><br></div>",
-      "id_import": "song1693018142707"
+      "lyrics": "<div><div>تيجي نتراهن</div><div>إن هيجي اليوم وتقولي إن انتي ندمتي</div><div>وإن الدنيا هتخليكي تعرفي قيمتي</div><div>حاولى تلاقي من دلوقتي ليومها كلام</div><div>اعملى بس حساب قدام</div><div>أنا حذرتك وابقي افتكرى إنك صممتي</div><div>تيجي نتراهن</div><div>إن هيجي اليوم وتقولي إن انتي ندمتي</div><div>وإن الدنيا هتخليكي تعرفي قيمتي</div><div>حاولى تلاقي من دلوقتي ليومها كلام</div><div>اعملى بس حساب قدام</div><div>أنا حذرتك وابقي افتكرى إنك صممتي</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>عينى في عينك</div><div>مش متضايقة إن خلاص مش هبقى معاكي</div><div>بالذات لما لقيتى إن أنا بسهولة أنساكي</div><div>آه سايباني لكن عارفة بتخسرى مين</div><div>طب كان ليه بقى دمع العين</div><div>لو فعلًا مابقاش فى ليا حنين جواكى</div><div>عينى في عينك</div><div>مش متضايقة إنى خلاص مش هبقى معاكي</div><div>بالذات لما لقيتى إن أنا بسهولة أنساكي</div><div>آه سايباني لكن عارفة بتخسرى مين</div><div>طب كان ليه بقى دمع العين</div><div>لو فعلًا مابقاش فى ليا حنين جواكى</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div><div>تيجى نتراهن</div><div>إنك راجعة وإن ساعتها مش هتلاقى حجج تقوليها</div><div>وإنى هدور وشي يوميها</div><div>عشان أزود على أوجاعك مليون وجعة</div></div><div><br></div>"
     },
     {
       "genre": "pop",
@@ -986,16 +925,15 @@
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693018550848_Abu.jpg?alt=media&token=b4f7d93c-5723-49d2-a684-8e23ad99e29e",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693018568315_Abu.mp3?alt=media&token=3bcf172b-815d-432d-a6c7-2ad8f136066d",
       "publishedAt": "2021-08-02T10:35:33Z",
-      "id": "song1693018361660",
+      "id": "abu",
       "link_ytb": "https://www.youtube.com/watch?v=xngZyouAivo",
       "year": "2021",
-      "name": "ابو - ملك الفبركة",
-      "id_import": "song1693018361660"
+      "name": "ابو - ملك الفبركة"
     },
     {
       "album": "Abeer Nehme - عبير نعمة",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693021921476_Bala%20Ma%20Nhess.jpg?alt=media&token=a320785c-2bf7-4f9d-bc58-6feedcbc1f97",
-      "id": "song1693021705450",
+      "id": "abeer-nehme",
       "genre": "pop",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693021925277_Bala%20Ma%20Nhess.mp3?alt=media&token=aa7cacee-d359-468a-891b-3535258e83ac",
       "artist": "Abeer Nehme",
@@ -1005,8 +943,7 @@
       "lyrics": "<div><div>خوفي قلك شو بحسلك ونبطل أصحاب</div><div>وتبرم فينا الدنيي فجأة ونصفي أغراب</div><div>خوفي قلك شو بحسلك ونبطل أصحاب</div><div>وتبرم فينا الدنيي فجأة ونصفي أغراب</div><div>إحساس خايفة منه وسنين عم ببعد عنه</div><div>واليوم قلبي حاسس بدو يقول بحبك بس</div><div>ومعقول قلبي اتأخر اللي بيني وبينك نخسر</div><div>والصُّحبة ياللي كانت حلوة تخلص بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>أنت فيك مني وبتشبهني بأشياء كتير</div><div>ولو ما بتحنلي ببقى حدك مهما يصير</div><div>أنت فيك مني وبتشبهني بأشياء كتير</div><div>ولو ما بتحنلي ببقى حدك مهما يصير</div><div>إحساس خايفة منه وسنين عم ببعد عنه</div><div>واليوم قلبي حاسس بدو يقول بحبك بس</div><div>ومعقول قلبي اتأخر اللي بيني وبينك نخسر</div><div>والصُّحبة ياللي كانت حلوة تخلص بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div><div>بلا ما نحس، بلا ما نحس</div></div><div><br></div>",
       "name": "عبير نعمة - بلا ما نحس",
       "date": "2023-08-26",
-      "lang": "ar",
-      "id_import": "song1693021705450"
+      "lang": "ar"
     },
     {
       "lang": "ar",
@@ -1018,11 +955,10 @@
       "year": "2023",
       "link_ytb": "https://www.youtube.com/watch?v=BRTbHX3cdfU",
       "album": "Rotana",
-      "id": "song1693022121463",
+      "id": "oumaima-taleb",
       "publishedAt": "2023-02-08T15:00:07Z",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693022216925_Oumaima%20Taleb3.mp3?alt=media&token=568bdf3d-1c0c-409e-9fe2-e82e00bdf5c0",
-      "lyrics": "<div><div>لا لا .. يالخيزرانه في الهوى ميلوكي</div><div>لا لا .. وان ميلوكي مالت الروح معاكي</div><div>&nbsp;</div><div>لا لا .. وزمام سيدي طاح في جمة البير</div><div>لا لا .. وجنية ابو سيفين للي يجيبه</div><div>&nbsp;</div><div>لا لا .. والنار شبت في ثيابي وانا حي</div><div>لا لا .. نادوا حبيبي يطفي النار عني</div><div>&nbsp;</div><div>لا لا .. سيدي نساني يحسب اني نسيته</div><div>لا لا .. والله ما انسى سيدي لو نساني</div><div>&nbsp;</div><div>لا لا .. ونيت تجلب الماء من البير</div><div>لا لا .. والثانية تجلب حبيبي علي</div><div>&nbsp;</div><div>لا لا .. يا موت لا تأخذ صغير عن امه</div><div>لا لا .. لا تاخذ الا عود ولا زمانه</div><div>&nbsp;</div><div>لا لا .. يا نجم ياللي تالي الليل وقاد</div><div>لا لا .. وابيك قبل الصبح ترسل جواب</div></div><div><br></div>",
-      "id_import": "song1693022121463"
+      "lyrics": "<div><div>لا لا .. يالخيزرانه في الهوى ميلوكي</div><div>لا لا .. وان ميلوكي مالت الروح معاكي</div><div>&nbsp;</div><div>لا لا .. وزمام سيدي طاح في جمة البير</div><div>لا لا .. وجنية ابو سيفين للي يجيبه</div><div>&nbsp;</div><div>لا لا .. والنار شبت في ثيابي وانا حي</div><div>لا لا .. نادوا حبيبي يطفي النار عني</div><div>&nbsp;</div><div>لا لا .. سيدي نساني يحسب اني نسيته</div><div>لا لا .. والله ما انسى سيدي لو نساني</div><div>&nbsp;</div><div>لا لا .. ونيت تجلب الماء من البير</div><div>لا لا .. والثانية تجلب حبيبي علي</div><div>&nbsp;</div><div>لا لا .. يا موت لا تأخذ صغير عن امه</div><div>لا لا .. لا تاخذ الا عود ولا زمانه</div><div>&nbsp;</div><div>لا لا .. يا نجم ياللي تالي الليل وقاد</div><div>لا لا .. وابيك قبل الصبح ترسل جواب</div></div><div><br></div>"
     },
     {
       "name": "مسلم - هنتقابل",
@@ -1034,11 +970,10 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023082452_Muslim.mp3?alt=media&token=430b8baf-1cc6-4d20-9864-7c7bc69799bc",
       "genre": "pop",
       "lang": "ar",
-      "id": "song1693023027477",
+      "id": "muslim",
       "artist": "Muslim",
       "link_ytb": "https://www.youtube.com/watch?v=9phByW13cUE",
-      "lyrics": "<div><div>رجوعنا ده إيه؟ سلامتك فوّق خلاص منك أنا محرص</div><div>مشيت مديونلي أنا بحقوق سايبها لدنيا بتخلص</div><div>رجوعنا ده إيه؟ سلامتك فوّق خلاص منك أنا محرص</div><div>مشيت مديونلي أنا بحقوق سايبها لدنيا بتخلص</div><div>هنتقابل وأنا مرتاح وكلي برود</div><div>هتفضل إيدي في مكانها؛ سلام مرفوض</div><div>هتتفاجئ بإني عملت بيننا حدود</div><div>وزيك زي أي غريب</div><div>ده عين العقل أتجاهلك وأفرط فيك</div><div>مفيش ولا حتى حجة يتيمة تشفع ليك</div><div>وقلبي مع الغلابة اللي مآمنين بيك</div><div>ده وصفك مش بقل وأعيب</div><div>بتاع كدب وبتاع روايات عاتبت كتير ولا محوق</div><div>وأهو البياع كمان بالذات يبان يوم مهما يتزوق</div><div>بتاع كدب وبتاع روايات عاتبت كتير ولا محوق</div><div>وأهو البياع كمان بالذات يبان يوم مهما يتزوق</div><div>هنتقابل وأنا مرتاح وكلي برود</div><div>هتفضل إيدي في مكانها؛ سلام مرفوض</div><div>هتتفاجئ بإني عملت بيننا حدود</div><div>وزيك زي أي غريب</div><div>ده عين العقل أتجاهلك وأفرط فيك</div><div>مفيش ولا حتى حجة يتيمة تشفع ليك</div><div>وقلبي مع الغلابة اللي مآمنين بيك</div><div>ده وصفك مش بقل وأعيب</div></div><div><br></div>",
-      "id_import": "song1693023027477"
+      "lyrics": "<div><div>رجوعنا ده إيه؟ سلامتك فوّق خلاص منك أنا محرص</div><div>مشيت مديونلي أنا بحقوق سايبها لدنيا بتخلص</div><div>رجوعنا ده إيه؟ سلامتك فوّق خلاص منك أنا محرص</div><div>مشيت مديونلي أنا بحقوق سايبها لدنيا بتخلص</div><div>هنتقابل وأنا مرتاح وكلي برود</div><div>هتفضل إيدي في مكانها؛ سلام مرفوض</div><div>هتتفاجئ بإني عملت بيننا حدود</div><div>وزيك زي أي غريب</div><div>ده عين العقل أتجاهلك وأفرط فيك</div><div>مفيش ولا حتى حجة يتيمة تشفع ليك</div><div>وقلبي مع الغلابة اللي مآمنين بيك</div><div>ده وصفك مش بقل وأعيب</div><div>بتاع كدب وبتاع روايات عاتبت كتير ولا محوق</div><div>وأهو البياع كمان بالذات يبان يوم مهما يتزوق</div><div>بتاع كدب وبتاع روايات عاتبت كتير ولا محوق</div><div>وأهو البياع كمان بالذات يبان يوم مهما يتزوق</div><div>هنتقابل وأنا مرتاح وكلي برود</div><div>هتفضل إيدي في مكانها؛ سلام مرفوض</div><div>هتتفاجئ بإني عملت بيننا حدود</div><div>وزيك زي أي غريب</div><div>ده عين العقل أتجاهلك وأفرط فيك</div><div>مفيش ولا حتى حجة يتيمة تشفع ليك</div><div>وقلبي مع الغلابة اللي مآمنين بيك</div><div>ده وصفك مش بقل وأعيب</div></div><div><br></div>"
     },
     {
       "publishedAt": "2021-08-06T14:00:15Z",
@@ -1052,15 +987,14 @@
       "lyrics": "<div><div>متيم انا فيكي يا كل كلي&nbsp;</div><div>مؤبد حبي ليكي يا حلوة مري&nbsp;</div><div>بلمسة من ايديكي ها قد حلَ امري&nbsp;</div><div>سلمتك قلبي ف يا حلوة مري&nbsp;</div><div><br></div><div>صرت اشوفك كلشي&nbsp;</div><div>لا تتركيني هون&nbsp;</div><div>لحالي بمشي&nbsp;</div><div>بس تكونيلي العون</div><div>ضايع بلكون</div><div>شوفي حالي اليووم&nbsp;</div><div><br></div><div>بس عشانك&nbsp;</div><div><br></div><div>بنزل النجوم بنزلك سما&nbsp;</div><div>حاملك الغيوم ماسك كفك انا&nbsp;</div><div>وبعتمة هليل كوني انتي السنااااا</div><div>لا لا تروحي عني</div><div>عشانك صرت اغني شوفي روحي ماتت فيكي</div><div>بحرق كل كلامي لو بردتي ل دفيكي&nbsp;</div><div>شفت معاكي احلامي ليوم عم برمي حلمي بايدي</div><div>يا جرحي انا&nbsp;</div><div><br></div><div>رديتي الروح لما صرتي الي&nbsp;</div><div>لا تفكر تروح وتكوني معضلة&nbsp;</div><div>سميتك كلشي ما تضيعي مسكني&nbsp;</div><div>وكل قلوب العالم ما بتهمني انتي الي&nbsp;</div><div><br></div><div>لو ولدتُ دون دين ل كنتي مذهبي&nbsp;</div><div>لو بإيدي استجابة انتي مطلبي&nbsp;</div><div>ولو لقلبي عاصمة ل كنتيها الي&nbsp;</div><div><br></div><div>لسا بشوفك ف احلامي&nbsp;</div><div>ضلمة بدونك ايامي&nbsp;</div><div>حتضلي وعيونك ملاذي&nbsp;</div><div><br></div><div>خلينا نرجع شوارعنا&nbsp;</div><div>ونكسر خوف اليل&nbsp;</div><div>وكل جروح كانت معنا&nbsp;</div><div><br></div><div>نسينا الأيام الي جمعتنا&nbsp;</div><div>والفرحة ال عاشت فينا&nbsp;</div><div>وهي ماتت معنا</div></div><div><br></div>",
       "date": "2023-08-26",
       "genre": "pop",
-      "id": "song1693023121254",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023204927_siilawy.mp3?alt=media&token=d34a1fa1-a3da-46e2-b1ed-aa4b793860d4",
-      "id_import": "song1693023121254"
+      "id": "siilawy-siilawy",
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023204927_siilawy.mp3?alt=media&token=d34a1fa1-a3da-46e2-b1ed-aa4b793860d4"
     },
     {
       "publishedAt": "2022-04-29T18:03:28Z",
       "lyrics": "<div><div><br></div><div><br></div><div>اتدري للفرحه كم صوت</div><div>هي الفرحة ليها صوت طبعا</div><div>قهقهة للضحكات جلجلة الاغنيات</div><div>زقزقة للعصفور طبطبة حتي تدق طبول</div><div>فرفشه عالناس بتبان لعلعة انوار والوان</div><div>دندشه لبس وحركات فرقعة لعب هدايا عديات</div><div><br></div><div>قهقهة الضحكات جلجلة الاغنيات</div><div>زقزقة للعصفور طبطبة حتي تدق طبول</div><div>فرفشه عالناس بتبان لعلعة انوار والوان</div><div>دندشه لبس وحركات فرقعة لعب هدايا عديات</div><div>فهمتي</div><div>فهمتي حاجة ولا اعيد</div><div>هل قولت لتوك عيد</div><div>العيد اليوم اليوم هو عيدي</div><div>اتزين يلبسني جديدي</div><div>ساقول للشمس اقتربي</div><div>وزيدينا دفأ هنا زيدي</div><div>فالعيد اليوم</div><div>اليوم هو عيدي</div><div><br></div><div>تلبسي فستان فستان</div><div>هلبس بدلة</div><div>تضحكي هضحكلك هاضحك اهي ساهلة</div><div>وهقول للدنيا توسع وتفضي مكان تاني للمة فالعيد اليوم</div><div>اليوم هو عيدي</div><div><br></div><div>الامة العربية اجمع بالفرحة عيون لها تلمع</div><div>فالعيد يعيد لنا الضحكة</div><div>كنجوم الكون اليوم نسطع</div><div>ايوة احنا نجوم اليوم</div><div>طبعا</div><div><br></div><div>اهلا بالعيد بقى</div><div>ميت اهلا</div><div>اشياء لو باتت دهرا لن يشبهها فرحة ابدا</div><div>يا سيدي</div><div><br></div><div>قهقهة للضحكات جلجلة الاغنيات</div><div>زقزقة للعصفور طبطبة حتي تدق طبول</div><div>فرفشه عالناس بتبان لعلعة انوار والوان</div><div>دندشه لبس وحركات فرقعة لعب هدايا عديات</div><div><br></div><div>قهقهة للضحكات جلجلة الاغنيات</div><div>زقزقة للعصفور طبطبة حتي تدق طبول</div><div>فرفشه عالناس بتبان لعلعة انوار والوان</div><div>دندشه لبس وحركات فرقعة لعب هدايا عديات</div><div>فهمتي</div><div>فهمتي حاجة ولا اعيد</div><div>هل قولت لتوك عيد</div></div>",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023356165_Ahmed%20Saad2.mp3?alt=media&token=a655e451-ab37-4472-827b-14e0f628cca8",
-      "id": "song1693023232403",
+      "id": "ahmed-saad",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023351459_Ahmed%20Saad2.jpg?alt=media&token=95e371e5-5472-4518-8504-c94680b5780e",
       "artist": "Ahmed Saad",
       "album": "Ahmed Saad",
@@ -1069,8 +1003,7 @@
       "lang": "ar",
       "year": "2022",
       "genre": "pop",
-      "name": "احمد سعد - اعلان زين العيد",
-      "id_import": "song1693023232403"
+      "name": "احمد سعد - اعلان زين العيد"
     },
     {
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023452518_Tamer%20Hosny.mp3?alt=media&token=d2567d17-673a-4225-85f5-d4cdf15ef447",
@@ -1080,16 +1013,15 @@
       "genre": "pop",
       "year": "2022",
       "album": "Aashaangy",
-      "id": "song1693023383951",
+      "id": "tamer-hosny",
       "publishedAt": "2022-07-22T21:00:11Z",
       "artist": "Tamer Hosny",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023448555_Tamer%20Hosny.jpg?alt=media&token=7dbdff61-64c0-467b-99c2-71eb0d75a4f4",
       "link_ytb": "https://www.youtube.com/watch?v=NVUoA3htH9Q",
-      "date": "2023-08-26",
-      "id_import": "song1693023383951"
+      "date": "2023-08-26"
     },
     {
-      "id": "song1693023481358",
+      "id": "hana-yousry",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023552214_Hana%20Yousry.jpg?alt=media&token=22659abf-97f0-44b5-ba51-5649fa8d347f",
       "lang": "ar",
       "lyrics": "<div><div>&nbsp;</div><div>صوت رنة المفتاح في الباب ساعة اما توصل</div><div>ومكالمة نص اليوم لما من غير داعي تسأل</div><div>والزعيق من ورا قلبك لما اصالحك وتتقل</div><div>وحضنك اللي بنسي قبله ليه كنت بزعل</div><div>رأيك اللي كله حكمة صوتك حفظته</div><div>كل موقف يوم زعلني وبعدين فهمته</div><div>انت اللي انا رافعة راسي من ورا اسمه وسيرته</div><div>بنت ابويا واه يا بختي بعمري وياك عشته</div><div>بيقولوا لي إني شبهك إني زيك حتة منك روحي روحك واخدة قلبك في المشاعر والكلام</div><div>بيقولوا لي اللي شافوكي كتير لاقوكي بنت ابوكي ده في سلامه واهتمامه يا بختي قالوا بنت ابويا يا سلام</div><div>ااااااااااااه …… ااااااااااااااه</div><div>لما تقلق وانا اخبي لا تزعل عشاني واما في طريقنا نسافر ونشغل أغاني</div><div>واما تشوف مني دمعه وتعمل مش شايفها بتخاف تكسفني وتحسسني أنك كاشفها</div><div>انت سندي انت ضهري وصاحب عمري كله</div><div>لما بشكي لما بحكي من غيرك أروح أقوله</div><div>ياللي مهما كبر سني هفضل أعيش في ضله</div><div>يا حبيبي يا رب يخلي صوتك العمر كله</div><div>بيقولوا لي إني شبهك إني زيك حتة منك روحي روحك واخدة قلبك في المشاعر والكلام</div><div>بيقولوا لي اللي شافوكي كتير لاقوكي بنت أبوكي ده في سلامه واهتمامه يا بختي قالوا بنت ابويا يا سلام</div><div>ااااااااااااه …… ااااااااااااااه</div><div><br></div><div>موضوع عائلي يعرض على شاهد.</div></div>",
@@ -1101,8 +1033,7 @@
       "date": "2023-08-26",
       "link_ytb": "https://www.youtube.com/watch?v=wXFviC3vPlY",
       "artist": "Hana Yousry",
-      "album": "Bent Aboya",
-      "id_import": "song1693023481358"
+      "album": "Bent Aboya"
     },
     {
       "publishedAt": "2023-05-26T14:00:09Z",
@@ -1112,13 +1043,12 @@
       "year": "2023",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693023634469_Asma%20Lmnawar.mp3?alt=media&token=de8fe384-163e-46e8-8d9e-ba66b60a2850",
       "lyrics": "<div><div>و هذا حالي من بعدك</div><div>ويلي يانا من هذا الحال</div><div>يا اللي خلفتي معايا وعدك</div><div>بشحال بعتي عشقي بشحال</div><div>وشمتي فيا هادوك</div><div>ياللي كانو يحسدوني فيك</div><div>قلبوك عليا وخادوك</div><div>ونساوك في اللي يبغيك</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك أنا عزيت</div><div>يا كون كاع ما خليتينيا</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك أنا عزيت</div><div>يا كون كاع ما خليتينيا</div><div>و هذا حالي من بعدك</div><div>ويلي يانا من هذا الحال</div><div>ياللي خلفتي معايا وعدك</div><div>بشحال بعتي عشقي بشحال</div><div>والا باقي نتيق في لامور</div><div>يعرفوني ما عندي عقل</div><div>ضيعت أنا عمري فابور</div><div>ومشيت أنايا ما نهبل</div><div>يا نشوف حياتي واللي جاي</div><div>مانيش أول من اتقوى</div><div>صفحة فالماضي غتبقى</div><div>كنتي فحياتي موفي شوا</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك أنا عزيت</div><div>يا كون كاع ما خليتينيا</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك أنا عزيت</div><div>يا كون كاع ما خليتينيا</div><div>القلب اللي البارح كان يبغيك</div><div>بعشقك جامي يرجع يتبلى</div><div>غير روح ما نبكيش عليك</div><div>دموعي أنا منك اغلى</div><div>أنا اللي رخص قلبي</div><div>عمره فعيني ما يحلا</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك عزيت</div><div>يا كون كاع ما خليتينيا</div><div>واليوم صايي ديسيديت</div><div>ننساك وكيف نسيتينيا</div><div>لو كان عليك عزيت</div><div>يا كون كاع ما خليتينيا</div><div>وهذا حالي من بعدك</div></div><div><br></div>",
-      "id": "song1693023576303",
+      "id": "asma-lmnawar",
       "artist": "Asma Lmnawar",
       "name": "أسما لمنور - هذا حالي من بعدك",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023630417_Asma%20Lmnawar.jpg?alt=media&token=b52bbf19-be76-4b6d-ab8c-4d711c41b0e3",
       "link_ytb": "https://www.youtube.com/watch?v=WsiFEkxrZpk",
-      "date": "2023-08-26",
-      "id_import": "song1693023576303"
+      "date": "2023-08-26"
     },
     {
       "year": "2020",
@@ -1126,18 +1056,17 @@
       "lang": "ar",
       "date": "2023-08-26",
       "name": "لمى شريف - يما أنا اللي ريدو",
-      "id": "song1693023664669",
+      "id": "lama-shreif",
       "genre": "pop",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023723818_Lama%20Shreif.jpg?alt=media&token=19a9842f-b708-4218-8239-78b676fe7319",
       "artist": "Lama Shreif",
       "lyrics": "<div><div>يما أنا اللي أريده عقلاته شغل إيده</div><div>عقلاته شغل إيده</div><div>يما أنا اللي أريده عقلاته شغل إيده</div><div>عقلاته شغل إيده</div><div>أريده سبع سباع، تهابه ثعالب وضباع</div><div>قد العشرة مو بياع، عجنابه يمايل حديده</div><div>(عجنابه يمايل حديده)</div><div>Stop, stop, stop, stop, stop, stop</div><div>أصحاب ال photoshop، كاشفهم بـ scope</div><div>ما فيهم واحد top</div><div>Top, top, top</div><div>من الخارج هالله هالله والداخل يعلم الله</div><div>وحلا كن فيك تحلا، الله أعلم بعبيده</div><div>(الله أعلم بعبيده)</div><div>يوب، يوب، يوب، يوب، يوب</div><div>أريد هذا المحبوب، أمشي وياه دروب</div><div>معدنه صافي top</div><div>(Top, top, top)</div><div>يابا فتاتك قوية، أخت رجال بأنوثية</div><div>تقاليدها أساسية، ما حد ينسى تقاليده</div><div>(ما حد ينسى تقاليده)</div><div>يما أنا اللي أريده عقلاته شغل إيده</div><div>عقلاته شغل إيده</div></div><div><br></div>",
       "publishedAt": "2020-12-22T15:59:42Z",
       "album": "Lama Shreif",
-      "link_ytb": "https://www.youtube.com/watch?v=ff1UOTiuNVI",
-      "id_import": "song1693023664669"
+      "link_ytb": "https://www.youtube.com/watch?v=ff1UOTiuNVI"
     },
     {
-      "id": "song1693023749248",
+      "id": "houda-bondok-ana-hont-alek-official-lyric-video-houda-bondok",
       "date": "2023-08-26",
       "name": "Houda Bondok - Ana Hont Alek  [Official Lyric Video]| حوده بندق - انا هونت عليك",
       "album": "Houda Bondok",
@@ -1149,14 +1078,13 @@
       "publishedAt": "2023-05-09T14:00:09Z",
       "link_ytb": "https://www.youtube.com/watch?v=DWph6iawJg4",
       "year": "2023",
-      "genre": "pop",
-      "id_import": "song1693023749248"
+      "genre": "pop"
     },
     {
       "genre": "pop",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693023910601_Rahma%20Riad.jpg?alt=media&token=f6358f96-2f2d-40c1-8a07-5fc65a8bb068",
       "link_ytb": "https://www.youtube.com/watch?v=ddRRHgFX8mM",
-      "id": "song1693023851951",
+      "id": "rahma-riad-asaad-lel-goumar-rahma-riad",
       "artist": "Rahma Riad",
       "name": "Rahma Riad - Asaad Lel Goumar رحمة رياض - اصعد للكمر",
       "publishedAt": "2022-07-19T15:00:11Z",
@@ -1165,8 +1093,7 @@
       "album": "Asaad Lel Goumar",
       "lang": "ar",
       "year": "2022",
-      "lyrics": "<div><div>وأنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div><div>الله طالعة من القلب، عمري ما عايش هيجي حب</div><div>وياك أعيش بفد هدوء لو جانت الدنيا حرب</div><div>على إحساسي بالعشق إن شاء الله ما نفترق</div><div>وشنو بفرقك يا حبيبي على اللي بصدري يدق</div><div>أنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر (روحي من تمر)</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div><div>فدوة للدم العسل، يا لجمالك ماله حل</div><div>من تسولفلي غزل أسكت شجاني</div><div>الغيبة عن وجهك خطر يا اللي مثلك ما خطر</div><div>وياك أصعد للقمر وأنا بمكاني</div><div>وأنساه عمري كله والإسم من قبالي تبتسم</div><div>عيني فد محظوظة عيني تشوفك حقيقة وبالحلم</div><div>ويا جماله هالوجه اللي خلّاني أنتبه</div><div>حلو بين الناس يمشي والله ضمك إليّ ضم</div><div>وأنت من قد ما حلو (ما حلو)، تحتاج المراية بشنو (المراية بشنو)؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك (بروحي ع بالك)</div><div>وأنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div></div><div><br></div>",
-      "id_import": "song1693023851951"
+      "lyrics": "<div><div>وأنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div><div>الله طالعة من القلب، عمري ما عايش هيجي حب</div><div>وياك أعيش بفد هدوء لو جانت الدنيا حرب</div><div>على إحساسي بالعشق إن شاء الله ما نفترق</div><div>وشنو بفرقك يا حبيبي على اللي بصدري يدق</div><div>أنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر (روحي من تمر)</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div><div>فدوة للدم العسل، يا لجمالك ماله حل</div><div>من تسولفلي غزل أسكت شجاني</div><div>الغيبة عن وجهك خطر يا اللي مثلك ما خطر</div><div>وياك أصعد للقمر وأنا بمكاني</div><div>وأنساه عمري كله والإسم من قبالي تبتسم</div><div>عيني فد محظوظة عيني تشوفك حقيقة وبالحلم</div><div>ويا جماله هالوجه اللي خلّاني أنتبه</div><div>حلو بين الناس يمشي والله ضمك إليّ ضم</div><div>وأنت من قد ما حلو (ما حلو)، تحتاج المراية بشنو (المراية بشنو)؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك (بروحي ع بالك)</div><div>وأنت من قد ما حلو، تحتاج المراية بشنو؟</div><div>أنت وبعد ماكو حلو فدوة لجمالك</div><div>اسمك مثل شمة عطر تاخذها روحي من تمر</div><div>وبقلبي أضمك آني سر بروحي ع بالك</div></div><div><br></div>"
     },
     {
       "year": "2023",
@@ -1179,10 +1106,9 @@
       "name": "آدم - بس بحبك",
       "date": "2023-08-26",
       "genre": "pop",
-      "id": "song1693023944043",
+      "id": "adam",
       "artist": "Adam",
-      "album": "Adam | آدم",
-      "id_import": "song1693023944043"
+      "album": "Adam | آدم"
     },
     {
       "artist": "Nouamane Belaiachi",
@@ -1194,11 +1120,10 @@
       "genre": "pop",
       "album": "Nouaman Belaiachi",
       "year": "2023",
-      "id": "song1693024023872",
+      "id": "nouamane-belaiachi",
       "name": "نعمان بلعياشي - مصاري",
       "link_ytb": "https://www.youtube.com/watch?v=ReqHZKc6-vc",
-      "date": "2023-08-26",
-      "id_import": "song1693024023872"
+      "date": "2023-08-26"
     },
     {
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693024185002_Djalil%20Palermo.jpg?alt=media&token=6f5c054f-4c06-45dd-9164-7bade8819894",
@@ -1213,14 +1138,13 @@
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693024189410_Djalil%20Palermo.mp3?alt=media&token=85024584-5b62-4e94-a653-dba617ac6812",
       "name": "Djalil Palermo - MAZALNI (Official Music Video)",
       "publishedAt": "2022-07-25T16:00:18Z",
-      "id": "song1693024125471",
-      "id_import": "song1693024125471"
+      "id": "djalil-palermo-mazalni-official-music-video-djalil-palermo"
     },
     {
       "date": "2023-08-26",
       "name": "حبيتها يا ناس - تامر حسني",
       "publishedAt": "2022-07-14T17:00:11Z",
-      "id": "song1693024211484",
+      "id": "tamer-hosny",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693024263233_Tamer%20hosny2.mp3?alt=media&token=98a8d467-4734-49a3-9985-7bbc40b33be4",
       "link_ytb": "https://www.youtube.com/watch?v=yAY248_mrSE",
       "album": "Tamer Hosny",
@@ -1229,8 +1153,7 @@
       "lyrics": "<div><div><br></div><div>&nbsp;</div><div>اسرح يا خيال اسرح يا خيال</div><div>وانزل يا كلام زي الشلال</div><div>انا جوه قلبي حصل زلزال</div><div>انا جوه قلبي حصل زلزال</div><div><br></div><div>حبيتها ياناس</div><div>اعتبروني سبقت الاحداث</div><div>ما هي مش بالعقل دي بالإحساس</div><div>والله يا ناس</div><div>انا قلبي اتجاب انا قلبي اتجاب</div><div>ما اخدش في ايديها غلوه وداب</div><div>اللي بــ يحصل لي ده مش اعجاب</div><div><br></div></div>",
       "lang": "ar",
       "genre": "pop",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693024257709_Tamer%20hosny2.jpg?alt=media&token=24b8478e-bd38-48bd-b7f7-e9f2f4e48b6e",
-      "id_import": "song1693024211484"
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693024257709_Tamer%20hosny2.jpg?alt=media&token=24b8478e-bd38-48bd-b7f7-e9f2f4e48b6e"
     },
     {
       "genre": "pop",
@@ -1244,14 +1167,13 @@
       "lang": "ar",
       "album": "Ghoroub",
       "date": "2023-08-26",
-      "id": "song1693024322495",
-      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693024392628_Hamza%20Namira3.mp3?alt=media&token=61420fcb-4a18-489a-8df4-a8114d8d1d86",
-      "id_import": "song1693024322495"
+      "id": "hamza-namira",
+      "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693024392628_Hamza%20Namira3.mp3?alt=media&token=61420fcb-4a18-489a-8df4-a8114d8d1d86"
     },
     {
       "publishedAt": "2021-03-18T15:00:18Z",
       "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Faudio%2Fmpeg%2F1693066392095_Rampampam.mp3?alt=media&token=10d75e5a-6be8-4131-a1ab-4951d822aba7",
-      "id": "song1693066330479",
+      "id": "rampampam-minelli",
       "year": "2021",
       "link_ytb": "https://www.youtube.com/watch?v=XqgYj8atJqo",
       "avatar": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/song%2Fimage%2Fjpeg%2F1693066388138_Rampampam.jpg?alt=media&token=61d415ee-67be-4eb5-9dc6-610d67ddcad8",
@@ -1261,8 +1183,7 @@
       "artist": "Minelli",
       "name": "Rampampam",
       "genre": "pop",
-      "lyrics": "<div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div><br></div><div>Baby, I see what’s on your mind - I see,</div><div>you try to find another lie - For me, and when I ask about it</div><div>When I ask you’re hiding from me</div><div><br></div><div>Confusing thoughts and mystery - I see, our love was just a fantasy - For me, you played me like nobody</div><div>When you were everything for me</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div><br></div><div>Another face, no sympathy - From me</div><div>You turned me into your enemy - I see, don’t wanna talk about it</div><div>‘Cause I don’t have no reason to believe you</div><div><br></div><div>Confusing thoughts and mystery - I see,</div><div>our love was just a fantasy - For me, you played me like nobody</div><div>When you were everything for me</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div>My soul is hollow</div><div>I know what you’re hiding from me, ‘nd maybe tomorrow</div><div>I’ll see what you want me to see</div><div>T I oh, T I oh</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div></div>",
-      "id_import": "song1693066330479"
+      "lyrics": "<div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div><br></div><div>Baby, I see what’s on your mind - I see,</div><div>you try to find another lie - For me, and when I ask about it</div><div>When I ask you’re hiding from me</div><div><br></div><div>Confusing thoughts and mystery - I see, our love was just a fantasy - For me, you played me like nobody</div><div>When you were everything for me</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div><br></div><div>Another face, no sympathy - From me</div><div>You turned me into your enemy - I see, don’t wanna talk about it</div><div>‘Cause I don’t have no reason to believe you</div><div><br></div><div>Confusing thoughts and mystery - I see,</div><div>our love was just a fantasy - For me, you played me like nobody</div><div>When you were everything for me</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div><div>My soul is hollow</div><div>I know what you’re hiding from me, ‘nd maybe tomorrow</div><div>I’ll see what you want me to see</div><div>T I oh, T I oh</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see the satisfaction in your eyes... RamPamPam</div><div>I loved you and I trusted you so well so why, oh why, oh why?</div><div><br></div><div>You shot me so damn well... RamPamPam</div><div>You shot me then you got me ‘nd I’m like damn... RamPamPam</div><div>I see satisfaction in your eyes... RamPamPam</div><div>I’m lookin’ at you and I’m asking why, oh why, oh why, oh why</div></div>"
     }
   ]
 }
