@@ -3,7 +3,7 @@ langs=["ar","cs","da","de","en","es","fi","fr","id","it","ja","ko","nl","pl","pt
 for l in langs:
     # === CẤU HÌNH ===
     input_json = "output_songs/song-"+l+".json"          # Tên file JSON đầu vào
-    output_sql = "sql/insert_song_"+l+".sql"    # Tên file SQL đầu ra
+    output_sql = "sql/songs/insert_song_"+l+".sql"    # Tên file SQL đầu ra
     table_name = "song"                  # Tên bảng D1
 
     # === HÀM XỬ LÝ CHUỖI ===
