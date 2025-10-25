@@ -1316,12 +1316,10 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0C1GL9C9Z",
       "apk_file": "https://drive.google.com/uc?export=download&id=1U2eHuoiOuZWxrpW1OvEc0J0_9p1N9z7Y",
       "app_id": "Pomodoro Tomato",
-      "category": [
-        "Serving life"
-      ],
+      "category": ["Serving life"],
       "date_create": "2023-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1UvRbCAiuyT7ui2Nc-vrQN2bJRNw_o_HD",
-      "dmg_file": "",
+      "dmg_file": "https://drive.google.com/uc?export=download&id=1hz-GG-YLD2maDgoG9wTHJupnSA5nKuDc",
       "exe_file": "https://drive.google.com/uc?export=download&id=13SUQazM_L99mT-pFQa-7laF1HXEszT8C",
       "github": "https://github.com/kurotsmile/Pomodoro-Tomato",
       "google_play": "https://play.google.com/store/apps/details?id=com.carrotstore.pomodoroclock",
