@@ -921,12 +921,10 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.jsoneditor",
       "apk_file": "https://drive.google.com/uc?export=download&id=1H0Y0DL_08tAMpeEbYjYicCSG4eizF9CQ",
       "app_id": "Json Editor",
-      "category": [
-        "Programming tools"
-      ],
+      "category": ["Programming tools"],
       "date_create": "2021-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1TW0dG8avyn89cF53qVYs5t3QbX6Ipv3w",
-      "dmg_file": "",
+      "dmg_file": "https://drive.google.com/uc?export=download&id=1FU-dIE8R8i59AzQHJQ-2FK1PBTYIbi6v",
       "exe_file": "https://drive.google.com/uc?export=download&id=1SH38hCMF8tEXSFZxDEqvhR0xiPD9kRmu",
       "github": "https://github.com/kurotsmile/Json-Editor",
       "google_play": "https://play.google.com/store/apps/details?id=com.carrotstore.jsondesigner",
@@ -957,9 +955,7 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0C15BBN23",
       "apk_file": "https://drive.google.com/uc?export=download&id=1u3low1h8a_3PP4PiQYvvkRmwd5pEQJkr",
       "app_id": "Learn Coloring",
-      "category": [
-        "Product Design"
-      ],
+      "category": ["Product Design"],
       "date_create": "2021-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1VlK3uBmFygTCo1Z62ogE5mp15ZsZ13ei",
       "dmg_file": "",
@@ -994,9 +990,7 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BQQ7P4BH/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1oL4fYcrG-Mfwrq9nR_dhFAlFEAxvtUmu",
       "app_id": "Lines 98 Fruit",
-      "category": [
-        "Simple Game"
-      ],
+      "category": ["Simple Game"],
       "date_create": "2023-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1CXW-FrIyEnjOmPwR_OdJM-sLtkQ2tEK7",
       "dmg_file": "",
