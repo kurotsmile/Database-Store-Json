@@ -1268,9 +1268,7 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BQQP4W4S",
       "apk_file": "https://drive.google.com/uc?export=download&id=1_W-4PEJ3WiAIFY34WzwfImt13XuMuP56",
       "app_id": "Pick up eggs",
-      "category": [
-        "Fun games"
-      ],
+      "category": ["Fun games"],
       "date_create": "2024-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1Tkp_jXDw8PBnZLHi9a-H_VJTd5GD0Sim",
       "dmg_file": "https://drive.google.com/uc?export=download&id=1CP79MKI-WmjU1lLU-pwqiiVtAqgO7-r5",
@@ -1341,9 +1339,7 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.domino",
       "apk_file": "https://drive.google.com/uc?export=download&id=1bbRhbHPd_IQGPCZtujpwkg_PzhPEL4-X",
       "app_id": "Queen dominoes",
-      "category": [
-        "Strategy"
-      ],
+      "category": ["Strategy"],
       "date_create": "2023-02-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1AFHA3ApLiawdLHgLyhrybsep6qbjUL0R",
       "dmg_file": "",
@@ -1486,9 +1482,7 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0D12T6ZVX/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1-TTpX6PDrypCX2EK9-Q_yJSmHLxcbKFh",
       "app_id": "Save Web offline",
-      "category": [
-        "Programming tools"
-      ],
+      "category": ["Programming tools"],
       "date_create": "2021-03-12 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1Wtkqa-TwY021QUi5RdZsXAq4MBxW81n6",
       "dmg_file": "",
@@ -1702,12 +1696,10 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BCKBLPB7/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1Gf9W1GpYMT110aZC0_mBbN3Hj7C5mXZz",
       "app_id": "Taxi time meter",
-      "category": [
-        "Serving life"
-      ],
+      "category": ["Serving life"],
       "date_create": "2021-09-12 11:32:22",
       "deb_file": "https://drive.google.com/uc?export=download&id=1s9CW4LL-q0hfe5FrStSs-ImViYNomz-H",
-      "dmg_file": "",
+      "dmg_file": "https://drive.google.com/uc?export=download&id=19CA_v1eXrcb3DsEGpFCgz_YVdIJhC-Lx",
       "exe_file": "https://drive.google.com/uc?export=download&id=1fvhJX3g0yYqP5S5rZQ3u-Ch5wjXy-qFf",
       "github": "https://github.com/kurotsmile/Taxi-time-meter",
       "google_play": "https://play.google.com/store/apps/details?id=com.carrotstore.taxiclock",
