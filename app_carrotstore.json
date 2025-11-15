@@ -7,7 +7,7 @@
       "category": [],
       "date_create": "2023-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1-G6Ea-GooDoIPeOjAjiRuXXifSW2xi6v",
-      "dmg_file": "",
+      "dmg_file": "https://drive.google.com/uc?export=download&id=1eoYl0BzgyoW98w0FwU1TA1EzM2ffo8gd",
       "exe_file": "https://drive.google.com/uc?export=download&id=1iGVeJWsIX5O7bBw0JlzunTksELcaide1",
       "github": "https://github.com/kurotsmile/4-checkers",
       "google_play": "https://play.google.com/store/apps/details?id=com.carrotstore.checkers",
@@ -921,7 +921,9 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.jsoneditor",
       "apk_file": "https://drive.google.com/uc?export=download&id=1H0Y0DL_08tAMpeEbYjYicCSG4eizF9CQ",
       "app_id": "Json Editor",
-      "category": ["Programming tools"],
+      "category": [
+        "Programming tools"
+      ],
       "date_create": "2021-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1TW0dG8avyn89cF53qVYs5t3QbX6Ipv3w",
       "dmg_file": "https://drive.google.com/uc?export=download&id=1FU-dIE8R8i59AzQHJQ-2FK1PBTYIbi6v",
@@ -955,7 +957,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0C15BBN23",
       "apk_file": "https://drive.google.com/uc?export=download&id=1u3low1h8a_3PP4PiQYvvkRmwd5pEQJkr",
       "app_id": "Learn Coloring",
-      "category": ["Product Design"],
+      "category": [
+        "Product Design"
+      ],
       "date_create": "2021-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1VlK3uBmFygTCo1Z62ogE5mp15ZsZ13ei",
       "dmg_file": "",
@@ -990,7 +994,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BQQ7P4BH/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1oL4fYcrG-Mfwrq9nR_dhFAlFEAxvtUmu",
       "app_id": "Lines 98 Fruit",
-      "category": ["Simple Game"],
+      "category": [
+        "Simple Game"
+      ],
       "date_create": "2023-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1CXW-FrIyEnjOmPwR_OdJM-sLtkQ2tEK7",
       "dmg_file": "",
@@ -1128,7 +1134,9 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrot.mylover",
       "apk_file": "",
       "app_id": "My Lover",
-      "category": ["ai"],
+      "category": [
+        "ai"
+      ],
       "date_create": "2020-05-08 23:26:04",
       "deb_file": "",
       "dmg_file": "",
@@ -1196,7 +1204,9 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.numbermagic",
       "apk_file": "https://drive.google.com/uc?export=download&id=1NhzWdwM0SHrCWqnHZGeZR40zAbLQYfnz",
       "app_id": "Number Magic",
-      "category": ["Strategy"],
+      "category": [
+        "Strategy"
+      ],
       "date_create": "2016-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1tTm9W9H66o_UAewDPgjHtxKUI7v0cRe6",
       "dmg_file": "https://drive.google.com/uc?export=download&id=1xRxH3vvTyg6TlvEp42sEenAI_S6WK9fc",
@@ -1268,7 +1278,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BQQP4W4S",
       "apk_file": "https://drive.google.com/uc?export=download&id=1_W-4PEJ3WiAIFY34WzwfImt13XuMuP56",
       "app_id": "Pick up eggs",
-      "category": ["Fun games"],
+      "category": [
+        "Fun games"
+      ],
       "date_create": "2024-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1Tkp_jXDw8PBnZLHi9a-H_VJTd5GD0Sim",
       "dmg_file": "https://drive.google.com/uc?export=download&id=1CP79MKI-WmjU1lLU-pwqiiVtAqgO7-r5",
@@ -1304,7 +1316,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0C1GL9C9Z",
       "apk_file": "https://drive.google.com/uc?export=download&id=1U2eHuoiOuZWxrpW1OvEc0J0_9p1N9z7Y",
       "app_id": "Pomodoro Tomato",
-      "category": ["Serving life"],
+      "category": [
+        "Serving life"
+      ],
       "date_create": "2023-10-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1UvRbCAiuyT7ui2Nc-vrQN2bJRNw_o_HD",
       "dmg_file": "https://drive.google.com/uc?export=download&id=1hz-GG-YLD2maDgoG9wTHJupnSA5nKuDc",
@@ -1339,7 +1353,9 @@
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.domino",
       "apk_file": "https://drive.google.com/uc?export=download&id=1bbRhbHPd_IQGPCZtujpwkg_PzhPEL4-X",
       "app_id": "Queen dominoes",
-      "category": ["Strategy"],
+      "category": [
+        "Strategy"
+      ],
       "date_create": "2023-02-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1AFHA3ApLiawdLHgLyhrybsep6qbjUL0R",
       "dmg_file": "",
@@ -1482,7 +1498,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0D12T6ZVX/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1-TTpX6PDrypCX2EK9-Q_yJSmHLxcbKFh",
       "app_id": "Save Web offline",
-      "category": ["Programming tools"],
+      "category": [
+        "Programming tools"
+      ],
       "date_create": "2021-03-12 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1Wtkqa-TwY021QUi5RdZsXAq4MBxW81n6",
       "dmg_file": "",
@@ -1622,7 +1640,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BWR8HFGJ",
       "apk_file": "https://drive.google.com/uc?export=download&id=16iUhvSeuGoPxClsklxWPBHRNbajlQUiV",
       "app_id": "Super Recording",
-      "category": ["Serving life"],
+      "category": [
+        "Serving life"
+      ],
       "date_create": "2023-10-01 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1RQDcWfiOTg4eMPYd1aPSDZU6yvD56_OJ",
       "dmg_file": "",
@@ -1696,7 +1716,9 @@
       "amazon_app_store": "https://www.amazon.com/dp/B0BCKBLPB7/",
       "apk_file": "https://drive.google.com/uc?export=download&id=1Gf9W1GpYMT110aZC0_mBbN3Hj7C5mXZz",
       "app_id": "Taxi time meter",
-      "category": ["Serving life"],
+      "category": [
+        "Serving life"
+      ],
       "date_create": "2021-09-12 11:32:22",
       "deb_file": "https://drive.google.com/uc?export=download&id=1s9CW4LL-q0hfe5FrStSs-ImViYNomz-H",
       "dmg_file": "https://drive.google.com/uc?export=download&id=19CA_v1eXrcb3DsEGpFCgz_YVdIJhC-Lx",
@@ -1836,7 +1858,9 @@
       "amazon_app_store": "",
       "apk_file": "",
       "app_id": "UltraZip",
-      "category": ["Programming tools"],
+      "category": [
+        "Programming tools"
+      ],
       "date_create": "2025-10-08 23:26:04",
       "deb_file": "",
       "dmg_file": "",
