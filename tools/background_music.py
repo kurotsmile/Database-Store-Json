@@ -1,0 +1,1 @@
+import json;f='background_music.json';d=json.load(open(f,'r',encoding='utf-8'));[i.pop('id',None) for i in d];json.dump(d,open(f,'w',encoding='utf-8'),ensure_ascii=False,indent=4)
