@@ -1,17 +1,5 @@
 [
     {
-        "author": "lemonmusicstudio",
-        "name": "The Cradle of Your Soul",
-        "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/audio%2Faudio%2Fmpeg%2F1688733306117_audio_d0c6ff1bdd.mp3?alt=media&token=46e3b14b-185b-4edf-a4ed-f90176a296b7",
-        "buy": "0"
-    },
-    {
-        "author": "Lesfm",
-        "name": "Just Relax",
-        "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/audio%2Faudio%2Fmpeg%2F1688733346626_audio_64b2dd1bce.mp3?alt=media&token=2b159c75-0d52-4c4b-a12f-c2d13ac51c98",
-        "buy": "0"
-    },
-    {
         "mp3": "https://firebasestorage.googleapis.com/v0/b/carrotstore.appspot.com/o/audio%2Faudio%2Fmpeg%2F1688733365187_audio_e13e329328.mp3?alt=media&token=43e3a9ab-f913-4d7c-b5db-c33cc08b6141",
         "name": "Embrace",
         "buy": "0",
