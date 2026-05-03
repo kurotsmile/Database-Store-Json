@@ -1351,14 +1351,14 @@
     },
     {
       "amazon_app_store": "https://www.amazon.com/gp/mas/dl/android?p=com.carrotstore.domino",
-      "apk_file": "https://drive.google.com/uc?export=download&id=1bbRhbHPd_IQGPCZtujpwkg_PzhPEL4-X",
+      "apk_file": "https://drive.usercontent.google.com/download?id=1pBDWADhetmxEzpwYyIeAc4Tlk72x3-lm&export=download",
       "app_id": "Queen dominoes",
       "category": [
         "Strategy"
       ],
       "date_create": "2023-02-08 23:26:04",
       "deb_file": "https://drive.google.com/uc?export=download&id=1AFHA3ApLiawdLHgLyhrybsep6qbjUL0R",
-      "dmg_file": "",
+      "dmg_file": "https://drive.usercontent.google.com/download?id=1xXpFLgoIx7spKuSDZE97Ts9rrC52hP8c&export=download",
       "exe_file": "https://drive.google.com/uc?export=download&id=1e1GYcrJrkdzjhV6x7JjgJl1gkXoR1yh8",
       "github": "https://github.com/kurotsmile/Queen-dominoes",
       "google_play": "https://play.google.com/store/apps/details?id=com.carrotstore.domino",
