@@ -633,7 +633,7 @@
     },
     {
       "amazon_app_store": "https://www.amazon.com/dp/B0BQHDSX33/",
-      "apk_file": "https://drive.google.com/uc?export=download&id=1O2s4Bm0i57cUzBpLp1BoyR06yrrbI8YN",
+      "apk_file": "https://drive.usercontent.google.com/download?id=1Rc25eAek15PTXsNv03jUew0PoJeqsiUP&export=download",
       "app_id": "Fruit Shoot",
       "category": [
         "Fun games",
@@ -641,7 +641,7 @@
       ],
       "date_create": "2022-11-08 23:26:04",
       "deb_file": "",
-      "dmg_file": "",
+      "dmg_file": "https://drive.usercontent.google.com/download?id=1-H_OEiWCIWgYqfIIGJ5DF9f-hZmHZbVM&export=download",
       "exe_file": "https://drive.google.com/uc?export=download&id=1Nv_MPe1Tgk_xGzANHW_O9zinwreojzqZ",
       "github": "https://github.com/kurotsmile/Fruit-Shoot",
       "google_play": "https://play.google.com/store/apps/details?id=com.CarrotStore.FruitShoot",
